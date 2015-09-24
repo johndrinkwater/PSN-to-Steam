@@ -1,4 +1,4 @@
-PSN ⇔ Steam Games
+PSN ⇔ Steam Games [![Build Status](https://api.travis-ci.org/johndrinkwater/PSN-to-Steam.svg)](https://travis-ci.org/johndrinkwater/PSN-to-Steam)
 =========================
 This is a community‐sourced database of *Games on Steam mapped to Games on
 PSN*, maintained for a future project™.
