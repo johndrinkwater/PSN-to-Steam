@@ -105,13 +105,22 @@
 
 						} else if ( $key === 'mapping' ) {
 
-							// make robust test here
 							if ( is_array( $value ) ) {
 
 								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
+
+								// XXX: Potentially in future this check might block valid mappings, so revisit
+								$this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy"' );
+
+								// Avoid accidental mapping to same achievement
+								// TODO: Would be nice to get this to point to which
+								// XXX: Assume this is expensive to run…
+								$valuesmapped = array_diff( array_values( $value ), [ -1 ] );
+								$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping"' );
+								unset( $valuesmapped );
+
 								$maps = $value;
 								ksort( $maps, SORT_NUMERIC );
-
 								if ( $value !== $maps ) {
 									$trophyKeys = array_keys( $value );
 									$trophySortedKeys = array_keys( $maps );
