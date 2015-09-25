@@ -42,7 +42,9 @@ Next include `"mapping"`, which is a list of ordered numbers, from 1 up to an
 arbitrary length. 0 is reserved. These form a one to one representation to
 their Steam achievements, and from peeking at that data they can be numeric
 (like Binding of Isaac), prefixed-numeric (like Borderlands 2), and
-alphanumeric (like Portal 2).
+alphanumeric (like Portal 2). Direct one to one mappings are supported and to
+avoid accidents, `"mapping"` needs to be set to false to explicitly confirm
+this. That means when `"mapping"` is missing, we do not know how it maps at all.
 
 Optionally you can include a `"note"` to give extra details, preferably for the
 cases where there are unmappable details with -1 being used.

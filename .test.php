@@ -66,11 +66,12 @@
 				$this->assertTrue( 'parsing', $e->getMessage() );
 			}
 
+			// TODO make better is_ tests for mixed fields
 			$allowedKeys = Array(
 				'id'		=> 'is_set',
 				'title'		=> 'is_string',
 				'note'		=> 'is_string',
-				'mapping'	=> 'is_array'
+				'mapping'	=> 'is_set'
 			);
 
 			foreach( $games as $appID => $keys ) {
@@ -105,7 +106,14 @@
 						} else if ( $key === 'mapping' ) {
 
 							// make robust test here
-							$this->assertTrue( is_array( $value ), '"' . $key . '" is not an array"' );
+							if ( is_array( $value ) ) {
+
+								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty field' );
+							} else {
+
+								// for direct mappings, we use "mapping": false
+								$this->assertTrue( $value === false, '"' . $key . '" is not an array, or set to false"' );
+							}
 						}
 					}
 				} else {

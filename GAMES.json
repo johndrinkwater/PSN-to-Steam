@@ -214,7 +214,9 @@
 	},
 	"319630":{
 		"id":["NPWR07875_00","NPWR07927_00"],
-		"title":"Life Is Strange™"
+		"title":"Life Is Strange™",
+		"mapping": false,
+		"note": "mapping is 1:1, all 60 are covered"
 	},
 	"330840":{
 		"id":["NPWR07881_00","NPWR07882_00"],
