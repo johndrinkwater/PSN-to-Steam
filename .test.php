@@ -91,24 +91,45 @@
 
 							if ( is_array( $value ) ) {
 
-								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty field' );
+								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty array' );
 								foreach( $value as $npcommid ) {
-									$this->assertTrue( is_npcommid( $npcommid ), $npcommid . ' field in "' . $key . '" should only be a string' );
+									$this->assertTrue( is_npcommid( $npcommid ), $npcommid . ' field in "' . $key . '" in "' . $appID . '" must be a string' );
 								}
 							} else {
-								$this->assertTrue( is_npcommid( $value ), $key . ' key in "' . $appID . '" should only be a string' );
+								$this->assertTrue( is_npcommid( $value ), $key . ' key in "' . $appID . '" must be a string' );
 							}
 
 						} else if ( $key === 'note' ) {
 
-							$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty string' );
+							$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty string' );
 
 						} else if ( $key === 'mapping' ) {
 
 							// make robust test here
 							if ( is_array( $value ) ) {
 
-								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty field' );
+								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
+								$maps = $value;
+								ksort( $maps, SORT_NUMERIC );
+
+								if ( $value !== $maps ) {
+									$trophyKeys = array_keys( $value );
+									$trophySortedKeys = array_keys( $maps );
+									$cachedCount = count( $trophyKeys );
+									unset( $maps, $value );
+
+									for( $i = 0; $i < $cachedCount; ++$i ) {
+
+										$message = '';
+										if ( $trophyKeys[ $i ] !== $trophySortedKeys[ $i ] ) {
+
+											$where = array_search( $trophyKeys[ $i ], $trophySortedKeys ) - array_search( $trophySortedKeys[ $i ], $trophyKeys );
+											$message = $where > 0 ? $trophyKeys[ $i ] . '" is far too early' : ( $where == 0 ? $trophyKeys[ $i ] . '" is on an adjacent line' : $trophySortedKeys[ $i ] . '" is far too late' );
+										}
+										$this->assertEquals( $trophyKeys[ $i ], $trophySortedKeys[ $i ], 'Mapping must be sorted by trophyid, "' . $message );
+									}
+								}
+
 							} else {
 
 								// for direct mappings, we use "mapping": false
