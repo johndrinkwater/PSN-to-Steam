@@ -110,13 +110,13 @@
 								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
 
 								// XXX: Potentially in future this check might block valid mappings, so revisit
-								$this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy"' );
+								$this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
 
 								// Avoid accidental mapping to same achievement
 								// TODO: Would be nice to get this to point to which
 								// XXX: Assume this is expensive to run…
 								$valuesmapped = array_diff( array_values( $value ), [ -1 ] );
-								$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping"' );
+								$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping' );
 								unset( $valuesmapped );
 
 								$maps = $value;
@@ -139,10 +139,13 @@
 									}
 								}
 
+							} else if ( is_string( $value ) ) {
+
+								$this->assertContains( '%d', $value, '"' . $key . '" is not a valid mapping string' );
 							} else {
 
 								// for direct mappings, we use "mapping": false
-								$this->assertTrue( $value === false, '"' . $key . '" is not an array, or set to false"' );
+								$this->assertTrue( $value === false, '"' . $key . '" is not a valid value' );
 							}
 						}
 					}

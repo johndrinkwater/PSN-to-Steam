@@ -1,5 +1,4 @@
 * Support duplicate appids (Dishonored is a great example here)
-* Support %d mapping, to reduce amount of cruft we store
-	* And part of that involves storing the first offset to begin with
-* Support ‘Trophy Packs’ / Steam DLC mapping
+* Support %d mapping with an offset to further reduce cruft (Dishonored)
+* Support ‘Trophy Packs’ / Steam DLC mapping (Borderlands 2)
 * Support named trophies, like we get back from Sony’s backend, making the mapping more robust
