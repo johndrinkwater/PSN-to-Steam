@@ -109,8 +109,8 @@
 
 								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
 
-								// XXX: Potentially in future this check might block valid mappings, so revisit
-								$this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
+								// XXX: Found the first title that mapped Platinum to a Steam achievement, Trine!
+								// $this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
 
 								// Avoid accidental mapping to same achievement
 								// TODO: Would be nice to get this to point to which
