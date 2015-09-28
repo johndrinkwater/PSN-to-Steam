@@ -316,5 +316,9 @@
 			"58":"84"
 		},
 		"note":"Not just order differences, some adjustments for less stats. For example, 37 will trigger for any baby, but the mapped values are for specific babies. In theory, if you were working the other way, you could compute that yes, this value could be set. But not the inverse."
+	},
+	"NPWR08727_00":{
+		"duplicate":"NPWR01767_00",
+		"title":"Dishonored Definitive Edition"
 	}
 }
