@@ -23,43 +23,79 @@ numerically by Steam appid.
 
 ```json
 {
-	"600" : {
-		"id": "NPWR01719_00",
-		"title": "Portal 2",
-		"mapping": {
-			"1":  "ACH.SURVIVE_CONTAINER_RIDE",
+	"NPWR01719_00":{
+		"appid":600,
+		"title":"Portal 2",
+		"mapping":{
+			"1":"ACH.SURVIVE_CONTAINER_RIDE",
 			…
+		}
+	}
 	…
 }
 ```
 
 This example is describing the game Portal 2 (as seen in `"title"`, which is
-optional), opening with the steam appid of 600, quoted as one does in json.
-Inside this data field, you MUST include an `"id"` which maps to a Sony
-NP_Title_ID.
+optional), opening with the PSN ID of `"NPWR01719_00"` quoted as one does in json.
+Inside this data field, you SHOULD include an `"appid"` which maps to a Steam
+appid, unless this is a duplicate and then you MUST include `"duplicate"`
+pointing to the fully described PSN ID mapping of this game.
 
-Next include `"mapping"`, which is a list of ordered numbers, from 1 up to an
-arbitrary length. 0 is reserved. These form a one to one representation to
-their Steam achievements, and from peeking at that data they can be numeric
-(like Binding of Isaac), prefixed-numeric (like Borderlands 2), and
-alphanumeric (like Portal 2). Direct one to one mappings are supported and to
-avoid accidents, `"mapping"` needs to be set to false to explicitly confirm
-this. That means when `"mapping"` is missing, we do not know how it maps at all.
+Next include `"mapping"`, which is a list of ordered numbers of an arbitrary
+length. These form a one to one representation to their Steam achievements, and
+from peeking at that data they can be numeric (like Binding of Isaac),
+prefixed-numeric (like Borderlands 2), and alphanumeric (like Portal 2). Direct
+one to one mappings are supported and to avoid accidents, `"mapping"` needs to
+be set to false to explicitly confirm this. That means when `"mapping"` is
+missing, we do not know how it maps at all. Where the developers have usefully
+picked `NAME_trophyid` for their Steam achievements, you should set
+`"mapping":"NAME_%d"`
 
 Optionally you can include a `"note"` to give extra details, preferably for the
 cases where there are unmappable details with -1 being used.
 
-**Example**
+**Multiple PSN IDs**
+
+To cover the case of multiple PSN IDs mapping onto a singular appid, you create
+a new entry and use `"duplicate"` to map to a fully defined mapping.
 
 ```json
 	…
-	"319630" : {
-		"id": [ "NPWR07875_00", "NPWR07927_00" ],
-		"title": "Life Is Strange™"
-	…
+	"NPWR02081_00":{
+		"appid":48000,
+		"title":"Limbo",
+		"mapping":"ACH_%d"
+	},
+	"NPWR04612_00":{
+		"duplicate":"NPWR02081_00"
+	}
 ```
 
-This example shows a common issue on PSN with titles having multiple `"id"`s, in this case you should make this field a list.
+**Name changes**
+
+In the case where the game has a different name (great example being Dishonored
+and Dishonored Definitive Edition, you may include `"title"` in the secondary
+definition.
+
+```json
+	…
+	"NPWR08727_00":{
+		"duplicate":"NPWR01767_00",
+		"title":"Dishonored Definitive Edition"
+	}
+```
+
+**Multiple Steam appids**
+
+This example shows a common issue on Steam with titles having multiple
+`appid`s, in this case you should make this field a list.
+
+```json
+	…
+	"NPWR01767_00":{
+		"appid":[205100,219460,217980],
+		"title":"Dishonored",
+```
 
 
 Commit titles should include `%game% (%appid%)` along with your preferred
