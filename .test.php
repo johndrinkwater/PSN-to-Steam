@@ -8,6 +8,10 @@
 	}
 
 	function is_npcommid( $variable ) {
+		/*
+		* test "_[0-9]{2}$"
+		* test 4 alpha
+		*/
 		return is_string( $variable );
 	}
 
@@ -47,6 +51,7 @@
 
 			$games = trim( $games );
 
+			// add a blank line test to give better errors
 			$this->assertNotRegExp( '/\s$/m', $games, 'End of line whitespace found, fix it' );
 			$this->assertNotRegExp( '/^$/m', $games, 'Empty line found, fix it' );
 
@@ -68,15 +73,16 @@
 
 			// TODO make better is_ tests for mixed fields
 			$allowedKeys = Array(
-				'id'		=> 'is_set',
+				'appid'		=> 'is_set',
 				'title'		=> 'is_string',
+				'duplicate'	=> 'is_npcommid',
 				'note'		=> 'is_string',
 				'mapping'	=> 'is_set'
 			);
 
 			foreach( $games as $appID => $keys ) {
 
-				$this->assertTrue( is_numeric( $appID ), 'Key "' . $appID . '" must be numeric' );
+				$this->assertTrue( is_npcommid( $appID ), 'Key "' . $appID . '" must be a Sony game ID' );
 
 				if ( is_array( $keys ) ) {
 
@@ -87,16 +93,16 @@
 						$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" in "' . $appID . '"' );
 						$this->assertTrue( $allowedKeys[ $key ]( $value ), '"' . $key . '" in "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
 
-						if ( $key === 'id' ) {
+						if ( $key === 'appid' ) {
 
 							if ( is_array( $value ) ) {
 
 								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty array' );
-								foreach( $value as $npcommid ) {
-									$this->assertTrue( is_npcommid( $npcommid ), $npcommid . ' field in "' . $key . '" in "' . $appID . '" must be a string' );
+								foreach( $value as $steamappid ) {
+									$this->assertTrue( is_integer( $steamappid ), $steamappid . ' field in "' . $key . '" in "' . $appID . '" must be a Steam appid' );
 								}
 							} else {
-								$this->assertTrue( is_npcommid( $value ), $key . ' key in "' . $appID . '" must be a string' );
+								$this->assertTrue( is_integer( $value ), $key . ' key in "' . $appID . '" must be a Steam appid' );
 							}
 
 						} else if ( $key === 'note' ) {

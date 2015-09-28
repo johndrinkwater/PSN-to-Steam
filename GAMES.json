@@ -1,6 +1,55 @@
 {
-	"600":{
-		"id":"NPWR01719_00",
+	"NPWR00132_00":{
+		"appid":12210,
+		"title":"GTA IV"
+	},
+	"NPWR00805_00":{
+		"appid":35700,
+		"title":"Trine",
+		"mapping":{
+			"0":"all_complete",
+			"1":"complete_tutorial_level",
+			"2":"collect_shards_tutorial1",
+			"3":"collect_shards_castle1",
+			"4":"collect_shards_courtyard1",
+			"5":"collect_shards_cemetery1",
+			"6":"collect_shards_crypt1",
+			"7":"collect_shards_darkcrypt1",
+			"8":"collect_shards_castle2",
+			"9":"collect_shards_castle3",
+			"10":"collect_shards_forest1",
+			"11":"collect_shards_darkforest1",
+			"12":"collect_shards_forest2",
+			"13":"collect_shards_mines1",
+			"14":"collect_shards_village1",
+			"15":"collect_shards_castle5",
+			"16":"collect_shards_bossarea",
+			"17":"collect_shards_all",
+			"18":"complete_boss_level",
+			"19":"complete_game_in_very_hard",
+			"20":"find_all_secrets",
+			"21":"complete_level_no_damage",
+			"22":"complete_level_many_deaths",
+			"23":"-1",
+			"24":"-1",
+			"25":"build_tower",
+			"26":"-1",
+			"27":"throw_kill_combo",
+			"28":"create_many_objects",
+			"29":"complete_boss_level_without_deaths_in_very_hard",
+			"30":"-1",
+			"31":"complete_level_no_kills",
+			"32":"kill_with_many_styles"
+		},
+		"note":"create_many_objects and throw_kill_combo have different requirements across platforms, but are still the same intent so OK mapping them. From Steam: enchanted, present, skeleton_jumping, pro_diving, and from PSN: Tripleshot, Whackwhackwhack, Master Ninja, Footskull Fan have no comparable match."
+	},
+	"NPWR01537_00":{
+		"appid":49520,
+		"title":"Borderlands 2",
+		"mapping":"Achievement_%d"
+	},
+	"NPWR01719_00":{
+		"appid":600,
 		"title":"Portal 2",
 		"mapping":{
 			"1":"ACH.SURVIVE_CONTAINER_RIDE",
@@ -56,62 +105,8 @@
 		},
 		"note":"ACH.SUMMER_SALE was not part of the original trophies"
 	},
-	"12210":{
-		"id":"NPWR00132_00",
-		"title":"GTA IV"
-	},
-	"35700":{
-		"id":"NPWR00805_00",
-		"title":"Trine",
-		"mapping":{
-			"0":"all_complete",
-			"1":"complete_tutorial_level",
-			"2":"collect_shards_tutorial1",
-			"3":"collect_shards_castle1",
-			"4":"collect_shards_courtyard1",
-			"5":"collect_shards_cemetery1",
-			"6":"collect_shards_crypt1",
-			"7":"collect_shards_darkcrypt1",
-			"8":"collect_shards_castle2",
-			"9":"collect_shards_castle3",
-			"10":"collect_shards_forest1",
-			"11":"collect_shards_darkforest1",
-			"12":"collect_shards_forest2",
-			"13":"collect_shards_mines1",
-			"14":"collect_shards_village1",
-			"15":"collect_shards_castle5",
-			"16":"collect_shards_bossarea",
-			"17":"collect_shards_all",
-			"18":"complete_boss_level",
-			"19":"complete_game_in_very_hard",
-			"20":"find_all_secrets",
-			"21":"complete_level_no_damage",
-			"22":"complete_level_many_deaths",
-			"23":"-1",
-			"24":"-1",
-			"25":"build_tower",
-			"26":"-1",
-			"27":"throw_kill_combo",
-			"28":"create_many_objects",
-			"29":"complete_boss_level_without_deaths_in_very_hard",
-			"30":"-1",
-			"31":"complete_level_no_kills",
-			"32":"kill_with_many_styles"
-		},
-		"note":"create_many_objects and throw_kill_combo have different requirements across platforms, but are still the same intent so OK mapping them. From Steam: enchanted, present, skeleton_jumping, pro_diving, and from PSN: Tripleshot, Whackwhackwhack, Master Ninja, Footskull Fan have no comparable match."
-	},
-	"48000":{
-		"id":["NPWR02081_00","NPWR04612_00"],
-		"title": "Limbo",
-		"mapping":"ACH_%d"
-	},
-	"49520":{
-		"id":"NPWR01537_00",
-		"title":"Borderlands 2",
-		"mapping":"Achievement_%d"
-	},
-	"205100":{
-		"id":"NPWR01767_00",
+	"NPWR01767_00":{
+		"appid":[205100,219460,217980],
 		"title":"Dishonored",
 		"mapping":{
 			"1":"Achievement_0",
@@ -165,18 +160,100 @@
 			"49":"Achievement_48",
 			"50":"Achievement_49"
 		},
-		"note": "219460 is the Press Edition, 217980 the Russian Edition"
+		"note":"219460 is the Press Edition, 217980 the Russian Edition"
 	},
-	"208730":{
-		"id":["NPWR03138_00","NPWR03221_00"],
+	"NPWR02081_00":{
+		"appid":48000,
+		"title":"Limbo",
+		"mapping":"ACH_%d"
+	},
+	"NPWR03138_00":{
+		"appid":208730,
 		"title":"Game of Thrones trophies"
 	},
-	"208750":{
-		"id":"NPWR07842_00",
+	"NPWR03221_00":{
+		"duplicate":"NPWR03138_00"
+	},
+	"NPWR04612_00":{
+		"duplicate":"NPWR02081_00"
+	},
+	"NPWR07842_00":{
+		"appid":208750,
 		"title":"Apotheon"
 	},
-	"250900":{
-		"id":"NPWR08041_00",
+	"NPWR07846_00":{
+		"appid":295790,
+		"title":"Never Alone"
+	},
+	"NPWR07875_00":{
+		"appid":319630,
+		"title":"Life Is Strange™",
+		"mapping":false,
+		"note":"mapping is 1:1, all 60 are covered"
+	},
+	"NPWR07881_00":{
+		"appid":330840,
+		"title":"Game of Thrones",
+		"mapping":{
+			"1":"ACHIEVEMENT_1_1",
+			"2":"ACHIEVEMENT_1_2",
+			"3":"ACHIEVEMENT_1_3",
+			"4":"ACHIEVEMENT_1_4",
+			"5":"ACHIEVEMENT_1_5",
+			"6":"ACHIEVEMENT_1_6",
+			"7":"ACHIEVEMENT_1_7",
+			"8":"ACHIEVEMENT_1_8",
+			"9":"ACHIEVEMENT_2_1",
+			"10":"ACHIEVEMENT_2_2",
+			"11":"ACHIEVEMENT_2_3",
+			"12":"ACHIEVEMENT_2_4",
+			"13":"ACHIEVEMENT_2_5",
+			"14":"ACHIEVEMENT_2_6",
+			"15":"ACHIEVEMENT_2_7",
+			"16":"ACHIEVEMENT_2_8",
+			"17":"ACHIEVEMENT_3_1",
+			"18":"ACHIEVEMENT_3_2",
+			"19":"ACHIEVEMENT_3_3",
+			"20":"ACHIEVEMENT_3_4",
+			"21":"ACHIEVEMENT_3_5",
+			"22":"ACHIEVEMENT_3_6",
+			"23":"ACHIEVEMENT_3_7",
+			"24":"ACHIEVEMENT_3_8",
+			"25":"ACHIEVEMENT_4_1",
+			"26":"ACHIEVEMENT_4_2",
+			"27":"ACHIEVEMENT_4_3",
+			"28":"ACHIEVEMENT_4_4",
+			"29":"ACHIEVEMENT_4_5",
+			"30":"ACHIEVEMENT_4_6",
+			"31":"ACHIEVEMENT_4_7",
+			"32":"ACHIEVEMENT_4_8",
+			"33":"ACHIEVEMENT_5_1",
+			"34":"ACHIEVEMENT_5_2",
+			"35":"ACHIEVEMENT_5_3",
+			"36":"ACHIEVEMENT_5_4",
+			"37":"ACHIEVEMENT_5_5",
+			"38":"ACHIEVEMENT_5_6",
+			"39":"ACHIEVEMENT_5_7",
+			"40":"ACHIEVEMENT_5_8",
+			"41":"ACHIEVEMENT_6_1",
+			"42":"ACHIEVEMENT_6_2",
+			"43":"ACHIEVEMENT_6_3",
+			"44":"ACHIEVEMENT_6_4",
+			"45":"ACHIEVEMENT_6_5",
+			"46":"ACHIEVEMENT_6_6",
+			"47":"ACHIEVEMENT_6_7",
+			"48":"ACHIEVEMENT_6_8"
+		},
+		"note":"Steam achievements do not exist yet for Episode 6 (ACHIEVEMENT_6_*), so these are assumptions that they follow the same scheme"
+	},
+	"NPWR07882_00":{
+		"duplicate":"NPWR07881_00"
+	},
+	"NPWR07927_00":{
+		"duplicate":"NPWR07875_00"
+	},
+	"NPWR08041_00":{
+		"appid":250900,
 		"title":"The Binding of Isaac: Rebirth",
 		"mapping":{
 			"1":"106",
@@ -239,70 +316,5 @@
 			"58":"84"
 		},
 		"note":"Not just order differences, some adjustments for less stats. For example, 37 will trigger for any baby, but the mapped values are for specific babies. In theory, if you were working the other way, you could compute that yes, this value could be set. But not the inverse."
-	},
-	"295790":{
-		"id":"NPWR07846_00",
-		"title":"Never Alone"
-	},
-	"319630":{
-		"id":["NPWR07875_00","NPWR07927_00"],
-		"title":"Life Is Strange™",
-		"mapping": false,
-		"note": "mapping is 1:1, all 60 are covered"
-	},
-	"330840":{
-		"id":["NPWR07881_00","NPWR07882_00"],
-		"title":"Game of Thrones",
-		"mapping":{
-			"1":"ACHIEVEMENT_1_1",
-			"2":"ACHIEVEMENT_1_2",
-			"3":"ACHIEVEMENT_1_3",
-			"4":"ACHIEVEMENT_1_4",
-			"5":"ACHIEVEMENT_1_5",
-			"6":"ACHIEVEMENT_1_6",
-			"7":"ACHIEVEMENT_1_7",
-			"8":"ACHIEVEMENT_1_8",
-			"9":"ACHIEVEMENT_2_1",
-			"10":"ACHIEVEMENT_2_2",
-			"11":"ACHIEVEMENT_2_3",
-			"12":"ACHIEVEMENT_2_4",
-			"13":"ACHIEVEMENT_2_5",
-			"14":"ACHIEVEMENT_2_6",
-			"15":"ACHIEVEMENT_2_7",
-			"16":"ACHIEVEMENT_2_8",
-			"17":"ACHIEVEMENT_3_1",
-			"18":"ACHIEVEMENT_3_2",
-			"19":"ACHIEVEMENT_3_3",
-			"20":"ACHIEVEMENT_3_4",
-			"21":"ACHIEVEMENT_3_5",
-			"22":"ACHIEVEMENT_3_6",
-			"23":"ACHIEVEMENT_3_7",
-			"24":"ACHIEVEMENT_3_8",
-			"25":"ACHIEVEMENT_4_1",
-			"26":"ACHIEVEMENT_4_2",
-			"27":"ACHIEVEMENT_4_3",
-			"28":"ACHIEVEMENT_4_4",
-			"29":"ACHIEVEMENT_4_5",
-			"30":"ACHIEVEMENT_4_6",
-			"31":"ACHIEVEMENT_4_7",
-			"32":"ACHIEVEMENT_4_8",
-			"33":"ACHIEVEMENT_5_1",
-			"34":"ACHIEVEMENT_5_2",
-			"35":"ACHIEVEMENT_5_3",
-			"36":"ACHIEVEMENT_5_4",
-			"37":"ACHIEVEMENT_5_5",
-			"38":"ACHIEVEMENT_5_6",
-			"39":"ACHIEVEMENT_5_7",
-			"40":"ACHIEVEMENT_5_8",
-			"41":"ACHIEVEMENT_6_1",
-			"42":"ACHIEVEMENT_6_2",
-			"43":"ACHIEVEMENT_6_3",
-			"44":"ACHIEVEMENT_6_4",
-			"45":"ACHIEVEMENT_6_5",
-			"46":"ACHIEVEMENT_6_6",
-			"47":"ACHIEVEMENT_6_7",
-			"48":"ACHIEVEMENT_6_8"
-		},
-		"note": "Steam achievements do not exist yet for Episode 6 (ACHIEVEMENT_6_*), so these are assumptions that they follow the same scheme"
 	}
 }
