@@ -22,17 +22,14 @@ numerically by Steam appid.
 **Example**
 
 ```json
-{
+	…
 	"NPWR01719_00":{
 		"appid":600,
 		"title":"Portal 2",
 		"mapping":{
-			"1":"ACH.SURVIVE_CONTAINER_RIDE",
-			…
+			"1":"ACH.SURVIVE_CONTAINER_RIDE"
 		}
 	}
-	…
-}
 ```
 
 This example is describing the game Portal 2 (as seen in `"title"`, which is
