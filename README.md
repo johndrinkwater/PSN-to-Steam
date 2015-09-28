@@ -17,7 +17,7 @@ Follow the format below, cite sources, etc.
 
 When editing the `GAMES.json` file, remember to follow the format with **tabs
 as indentation**, not spaces.  Keep in mind that the list must be sorted
-numerically by Steam appid.
+numerically by Sony PSN ID.
 
 **Example**
 
