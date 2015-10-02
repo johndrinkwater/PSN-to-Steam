@@ -177,6 +177,26 @@
 	"NPWR04612_00":{
 		"duplicate":"NPWR02081_00"
 	},
+	"NPWR06736_00":{
+		"appid":253030,
+		"title":"Race The Sun",
+		"mapping":{
+			"0":"SPARROW",
+			"1":"SWALLOW",
+			"2":"NIGHTHAWK",
+			"3":"FALCON",
+			"4":"EAGLE",
+			"5":"BISHOP",
+			"6":"KNIGHT",
+			"7":"KING",
+			"8":"METEOROID",
+			"9":"LINDBERGH",
+			"10":"YEAGER",
+			"11":"WRIGHT",
+			"12":"CIRRUS"
+		},
+		"note":"Plenty of unmapped Steam achievements, as the Sunrise DLC has not hit PSN yet"
+	},
 	"NPWR07842_00":{
 		"appid":208750,
 		"title":"Apotheon"
