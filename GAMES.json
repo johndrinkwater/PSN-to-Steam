@@ -43,6 +43,26 @@
 		},
 		"note":"create_many_objects and throw_kill_combo have different requirements across platforms, but are still the same intent so OK mapping them. From Steam: enchanted, present, skeleton_jumping, pro_diving, and from PSN: Tripleshot, Whackwhackwhack, Master Ninja, Footskull Fan have no comparable match."
 	},
+	"NPWR01104_00":{
+		"appid":31220,
+		"title":"Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone"
+	},
+	"NPWR01220_00":{
+		"appid":31230,
+		"title":"Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak"
+	},
+	"NPWR01221_00":{
+		"appid":31240,
+		"title":"Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!"
+	},
+	"NPWR01222_00":{
+		"appid":31250,
+		"title":"Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls"
+	},
+	"NPWR01223_00":{
+		"appid":31260,
+		"title":"Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep"
+	},
 	"NPWR01537_00":{
 		"appid":49520,
 		"title":"Borderlands 2",

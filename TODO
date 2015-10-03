@@ -2,3 +2,4 @@
 * Support %d mapping with an offset to further reduce cruft (Dishonored)
 * Support ‘Trophy Packs’ / Steam DLC mapping (Borderlands 2)
 * Support named trophies, like we get back from Sony’s backend, making the mapping more robust
+* Support games without trophies or achievements, as we only track explicit, implicit and unknown mappings, not NO mappings.
