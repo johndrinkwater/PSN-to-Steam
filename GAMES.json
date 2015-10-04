@@ -125,6 +125,25 @@
 		},
 		"note":"ACH.SUMMER_SALE was not part of the original trophies"
 	},
+	"NPWR01721_00":{
+		"appid":204140,
+		"title":"All Zombies Must Die!",
+		"mapping":{
+			"0":"Achievement_KillAZombie",
+			"1":"Achievement_LegionOfZombies",
+			"2":"Achievement_FistOfFury",
+			"3":"Achievement_CantTouchThis",
+			"4":"Achievement_WatchThis",
+			"5":"Achievement_MasterCraftsman",
+			"6":"Achievement_BackWithTheX",
+			"7":"Achievement_BigBrainBrian",
+			"8":"Achievement_ThoughtThisWasZombie",
+			"9":"Achievement_GettingToKnow",
+			"10":"Achievement_TouchBase",
+			"11":"Achievement_TheCollector"
+		},
+		"note":"Currently removed from Steam store"
+	},
 	"NPWR01767_00":{
 		"appid":[205100,219460,217980],
 		"title":"Dishonored",
