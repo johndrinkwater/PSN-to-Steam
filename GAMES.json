@@ -253,6 +253,11 @@
 		},
 		"note":"TODO: Trophies 35-40 are part of the DLC, and have been mapped to the correct Steam achievements."
 	},
+	"NPWR02631_00":{
+		"appid":72850,
+		"title":"Skyrim",
+		"mapping":"NEW_ACHIEVEMENT_%d_0"
+	},
 	"NPWR03138_00":{
 		"appid":208730,
 		"title":"Game of Thrones trophies"
