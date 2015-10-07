@@ -258,6 +258,11 @@
 		"title":"Skyrim",
 		"mapping":"NEW_ACHIEVEMENT_%d_0"
 	},
+	"NPWR03002_00":{
+		"appid":206370,
+		"title":"Tales from Space: Mutant Blobs Attack",
+		"mapping":"EAwards_%d"
+	},
 	"NPWR03138_00":{
 		"appid":208730,
 		"title":"Game of Thrones trophies"
@@ -317,6 +322,10 @@
 			"43":"how_do_you_like_me_now"
 		},
 		"note":"It seems OVERKILL made a mistake on Steam (accidentally swapping would_you_like_your_receipt & armed_to_the_teeth), so that is why the order is swapped here too. As in, it matters how it is mapped on the front end, rather than the backend."
+	},
+	"NPWR05073_00":{
+		"duplicate":"NPWR03002_00",
+		"title":"Tales from Space: Mutant Blobs Attack"
 	},
 	"NPWR06736_00":{
 		"appid":253030,
