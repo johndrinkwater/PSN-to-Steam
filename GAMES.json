@@ -201,6 +201,26 @@
 		},
 		"note":"219460 is the Press Edition, 217980 the Russian Edition"
 	},
+	"NPWR02044_00":{
+		"appid":[35720,202110],
+		"title":"Trine 2",
+		"mapping":{
+			"0":"platinum",
+			"1":"surf",
+			"2":"hazard",
+			"3":"solo",
+			"4":"cami",
+			"5":"shatter",
+			"6":"hammer",
+			"7":"friendly_fire",
+			"8":"bounce",
+			"9":"arrow",
+			"10":"tower",
+			"11":"rope",
+			"12":"bubble"
+		},
+		"note":"Trine 2 {PS3 Edition}"
+	},
 	"NPWR02081_00":{
 		"appid":48000,
 		"title":"Limbo",
