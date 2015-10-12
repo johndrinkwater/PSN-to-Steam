@@ -63,6 +63,12 @@
 		"appid":31260,
 		"title":"Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep"
 	},
+	"NPWR01478_00":{
+		"appid":8870,
+		"title":"BioShock Infinite",
+		"mapping":"Achievement_%d",
+		"note":"DLC achievements are in the ACHIEVEMENT_%d range. whelp."
+	},
 	"NPWR01537_00":{
 		"appid":49520,
 		"title":"Borderlands 2",
