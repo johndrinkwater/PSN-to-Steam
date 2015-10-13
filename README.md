@@ -42,11 +42,13 @@ Next include `"mapping"`, which is a list of ordered numbers of an arbitrary
 length. These form a one to one representation to their Steam achievements, and
 from peeking at that data they can be numeric (like Binding of Isaac),
 prefixed-numeric (like Borderlands 2), and alphanumeric (like Portal 2). Direct
-one to one mappings are supported and to avoid accidents, `"mapping"` needs to
-be set to false to explicitly confirm this. That means when `"mapping"` is
-missing, we do not know how it maps at all. Where the developers have usefully
-picked `NAME_trophyid` for their Steam achievements, you should set
-`"mapping":"NAME_%d"`
+one to one mappings are supported where the developers have usefully picked
+`NAME_trophyid` for their Steam achievements, for those cases you should set
+`"mapping":"NAME_%d"`.
+
+That means when `"mapping"` is missing, we do not know how it maps at all yet.
+And for cases where there is no mapping, set the field to false
+`"mapping":false`.
 
 Optionally you can include a `"note"` to give extra details, preferably for the
 cases where there are unmappable details with -1 being used.

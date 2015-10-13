@@ -151,6 +151,7 @@
 							} else {
 
 								// for direct mappings, we use "mapping": false
+								// XXX rework this to confirm NO mapping exists
 								$this->assertTrue( $value === false, '"' . $key . '" is not a valid value' );
 							}
 						}

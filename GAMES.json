@@ -3,6 +3,16 @@
 		"appid":12210,
 		"title":"GTA IV"
 	},
+	"NPWR00352_00":{
+		"appid":7670,
+		"title":"BioShock",
+		"mapping":false,
+		"note":"Steam has no gaems^Wachievements… yet?"
+	},
+	"NPWR00607_00":{
+		"duplicate":"NPWR00352_00",
+		"title":"BioShock"
+	},
 	"NPWR00805_00":{
 		"appid":35700,
 		"title":"Trine",
