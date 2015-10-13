@@ -551,7 +551,7 @@
 	"NPWR07875_00":{
 		"appid":319630,
 		"title":"Life Is Strange™",
-		"mapping":false,
+		"mapping":"AC_%d",
 		"note":"mapping is 1:1, all 60 are covered"
 	},
 	"NPWR07881_00":{
