@@ -1,7 +1,8 @@
 {
 	"NPWR00132_00":{
-		"appid":12210,
-		"title":"GTA IV"
+		"appid":[12210,200690],
+		"title":"GTA IV",
+		"mapping":false
 	},
 	"NPWR00352_00":{
 		"appid":7670,
