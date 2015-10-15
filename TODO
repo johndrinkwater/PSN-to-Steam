@@ -1,5 +1,4 @@
-* Support duplicate appids (Dishonored is a great example here)
-* Support %d mapping with an offset to further reduce cruft (Dishonored)
 * Support ‘Trophy Packs’ / Steam DLC mapping (Borderlands 2, PAYDAY, Skyrim)
 * Support named trophies, like we get back from Sony’s backend, making the mapping more robust
-* Support games without trophies or achievements, as we only track explicit, implicit and unknown mappings, not NO mappings.
+* Support offset mappings for titles like Dishonoured and GTA V where they are zero-indexed on Steam
+* Support default mapping/offsets with additional overrides for the cases like GTA V where it is a linear mapping but for one trophy (it seems on their back-end, ACH50 is flagged for the platinum?) like ACH51
