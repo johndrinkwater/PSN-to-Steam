@@ -10,6 +10,11 @@
 		"mapping":false,
 		"note":"Steam has no gaems^Wachievements… yet?"
 	},
+	"NPWR00374_00":{
+		"appid":19980,
+		"title":"Prince of Persia",
+		"mapping":false
+	},
 	"NPWR00607_00":{
 		"duplicate":"NPWR00352_00",
 		"title":"BioShock"
