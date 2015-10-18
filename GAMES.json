@@ -875,5 +875,35 @@
 	"NPWR08727_00":{
 		"duplicate":"NPWR01767_00",
 		"title":"Dishonored Definitive Edition"
+	},
+	"NPWR09730_00":{
+		"appid":40800,
+		"title":"Super Meat Boy",
+		"mapping":{
+			"1":"ACH_WARP_1",
+			"2":"ACH_WARP_5",
+			"3":"ACH_CHAR_CV",
+			"4":"ACH_CHAR_NAIJA",
+			"5":"ACH_THEEND",
+			"6":"ACH_THEREALEND",
+			"7":"ACH_CH7LIGHT",
+			"8":"ACH_CHAR_KID",
+			"9":"ACH_100%",
+			"10":"ACH_IRONMAN_FOREST",
+			"11":"ACH_IRONMAN_DARKFOREST",
+			"12":"ACH_IRONMAN_HOSPITAL",
+			"13":"ACH_IRONMAN_DARKHOSPITAL",
+			"14":"ACH_IRONMAN_SALTFACTORY",
+			"15":"ACH_IRONMAN_DARKFACTORY",
+			"16":"ACH_IRONMAN_HELL",
+			"17":"ACH_IRONMAN_DARKHELL",
+			"18":"ACH_IRONMAN_RAPTURE",
+			"19":"ACH_IRONMAN_DARKRAPTURE",
+			"20":"ACH_IRONMAN_COTTONALLEY",
+			"21":"ACH_IRONMAN_DARKCOTTONALLEY",
+			"22":"ACH_WARP_10",
+			"23":"ACH_WARP_20"
+		},
+		"note":"While some achievements do not have the same naming and description as trophies, taken them to meet the same requirements, eg Business Time is the same as I Smell something Fishy… for 50 bandages attainment"
 	}
 }
