@@ -155,6 +155,12 @@
 		"appid":31260,
 		"title":"Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep"
 	},
+	"NPWR01460_00":{
+		"appid":[22380,22490,72720],
+		"title":"Fallout: New Vegas",
+		"mapping":"A%d",
+		"note":"22449 & 206540 are ignorable appids, and 72720 is the beta test (and only contains DLC Trophy Pack 1 achievements, lol what)"
+	},
 	"NPWR01478_00":{
 		"appid":8870,
 		"title":"BioShock Infinite",
