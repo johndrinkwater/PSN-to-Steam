@@ -19,6 +19,11 @@
 		"title":"Prince of Persia",
 		"mapping":false
 	},
+	"NPWR00603_00":{
+		"appid":[22300,22370],
+		"title":"Fallout 3",
+		"mapping":false
+	},
 	"NPWR00607_00":{
 		"duplicate":"NPWR00352_00",
 		"title":"BioShock"
