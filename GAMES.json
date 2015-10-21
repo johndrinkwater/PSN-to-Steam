@@ -452,6 +452,11 @@
 	"NPWR03221_00":{
 		"duplicate":"NPWR03138_00"
 	},
+	"NPWR03814_00":{
+		"appid":228300,
+		"title":"Remember Me™",
+		"mapping":"Achievement_%d"
+	},
 	"NPWR03885_00":{
 		"appid":271590,
 		"title":"Grand Theft Auto V",
