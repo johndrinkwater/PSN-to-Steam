@@ -183,6 +183,12 @@
 		},
 		"note":"create_many_objects and throw_kill_combo have different requirements across platforms, but are still the same intent so OK mapping them. From Steam: enchanted, present, skeleton_jumping, pro_diving, and from PSN: Tripleshot, Whackwhackwhack, Master Ninja, Footskull Fan have no comparable match."
 	},
+	"NPWR00830_00":{
+		"appid":[9219,9200],
+		"title":"RAGE®",
+		"mapping":"ach_%d",
+		"note":"9219 appears completely unused. Scorchers DLC maps to 51-60"
+	},
 	"NPWR01006_00":{
 		"appid":24960,
 		"title":"Battlefield: Bad Company™ 2",
