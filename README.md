@@ -50,6 +50,10 @@ That means when `"mapping"` is missing, we do not know how it maps at all yet.
 And for cases where there is no mapping, set the field to false
 `"mapping":false`.
 
+Games without Platinum trophies have their trophy mapping start at 0 (zero)
+just like any title, but for these "0" should be mapped unless there are
+exceptional circumstances. See Braid (NPWR00863_00)
+
 Optionally you can include a `"note"` to give extra details, preferably for the
 cases where there are unmappable details with -1 being used.
 
@@ -97,11 +101,11 @@ This example shows a common issue on Steam with titles having multiple
 ```
 
 
-Commit titles should include `%game% (%appid%)` along with your preferred
-flavour text. If you have multiple games to confirm, make individual commits.
-Pull Requests must have clean history, no commits to clean previous commits, no
-merges that include --no-ff, etc. They will be rejected or rewritten if this is
-the case.
+Commit titles should include `%game% (%npcommid%→%appid%)` along with your
+preferred flavour text. If you have multiple games to confirm, make individual
+commits. Pull Requests must have clean history, as in no commits to ‘fix the
+build’ due to formatting or JSON erros, no merges that include --no-ff, etc.
+They will be rejected or rewritten if this is the case.
 
 Credits
 -------
