@@ -250,6 +250,24 @@
 		"mapping":"ach_%d",
 		"note":"9219 appears completely unused. Scorchers DLC maps to 51-60"
 	},
+	"NPWR00863_00":{
+		"appid":26800,
+		"title":"Braid",
+		"mapping":{
+			"0":"traversed2",
+			"1":"traversed3",
+			"2":"traversed4",
+			"3":"traversed5",
+			"4":"traversed6",
+			"5":"solved2",
+			"6":"solved3",
+			"7":"solved4",
+			"8":"solved5",
+			"9":"solved6",
+			"10":"closure",
+			"11":"speed_run"
+		}
+	},
 	"NPWR01006_00":{
 		"appid":24960,
 		"title":"Battlefield: Bad Company™ 2",
