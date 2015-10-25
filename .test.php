@@ -147,7 +147,16 @@
 
 							} else if ( is_string( $value ) ) {
 
-								$this->assertContains( '%d', $value, '"' . $key . '" is not a valid mapping string' );
+								if ( strpos( $value, '%d' ) !== false ) {
+
+									/* We are a direct mapping of 0 → name_0, 1 → name_1 */
+								} else if ( strpos( $value, '%02d' ) !== false ) {
+
+									/* We are a direct mapping of 0 → name_00, 1 → name_01 */
+								} else {
+
+									$this->assertTrue( false, 'Value "' . $value . '" for "mapping" is not a valid mapping string' );
+								}
 							} else {
 
 								// for direct mappings, we use "mapping": false

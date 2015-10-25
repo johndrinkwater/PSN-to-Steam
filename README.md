@@ -44,7 +44,8 @@ from peeking at that data they can be numeric (like Binding of Isaac),
 prefixed-numeric (like Borderlands 2), and alphanumeric (like Portal 2). Direct
 one to one mappings are supported where the developers have usefully picked
 `NAME_trophyid` for their Steam achievements, for those cases you should set
-`"mapping":"NAME_%d"`.
+`"mapping":"NAME_%d"`. For zero‐padded forms of this shortcut, use
+`"mapping":"NAME_%02d"`.
 
 That means when `"mapping"` is missing, we do not know how it maps at all yet.
 And for cases where there is no mapping, set the field to false
