@@ -301,7 +301,7 @@
 	"NPWR01460_00":{
 		"appid":[22380,22490,72720],
 		"title":"Fallout: New Vegas",
-		"mapping":"A%d",
+		"mapping":"A%02d",
 		"note":"22449 & 206540 are ignorable appids, and 72720 is the beta test (and only contains DLC Trophy Pack 1 achievements, lol what)"
 	},
 	"NPWR01478_00":{
