@@ -256,6 +256,26 @@
 		"mapping":"ach_%d",
 		"note":"9219 appears completely unused. Scorchers DLC maps to 51-60"
 	},
+	"NPWR00843_00":{
+		"appid":255870,
+		"title":"PixelJunk™ Shooter",
+		"mapping":{
+			"0":"E_TROPHY_TREASURE_HUNTER_1",
+			"1":"E_TROPHY_TREASURE_HUNTER_2",
+			"2":"E_TROPHY_TREASURE_HUNTER_3",
+			"3":"E_TROPHY_A_TRUE_HERO",
+			"4":"E_TROPHY_ART_COLLECTOR",
+			"5":"E_TROPHY_NO_STONE_UNTURNED",
+			"6":"E_TROPHY_COIN_COLLECTOR",
+			"7":"E_TROPHY_SHARP_SHOOTER",
+			"8":"E_TROPHY_CAVE_CLEANER",
+			"9":"E_TROPHY_CAVE_CLEANER_PRO",
+			"10":"E_TROPHY_CAVE_CLEANER_SUPREME",
+			"11":"E_TROPHY_LIQUID_LOVE",
+			"12":"E_TROPHY_DONT_TOUCH_ME"
+		},
+		"note":"These could map onto appid 332330 [E_TROPHY_CaveCleaner, E_TROPHY_CaveCleanerVeteran, E_TROPHY_CaveCleanerPro, E_TROPHY_SharpShooter, E_TROPHY_NoStoneUnturned] but: case changes, mapping changes with E_TROPHY_CAVE_CLEANER_PRO → E_TROPHY_CaveCleanerVeteran, overlap with NPWR01251_00, etc. What a slight mess."
+	},
 	"NPWR00863_00":{
 		"appid":26800,
 		"title":"Braid",
