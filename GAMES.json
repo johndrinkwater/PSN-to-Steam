@@ -324,6 +324,15 @@
 		"appid":31260,
 		"title":"Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep"
 	},
+	"NPWR01251_00":{
+		"appid":332330,
+		"title":"PixelJunk™ Shooter 2",
+		"mapping":{
+			"10":"E_TROPHY_OneSmallStep",
+			"12":"E_TROPHY_OneGiantLeap"
+		},
+		"note":"This was combined with PJ Shooter and released as PJ Shooter Ultimate on Steam, so also see NPWR06141_00. There is very little overlap with Steam here, because these trophies are terrible."
+	},
 	"NPWR01460_00":{
 		"appid":[22380,22490,72720],
 		"title":"Fallout: New Vegas",
