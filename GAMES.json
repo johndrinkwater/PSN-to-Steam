@@ -911,6 +911,11 @@
 		},
 		"note":"Plenty of unmapped Steam achievements, as the Sunrise DLC has not hit PSN yet"
 	},
+	"NPWR06922_00":{
+		"duplicate":"NPWR08041_00",
+		"title":"The Binding of Isaac: Rebirth",
+		"note":"Additional region variant"
+	},
 	"NPWR07486_00":{
 		"appid":35700,
 		"title":"Trine Enchanted Edition",
@@ -1113,6 +1118,11 @@
 	"NPWR08727_00":{
 		"duplicate":"NPWR01767_00",
 		"title":"Dishonored Definitive Edition"
+	},
+	"NPWR09566_00":{
+		"duplicate":"NPWR08041_00",
+		"title":"The Binding of Isaac: Rebirth",
+		"note":"Additional region variant [JP]"
 	},
 	"NPWR09730_00":{
 		"appid":40800,
