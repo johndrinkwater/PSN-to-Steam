@@ -1135,6 +1135,12 @@
 			"9":"ZERO_DEATH_ALL_STARS_GOLD_TIMES"
 		}
 	},
+	"NPWR09530_00":{
+		"appid":300580,
+		"title":"Galak-Z: The Dimensional",
+		"mapping":"ACHIEVEMENT_0%02d",
+		"note":"Interestingly, another variant (NPWR08603_00) has a different trophy order"
+	},
 	"NPWR09566_00":{
 		"duplicate":"NPWR08041_00",
 		"title":"The Binding of Isaac: Rebirth",
