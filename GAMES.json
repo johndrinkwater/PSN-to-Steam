@@ -1119,6 +1119,22 @@
 		"duplicate":"NPWR01767_00",
 		"title":"Dishonored Definitive Edition"
 	},
+	"NPWR09266_00":{
+		"appid":244870,
+		"title":"Electronic Super Joy",
+		"mapping":{
+			"0":"KILL_POPE",
+			"1":"KILL_GLORG",
+			"2":"KILL_WIZARD",
+			"3":"BEAT_W1_FAST",
+			"4":"BEAT_W2_FAST",
+			"5":"BEAT_W3_FAST",
+			"6":"BEAT_W4_FAST",
+			"7":"BEAT_GOLD_TIMES",
+			"8":"STARS_ALL",
+			"9":"ZERO_DEATH_ALL_STARS_GOLD_TIMES"
+		}
+	},
 	"NPWR09566_00":{
 		"duplicate":"NPWR08041_00",
 		"title":"The Binding of Isaac: Rebirth",
