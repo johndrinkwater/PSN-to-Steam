@@ -1115,6 +1115,20 @@
 		"title":"DARK SOULS™ Ⅱ: Scholar of the First Sin",
 		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
 	},
+	"NPWR08603_00":{
+		"appid":300580,
+		"title":"Galak-Z: The Dimensional",
+		"mapping":{
+			"1":"ACHIEVEMENT_002",
+			"2":"-1",
+			"3":"ACHIEVEMENT_001",
+			"4":"ACHIEVEMENT_003",
+			"5":"ACHIEVEMENT_004",
+			"6":"ACHIEVEMENT_005",
+			"7":"ACHIEVEMENT_006"
+		},
+		"note":"Duplicate of NPWR09530_00 yet with different mapping. Sea of Stars, Fall of Empire, and Understand the Bug were nerfed with this release, so we don’t map them. Sorry."
+	},
 	"NPWR08727_00":{
 		"duplicate":"NPWR01767_00",
 		"title":"Dishonored Definitive Edition"
