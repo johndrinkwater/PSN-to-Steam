@@ -911,6 +911,12 @@
 		},
 		"note":"Plenty of unmapped Steam achievements, as the Sunrise DLC has not hit PSN yet"
 	},
+	"NPWR06916_00":{
+		"appid":267060,
+		"title":"Gravity Badgers",
+		"mapping":"com.walesinteractive.gravitybadgers.ach%02d",
+		"note":"XXX this needs offset support, as map is offset by 1, 0 → 01 (no plat)"
+	},
 	"NPWR06922_00":{
 		"duplicate":"NPWR08041_00",
 		"title":"The Binding of Isaac: Rebirth",
