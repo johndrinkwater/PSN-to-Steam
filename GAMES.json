@@ -682,6 +682,11 @@
 	"NPWR04612_00":{
 		"duplicate":"NPWR02081_00"
 	},
+	"NPWR05008_00":{
+		"appid":219680,
+		"title":"Proteus",
+		"mapping":false
+	},
 	"NPWR05046_00":{
 		"appid":218620,
 		"title":"PAYDAY 2",
