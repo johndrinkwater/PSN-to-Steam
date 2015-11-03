@@ -4,6 +4,11 @@
 		"title":"GTA IV",
 		"mapping":false
 	},
+	"NPWR00133_00":{
+		"appid":8190,
+		"title":"Just Cause 2",
+		"mapping":"Achievement%d"
+	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…"
