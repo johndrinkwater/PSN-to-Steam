@@ -9,6 +9,11 @@
 		"title":"Just Cause 2",
 		"mapping":"Achievement%d"
 	},
+	"NPWR00156_00":{
+		"appid":32430,
+		"title":"Star Wars: The Force Unleashed",
+		"mapping":false
+	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…"
