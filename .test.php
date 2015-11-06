@@ -8,11 +8,13 @@
 	}
 
 	function is_npcommid( $variable ) {
-		/*
-		* test "_[0-9]{2}$"
-		* test 4 alpha
-		*/
-		return is_string( $variable );
+
+		if ( is_string( $variable ) && preg_match( '/NPWR[0-9]{5}_[0-9]{2}/', $variable ) ) {
+
+			return true;
+		}
+
+		return false;
 	}
 
 	class PSNSteamTest extends PHPUnit_Framework_TestCase {
