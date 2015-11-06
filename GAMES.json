@@ -24,6 +24,12 @@
 		"title":"The Chronicles of Riddick™ Assault on Dark Athena",
 		"mapping":false
 	},
+	"NPWR00234_00":{
+		"appid":24740,
+		"title":"Burnout™ Paradise",
+		"mapping":false,
+		"note":"Maps to Burnout Paradise: The Ultimate Box, which has zero achievements"
+	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…"
