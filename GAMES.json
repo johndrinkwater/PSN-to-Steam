@@ -203,6 +203,31 @@
 		},
 		"note":"Love of the Game appears to be missing on Steam, interesting."
 	},
+	"NPWR00350_00":{
+		"appid":105800,
+		"title":"PixelJunk™ Eden / Encore",
+		"mapping":{
+			"0":"ACH_STAGE_FULL_SEED_OPEN1",
+			"1":"ACH_STAGE_FULL_SEED_OPEN2",
+			"2":"ACH_STAGE_FULL_SEED_OPEN3",
+			"3":"ACH_STAGE_FULL_SEED_OPEN4",
+			"4":"ACH_STAGE_FULL_SEED_OPEN5",
+			"5":"ACH_STAGE_FULL_SEED_OPEN6",
+			"6":"ACH_STAGE_FULL_SEED_OPEN7",
+			"7":"ACH_STAGE_FULL_SEED_OPEN8",
+			"8":"ACH_STAGE_FULL_SEED_OPEN9",
+			"9":"ACH_STAGE_FULL_SEED_OPEN10",
+			"10":"ACH_ALL_CLEAR",
+			"11":"ACH_ALL_TREASURE",
+			"12":"ACH_ENEMY_COMBO_X10",
+			"13":"ACH_ENEMY_COMBO_X15",
+			"14":"ACH_POLLEN_X100000",
+			"15":"ACH_ENEMIES_KILLED_X500",
+			"16":"ACH_SPEEDY_GRIMP",
+			"17":"ACH_TIME_CAPSULE_X15"
+		},
+		"note":"18 ‘Zero Wasted Pollen’ and 19 ‘Three Play Ping Pong’ do not map onto achievements. TODO map Encore DLC"
+	},
 	"NPWR00352_00":{
 		"appid":7670,
 		"title":"BioShock",
