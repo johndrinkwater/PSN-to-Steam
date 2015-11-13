@@ -141,6 +141,11 @@
 		},
 		"note":"TODO map DLC"
 	},
+	"NPWR00288_00":{
+		"appid":12790,
+		"title":"Damnation™",
+		"mapping":false
+	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…"
