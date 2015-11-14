@@ -141,6 +141,11 @@
 		},
 		"note":"TODO map DLC"
 	},
+	"NPWR00261_00":{
+		"appid":10150,
+		"title":"[PROTOTYPE]™",
+		"mapping":false
+	},
 	"NPWR00283_00":{
 		"appid":21680,
 		"title":"Bionic Commando Rearmed",
