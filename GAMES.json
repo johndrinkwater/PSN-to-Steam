@@ -141,6 +141,11 @@
 		},
 		"note":"TODO map DLC"
 	},
+	"NPWR00283_00":{
+		"appid":21680,
+		"title":"Bionic Commando Rearmed",
+		"mapping":false
+	},
 	"NPWR00288_00":{
 		"appid":12790,
 		"title":"Damnation™",
