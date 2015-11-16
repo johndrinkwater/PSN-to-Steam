@@ -1238,7 +1238,7 @@
 		"appid":267060,
 		"title":"Gravity Badgers",
 		"mapping":"com.walesinteractive.gravitybadgers.ach%02d",
-		"note":"XXX this needs offset support, as map is offset by 1, 0 → 01 (no plat)"
+		"mapoffset":"+1"
 	},
 	"NPWR06922_00":{
 		"duplicate":"NPWR08041_00",
