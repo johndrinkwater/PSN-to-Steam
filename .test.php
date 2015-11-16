@@ -79,7 +79,8 @@
 				'title'		=> 'is_string',
 				'duplicate'	=> 'is_npcommid',
 				'note'		=> 'is_string',
-				'mapping'	=> 'is_set'
+				'mapping'	=> 'is_set',
+				'mapoffset'	=> 'is_string'
 			);
 
 			foreach( $games as $appID => $keys ) {

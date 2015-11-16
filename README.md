@@ -55,6 +55,12 @@ Games without Platinum trophies have their trophy mapping start at 0 (zero)
 just like any title, but for these "0" should be mapped unless there are
 exceptional circumstances. See Braid (NPWR00863_00)
 
+When using the short-form `"mapping":"NAME_%d"`, the first trophy is 0 (zero)
+which is computed to be `"NAME_0"`, however if it needs to be mapped to
+`"NAME_1"`, you would use `"mapoffset":"+1"`. If it is the other way around,
+where the first trophy needs to map to `"NAME_1"`, it needs to be
+`"mapoffset":"-1"`. Values below 0 (zero) after being offset are ignored.
+
 Optionally you can include a `"note"` to give extra details, preferably for the
 cases where there are unmappable details with -1 being used.
 
