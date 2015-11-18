@@ -664,6 +664,12 @@
 		"mapoffset":"-1",
 		"note":"219460 is the Press Edition, 217980 the Russian Edition"
 	},
+	"NPWR01864_00":{
+		"appid":115320,
+		"title":"[PROTOTYPE®2]",
+		"mapping":"ACH_%d",
+		"mapoffset":"-1"
+	},
 	"NPWR02044_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2",
