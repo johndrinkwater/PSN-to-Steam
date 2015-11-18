@@ -1450,6 +1450,11 @@
 		"title":"[PROTOTYPE®]",
 		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
 	},
+	"NPWR08146_00":{
+		"duplicate":"NPWR01864_00",
+		"title":"[PROTOTYPE®2]",
+		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+	},
 	"NPWR08199_00":{
 		"duplicate":"NPWR05751_00",
 		"title":"DARK SOULS™ Ⅱ: Scholar of the First Sin",
