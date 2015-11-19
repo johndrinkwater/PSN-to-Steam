@@ -254,6 +254,12 @@
 		"mapping":false,
 		"note":"Steam has no gaems^Wachievements… yet?"
 	},
+	"NPWR00359_00":{
+		"appid":10080,
+		"title":"Quantum of Solace",
+		"mapping":false,
+		"note":"No longer purchasable on Steam… and doesn’t have achievements"
+	},
 	"NPWR00374_00":{
 		"appid":19980,
 		"title":"Prince of Persia",
