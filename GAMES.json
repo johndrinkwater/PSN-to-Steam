@@ -1014,6 +1014,11 @@
 		},
 		"note":"Unlike most games so far, this has erratically different trophies between platforms, so there is little overlap. Revisit when Steam gets additional achievements."
 	},
+	"NPWR04319_00":{
+		"appid":233270,
+		"title":"Far Cry® 3 Blood Dragon",
+		"mapping":false
+	},
 	"NPWR04533_00":{
 		"appid":219150,
 		"title":"Hotline Miami",
