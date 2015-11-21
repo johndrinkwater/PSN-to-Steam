@@ -861,6 +861,11 @@
 	"NPWR03221_00":{
 		"duplicate":"NPWR03138_00"
 	},
+	"NPWR03468_00":{
+		"appid":220240,
+		"title":"Far Cry® 3",
+		"mapping":false
+	},
 	"NPWR03814_00":{
 		"appid":228300,
 		"title":"Remember Me™",
