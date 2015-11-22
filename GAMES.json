@@ -1332,6 +1332,11 @@
 		},
 		"note":"Plenty of unmapped Steam achievements, as the Sunrise DLC has not hit PSN yet"
 	},
+	"NPWR06804_00":{
+		"appid":298110,
+		"title":"Far Cry® 4",
+		"mapping":false
+	},
 	"NPWR06916_00":{
 		"appid":267060,
 		"title":"Gravity Badgers",
