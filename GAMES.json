@@ -1608,6 +1608,11 @@
 		"title":"The Binding of Isaac: Rebirth",
 		"note":"Additional region variant [JP]"
 	},
+	"NPWR09622_00":{
+		"appid":290340,
+		"title":"Armello",
+		"mapping":"ACH_100_0%02d"
+	},
 	"NPWR09730_00":{
 		"appid":40800,
 		"title":"Super Meat Boy",
