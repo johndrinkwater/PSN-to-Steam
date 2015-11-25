@@ -1019,6 +1019,28 @@
 		"title":"Far Cry® 3 Blood Dragon",
 		"mapping":false
 	},
+	"NPWR04363_00":{
+		"appid":220780,
+		"title":"Thomas Was Alone",
+		"mapping":{
+			"0":"finishGame",
+			"1":"jump1600",
+			"2":["ach0a", "ach0b"],
+			"3":["ach1a", "ach1b"],
+			"4":["ach2a", "ach2b"],
+			"5":["ach3a", "ach3b"],
+			"6":["ach4a", "ach4b"],
+			"7":["ach5a", "ach5b"],
+			"8":["ach6a", "ach6b"],
+			"9":["ach7a", "ach7b"],
+			"10":["ach8a", "ach8b"],
+			"11":["ach9a", "ach9b"],
+			"12":"-1",
+			"13":"die100",
+			"14":"bounce100"
+		},
+		"note":"First title that has collectables trophies that pair to multiple achievements. ‘The Collection’ trophy has no mapping, and we cover the achievements with the previous 10 trophies."
+	},
 	"NPWR04533_00":{
 		"appid":219150,
 		"title":"Hotline Miami",
