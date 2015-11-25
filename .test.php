@@ -121,10 +121,17 @@
 								// XXX: Found the first title that mapped Platinum to a Steam achievement, Trine!
 								// $this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
 
-								// Avoid accidental mapping to same achievement
-								// TODO: Would be nice to get this to point to which
-								// XXX: Assume this is expensive to run…
-								$valuesmapped = array_diff( array_values( $value ), [ -1 ] );
+								// Find accidental duplicates, remove "-1" entries and flatten multiple pairings
+								$valuesmapped = array_values( $value );
+								foreach( $valuesmapped as $index => $achievement ){
+
+									if ( $achievement == "-1" ) {
+										unset( $valuesmapped[ $index ] );
+									}
+									if ( is_array( $achievement ) ) {
+										$valuesmapped[ $index ] = implode( "-", $achievement );
+									}
+								}
 								$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping' );
 								unset( $valuesmapped );
 

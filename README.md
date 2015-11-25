@@ -64,6 +64,25 @@ where the first trophy needs to map to `"NAME_1"`, it needs to be
 Optionally you can include a `"note"` to give extra details, preferably for the
 cases where there are unmappable details with -1 being used.
 
+**Odd Trophy mappings**
+
+For a small subset of games (hey ‘Thomas Was Alone’!), Trophies have been
+compressed and in effect include multiple Steam achievements each, for these
+cases you use an array to group more than one achievement.
+
+```json
+	…
+	"NPWR04363_00":{
+		"appid":220780,
+		"title":"Thomas Was Alone",
+		"mapping":{
+			"0":"finishGame",
+			"1":"jump1600",
+			"2":["ach0a", "ach0b"]
+		}
+	}
+```
+
 **Multiple PSN IDs**
 
 To cover the case of multiple PSN IDs mapping onto a singular appid, you create
