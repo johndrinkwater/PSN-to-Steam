@@ -1619,6 +1619,31 @@
 			"9":"ZERO_DEATH_ALL_STARS_GOLD_TIMES"
 		}
 	},
+	"NPWR09302_00":{
+		"appid":323320,
+		"title":"Grow Home",
+		"mapping":{
+			"0":"ACH_Seeds_All",
+			"1":"ACH_Seed",
+			"2":"ACH_Crystals",
+			"3":"ACH_Branches_Grown",
+			"4":"ACH_Leaves_Bounced",
+			"5":"ACH_Glider_Time",
+			"6":"ACH_Freefall",
+			"7":"ACH_Caves_Entered",
+			"8":"ACH_Sheep_Teleported",
+			"9":"ACH_Sheep_Drown",
+			"10":"ACH_Jetpack_Time",
+			"11":"ACH_Branches_Active",
+			"12":"ACH_Glider_Arches",
+			"13":"ACH_Night_Cycle",
+			"14":"ACH_Falling_Glider",
+			"15":"ACH_Flying_Sheep",
+			"16":"ACH_Venus_Sheep",
+			"17":"ACH_Bull_Fall",
+			"18":"ACH_Databank_Complete"
+		}
+	},
 	"NPWR09530_00":{
 		"appid":300580,
 		"title":"Galak-Z: The Dimensional",
