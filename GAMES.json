@@ -866,6 +866,11 @@
 		"title":"Far Cry® 3",
 		"mapping":false
 	},
+	"NPWR03805_00":{
+		"appid":220440,
+		"title":"DmC Devil May Cry™",
+		"mapping":"Achievement_%d"
+	},
 	"NPWR03814_00":{
 		"appid":228300,
 		"title":"Remember Me™",
