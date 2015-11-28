@@ -793,6 +793,11 @@
 		"title":"Skyrim",
 		"mapping":"NEW_ACHIEVEMENT_%d_0"
 	},
+	"NPWR02972_00":{
+		"appid":[202170,307690],
+		"title":"Sleeping Dogs™",
+		"mapping":"ACHIEVEMENT_%02d"
+	},
 	"NPWR03002_00":{
 		"appid":206370,
 		"title":"Tales from Space: Mutant Blobs Attack",
