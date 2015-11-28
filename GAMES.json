@@ -1661,6 +1661,10 @@
 		"title":"DARK SOULS™ Ⅱ: Scholar of the First Sin",
 		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
 	},
+	"NPWR08255_00":{
+		"duplicate":"NPWR02972_00",
+		"title":"Sleeping Dogs: Definitive Edition"
+	},
 	"NPWR08603_00":{
 		"appid":300580,
 		"title":"Galak-Z: The Dimensional",
