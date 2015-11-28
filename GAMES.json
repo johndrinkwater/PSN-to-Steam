@@ -1443,6 +1443,11 @@
 		},
 		"note":"PS4 Edition. With this remastering, various trophies have been adjusted thus: ‘Looks like we have a winner’ decreased to 2500 Demons, ‘This is my kind of rain’ increased to 20000 Red Orbs (which explains why one is mapped, and one is not), some new incremental trophies are added for SSS completion progress, and some difficulty trophies have been removed from original."
 	},
+	"NPWR07300_00":{
+		"duplicate":"NPWR02972_00",
+		"title":"Sleeping Dogs: Definitive Edition",
+		"note":"Seems someone accidentally uploaded the Platinum trophy image for ACHIEVEMENT_01, which explains the first 5 achievements having the wrong image for the Definitive Edition. Good Work Squenix."
+	},
 	"NPWR07486_00":{
 		"appid":35700,
 		"title":"Trine Enchanted Edition",
