@@ -1448,6 +1448,10 @@
 		"title":"Sleeping Dogs: Definitive Edition",
 		"note":"Seems someone accidentally uploaded the Platinum trophy image for ACHIEVEMENT_01, which explains the first 5 achievements having the wrong image for the Definitive Edition. Good Work Squenix."
 	},
+	"NPWR07350_00":{
+		"duplicate":"NPWR02972_00",
+		"title":"Sleeping Dogs: Definitive Edition"
+	},
 	"NPWR07486_00":{
 		"appid":35700,
 		"title":"Trine Enchanted Edition",
