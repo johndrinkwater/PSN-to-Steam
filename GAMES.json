@@ -1154,6 +1154,34 @@
 		"duplicate":"NPWR03002_00",
 		"title":"Tales from Space: Mutant Blobs Attack"
 	},
+	"NPWR05188_00":{
+		"appid":224460,
+		"title":"Contrast",
+		"mapping":{
+			"0":"ExtraLife2012",
+			"1":"ACarouselOfBrokenDreams",
+			"2":"ANewDimension",
+			"3":"DrinkMe",
+			"4":"FIN",
+			"5":"GroundsKeeper",
+			"6":"HandyPerson",
+			"7":"HowDYouGetInHere",
+			"8":"Illuminated",
+			"9":"JustLikeHarry",
+			"10":"LetThereBeLight",
+			"11":"NoBackPackNeeded",
+			"12":"NotThatKindaGame",
+			"13":"NowThatsThinkingWithShadows",
+			"14":"OhMyGodItsFullOfStars",
+			"15":"Room529",
+			"16":"StreetsSweeper",
+			"17":"TheFamilyLife",
+			"18":"ThisCircusIsADisaster",
+			"19":"YouBrokeMyFinger",
+			"20":"BookKeeper"
+		},
+		"note":"PS4 variant. PunchingBag achievement is not mapped, as it does not exist as a trophy."
+	},
 	"NPWR05556_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2: Complete Story",
