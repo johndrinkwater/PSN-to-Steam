@@ -1261,6 +1261,11 @@
 		"title":"Contrast",
 		"note":"PS4, additional region variant [JP]"
 	},
+	"NPWR06059_00":{
+		"duplicate":"NPWR05188_00",
+		"title":"Contrast",
+		"note":"PS3, additional region variant [JP]"
+	},
 	"NPWR06141_00":{
 		"appid":332330,
 		"title":"PixelJunk™ Shooter Ultimate",
