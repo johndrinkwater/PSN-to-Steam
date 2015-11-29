@@ -1182,6 +1182,11 @@
 		},
 		"note":"PS4 variant. PunchingBag achievement is not mapped, as it does not exist as a trophy."
 	},
+	"NPWR05282_00":{
+		"duplicate":"NPWR05188_00",
+		"title":"Contrast",
+		"note":"PS3 variant."
+	},
 	"NPWR05556_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2: Complete Story",
