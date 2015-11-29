@@ -1256,6 +1256,11 @@
 		"mapping":"ACHIEVEMENT_%02d",
 		"note":"We map this title onto both the original and the remake on Steam, as they are the same trophies, and if you have both, why not? n.b. Dark Souls 2 uses U+2161 on Sony’s platform, yet II on Valve’s. Which was a nice surprise, considering PSP+PS3 launched with locale-specific charsets in use. Likely due to poor Windows support for Unicode fonts, not that Steam tries hard to improve things."
 	},
+	"NPWR05964_00":{
+		"duplicate":"NPWR05188_00",
+		"title":"Contrast",
+		"note":"PS4, additional region variant [JP]"
+	},
 	"NPWR06141_00":{
 		"appid":332330,
 		"title":"PixelJunk™ Shooter Ultimate",
