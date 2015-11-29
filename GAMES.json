@@ -1245,6 +1245,11 @@
 		},
 		"note":"Trine 2 {PS4 Edition}. Note there is another npcommid for this title, I just do not know it yet. Because this maps onto an adjusted Steam update, achievements like `solo` are not mapped at all! Look into ‘computing’ these in future (having any of 43-45 should imply this)"
 	},
+	"NPWR05595_00":{
+		"duplicate":"NPWR05188_00",
+		"title":"Contrast",
+		"note":"PS4, additional region variant"
+	},
 	"NPWR05751_00":{
 		"appid":[236430,335300],
 		"title":"DARK SOULS Ⅱ",
