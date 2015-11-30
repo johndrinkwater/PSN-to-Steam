@@ -1272,6 +1272,9 @@
 		"title":"Contrast",
 		"note":"PS4, additional region variant"
 	},
+	"NPWR05677_00":{
+		"duplicate":"NPWR04537_00"
+	},
 	"NPWR05751_00":{
 		"appid":[236430,335300],
 		"title":"DARK SOULS Ⅱ",
