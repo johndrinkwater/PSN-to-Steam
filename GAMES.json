@@ -1114,6 +1114,9 @@
 	"NPWR04612_00":{
 		"duplicate":"NPWR02081_00"
 	},
+	"NPWR04770_00":{
+		"duplicate":"NPWR04537_00"
+	},
 	"NPWR05008_00":{
 		"appid":219680,
 		"title":"Proteus",
