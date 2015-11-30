@@ -814,6 +814,9 @@
 		"title":"Tales from Space: Mutant Blobs Attack",
 		"mapping":"EAwards_%d"
 	},
+	"NPWR03003_00":{
+		"duplicate":"NPWR02249_00"
+	},
 	"NPWR03138_00":{
 		"appid":208730,
 		"title":"Game of Thrones trophies"
