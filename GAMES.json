@@ -1106,6 +1106,11 @@
 			"34":"ACH_THAT_IS_IT"
 		}
 	},
+	"NPWR04537_00":{
+		"appid":242550,
+		"title":"Rayman® Legends",
+		"mapping":false
+	},
 	"NPWR04612_00":{
 		"duplicate":"NPWR02081_00"
 	},
