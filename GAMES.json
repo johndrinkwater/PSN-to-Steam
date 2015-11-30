@@ -706,6 +706,11 @@
 		"title":"Limbo",
 		"mapping":"ACH_%d"
 	},
+	"NPWR02249_00":{
+		"appid":207490,
+		"title":"Rayman® Origins",
+		"mapping":false
+	},
 	"NPWR02303_00":{
 		"appid":24240,
 		"title":"PAYDAY: The Heist",
