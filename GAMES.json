@@ -1738,6 +1738,9 @@
 		"duplicate":"NPWR02972_00",
 		"title":"Sleeping Dogs: Definitive Edition"
 	},
+	"NPWR08334_00":{
+		"duplicate":"NPWR04537_00"
+	},
 	"NPWR08603_00":{
 		"appid":300580,
 		"title":"Galak-Z: The Dimensional",
