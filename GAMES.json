@@ -1228,6 +1228,34 @@
 		"title":"Contrast",
 		"note":"PS3 variant."
 	},
+	"NPWR05348_00":{
+		"appid":204300,
+		"title":"Awesomenauts Assemble!",
+		"mapping":{
+			"0":"ATHUMILIATION",
+			"1":"ATFIRSTBLOOD",
+			"2":"ATMISER",
+			"3":"AT_08",
+			"4":"AT_01",
+			"5":"ATKILLCREEPS3",
+			"6":"ATKILLINGSPREE1",
+			"7":"ATMIRRORMATCH",
+			"8":"ATBOUNTYHUNTER1",
+			"9":"AT_05",
+			"10":"ATMONEY1",
+			"11":"AT_09",
+			"12":"ATSPEEDRUN",
+			"13":"AT_07",
+			"14":"ATKILLTURRET1",
+			"15":"AT_03",
+			"16":"ATMEETTHEAWESOMENAUTS",
+			"17":"ATBADWINNER",
+			"18":"ATBADLOSER",
+			"19":"ATBAREHANDED",
+			"20":"AT_02"
+		},
+		"note":"Most of the achievements ending in 1 (like ‘ATBOUNTYHUNTER1’) are for 10 rather than 25 like the trophies, so we under-record them."
+	},
 	"NPWR05556_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2: Complete Story",
