@@ -3,3 +3,4 @@
 * Support default mapping/offsets with additional overrides for the cases like GTA V where it is a linear mapping but for one trophy (it seems on their back-end, ACH50 is flagged for the platinum?) like ACH51.
 * Support more compact mapping, DmC Definitive Edition is a great example of a messy map, making it hard to verify, would greatly benefit from default mapping (which would remove ⅓ of the map, either masking "-1" *or* the unoverridden "Achievement_%d"s)
 * Support clusters (whatever, I need a name for the recently added achievement arrays!) of trophies that point to one achievement (needed for a DmC:DE), and vice versa (a la TWA)
+* Support setting STATs with some basic comparison tests (in the case of Awesomenauts)
