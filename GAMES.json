@@ -1516,6 +1516,11 @@
 		"mapping":false,
 		"note":"PS4 Edition. Not mapped because it has no Steam achievements."
 	},
+	"NPWR07140_00":{
+		"duplicate":"NPWR04544_00",
+		"title":"Stealth Inc: Ultimate Edition",
+		"note":"Additional region variant [JP]"
+	},
 	"NPWR07279_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™: Definitive Edition",
