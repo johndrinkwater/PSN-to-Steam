@@ -1130,6 +1130,13 @@
 		"title":"Rayman® Legends",
 		"mapping":false
 	},
+	"NPWR04544_00":{
+		"appid":209190,
+		"title":"Stealth Inc.",
+		"mapping":"Ach_1_%02d",
+		"mapoffset":"+1",
+		"note":"a.k.a. Stealth Bastard Deluxe. TODO: we don’t currently support this awkward mapping, as main game: Ach_1_{00→12}, 13→21 are unmapped, dlc1: Ach_2_{00→6}, dlc2: unmapped. Playing around with a TODO overhaul of the json data atm…"
+	},
 	"NPWR04612_00":{
 		"duplicate":"NPWR02081_00"
 	},
