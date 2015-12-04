@@ -1713,6 +1713,12 @@
 	"NPWR07882_00":{
 		"duplicate":"NPWR07881_00"
 	},
+	"NPWR07887_00":{
+		"appid":329380,
+		"title":"Stealth Inc 2: A Game of Clones",
+		"mapping":"TROPHY NAME %d",
+		"mapoffset":"+1"
+	},
 	"NPWR07927_00":{
 		"duplicate":"NPWR07875_00"
 	},
