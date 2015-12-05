@@ -1862,6 +1862,9 @@
 		"duplicate":"NPWR01767_00",
 		"title":"Dishonored Definitive Edition"
 	},
+	"NPWR08771_00":{
+		"duplicate":"NPWR07545_00"
+	},
 	"NPWR09266_00":{
 		"appid":244870,
 		"title":"Electronic Super Joy",
