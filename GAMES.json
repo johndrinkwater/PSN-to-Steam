@@ -1641,6 +1641,41 @@
 		},
 		"note":"Because this is a remastering with new trophies, it is not a strict duplicate of NPWR00805_00"
 	},
+	"NPWR07545_00":{
+		"appid":332200,
+		"title":"Axiom Verge",
+		"mapping":{
+			"1":"Xedur",
+			"2":"Telal",
+			"3":"Uruku",
+			"4":"GirTab",
+			"5":"Hallucination",
+			"6":"Clone",
+			"7":"Ukhu",
+			"8":"Sentinel",
+			"9":"Athetos",
+			"10":"Items100",
+			"11":"Map100",
+			"12":"Overclocked",
+			"13":"Weapons100",
+			"14":"Tools100",
+			"15":"Health100",
+			"16":"Notes100",
+			"17":"MostlyInvincible",
+			"18":"Speedrunner",
+			"19":"Hard",
+			"20":"Hack",
+			"21":"Hacker",
+			"22":"Power100",
+			"23":"LowPercent",
+			"24":"SecretWorld",
+			"25":"Pacifist",
+			"26":"BubbleBreaker",
+			"27":"BrickBreaker",
+			"28":"Cryptologist",
+			"29":"Mercy"
+		}
+	},
 	"NPWR07842_00":{
 		"appid":208750,
 		"title":"Apotheon"
