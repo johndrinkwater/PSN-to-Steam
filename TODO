@@ -4,3 +4,30 @@
 * Support more compact mapping, DmC Definitive Edition is a great example of a messy map, making it hard to verify, would greatly benefit from default mapping (which would remove ⅓ of the map, either masking "-1" *or* the unoverridden "Achievement_%d"s)
 * Support clusters (whatever, I need a name for the recently added achievement arrays!) of trophies that point to one achievement (needed for a DmC:DE), and vice versa (a la TWA)
 * Support setting STATs with some basic comparison tests (in the case of Awesomenauts)
+
+
+"mapping":{
+	"main":{
+		"mapping":"Ach_1_%02d",
+		"mapoffset":"+1",
+		"length":13,
+	},
+/*	"dlc1":{
+		"mapping":"Ach_2_%02d",
+		"mapoffset":"-12"
+		"length":6,
+	},
+*/
+	"dlc1":{
+		"mapping":{
+			"13":"Ach_2_01",
+			"14":"Ach_2_02",
+			"15":"Ach_2_05",
+			"16":"Ach_2_06",
+			"17":"Ach_2_04",
+			"18":"Ach_2_03"
+		}
+	}
+	"dlc2":{
+		"mapping":false
+	}
