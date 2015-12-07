@@ -904,6 +904,11 @@
 		"title":"Far Cry® 3",
 		"mapping":false
 	},
+	"NPWR03554_00":{
+		"appid":208200,
+		"title":"DOOM® 3",
+		"mapping":"ach_%d"
+	},
 	"NPWR03805_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™",
