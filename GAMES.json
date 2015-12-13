@@ -663,6 +663,11 @@
 		},
 		"note":"DLC 1 (50-59) is enabled with appid 201280"
 	},
+	"NPWR01608_00":{
+		"appid":7000,
+		"title":"Tomb Raider: Legend",
+		"mapping":false
+	},
 	"NPWR01719_00":{
 		"appid":600,
 		"title":"Portal 2",
