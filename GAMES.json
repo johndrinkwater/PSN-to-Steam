@@ -668,6 +668,11 @@
 		"title":"Tomb Raider: Legend",
 		"mapping":false
 	},
+	"NPWR01651_00":{
+		"appid":8000,
+		"title":"Tomb Raider: Anniversary",
+		"mapping":false
+	},
 	"NPWR01719_00":{
 		"appid":600,
 		"title":"Portal 2",
