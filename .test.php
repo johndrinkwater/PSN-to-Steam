@@ -21,8 +21,13 @@
 
 		public function testFileExists( ) {
 
+			$fileToCheck = 'GAMES.json';
+			if ( isset( $_SERVER['LISTING'] ) ) {
+				$fileToCheck = $_SERVER[ 'LISTING' ];
+			}
+
 			// Trying to get dataProvider to work with depends in phpunit requires some serious magic
-			$filePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+			$filePath = __DIR__ . DIRECTORY_SEPARATOR . $fileToCheck;
 
 			$this->assertFileExists( $filePath );
 
