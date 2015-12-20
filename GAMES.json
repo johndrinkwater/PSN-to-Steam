@@ -163,7 +163,8 @@
 	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
-		"note":"Not even on Steam…"
+		"note":"Not even on Steam…",
+		"mapping":false
 	},
 	"NPWR00328_00":{
 		"appid":28000,
