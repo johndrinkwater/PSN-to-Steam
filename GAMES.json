@@ -1469,6 +1469,10 @@
 		},
 		"note":"PS4 Edition."
 	},
+	"NPWR05403_00":{
+		"duplicate":"NPWR05400_00",
+		"note":"PS3 Edition."
+	},
 	"NPWR05458_00":{
 		"duplicate":"NPWR02569_00",
 		"title":"Tomb Raider: Definitive Edition",
