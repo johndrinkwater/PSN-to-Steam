@@ -1478,6 +1478,13 @@
 		"title":"Tomb Raider: Definitive Edition",
 		"note":"PS4 Edition."
 	},
+	"NPWR05526_00":{
+		"appid":224760,
+		"title":"FEZ",
+		"mapping":"Achievement_%02d",
+		"mapoffset":"+1",
+		"note":"PS3, Vita, and PS4 Edition."
+	},
 	"NPWR05556_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2: Complete Story",
