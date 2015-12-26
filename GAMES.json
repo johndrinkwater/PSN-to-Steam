@@ -2211,6 +2211,11 @@
 		},
 		"note":"Not just order differences, some adjustments for less stats. For example, 37 will trigger for any baby, but the mapped values are for specific babies. In theory, if you were working the other way, you could compute that yes, this value could be set. But not the inverse."
 	},
+	"NPWR08137_00":{
+		"duplicate":"NPWR07711_00",
+		"title":"Never Alone",
+		"note":"Additional region variant [JP]"
+	},
 	"NPWR08145_00":{
 		"duplicate":"NPWR00261_00",
 		"title":"[PROTOTYPE®]",
