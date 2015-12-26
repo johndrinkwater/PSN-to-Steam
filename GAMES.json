@@ -2012,6 +2012,27 @@
 			"29":"Mercy"
 		}
 	},
+	"NPWR07711_00":{
+		"appid":295790,
+		"title":"Never Alone",
+		"mapping":{
+			"0":"FinishedChapter00",
+			"1":"FinishedChapter01",
+			"2":"FinishedChapter02",
+			"3":"FinishedChapter03a",
+			"4":"FinishedChapter03b",
+			"5":"FinishedChapter04",
+			"6":"FinishedChapter05",
+			"7":"FinishedChapter07",
+			"8":"Insights_Tundra",
+			"9":"Insights_TundraVillage",
+			"10":"Insights_IceFloes",
+			"11":"Insights_Whale",
+			"12":"Insights_Coastal",
+			"13":"Insights_Forest",
+			"14":"Insights_All"
+		}
+	},
 	"NPWR07842_00":{
 		"appid":208750,
 		"title":"Apotheon",
