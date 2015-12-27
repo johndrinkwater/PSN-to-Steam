@@ -2012,6 +2012,42 @@
 			"29":"Mercy"
 		}
 	},
+	"NPWR07690_00":{
+		"appid":236090,
+		"title":"Dust: An Elysian Tail",
+		"mapping":{
+			"1":"ACH_DefeatFuse",
+			"2":"ACH_DefeatLady",
+			"3":"ACH_DefeatKane",
+			"4":"ACH_DefeatGaius",
+			"5":"ACH_CompleteQuestsFive",
+			"6":"ACH_CompleteQuestsTen",
+			"7":"ACH_CompleteQuestsTwenty",
+			"8":"ACH_ComboSmall",
+			"9":"ACH_ComboLarge",
+			"10":"ACH_KillEnemies",
+			"11":"ACH_OpenChest",
+			"12":"ACH_OpenCage",
+			"13":"ACH_OpenCageAll",
+			"14":"ACH_DustStorm",
+			"15":"ACH_Upgraded",
+			"16":"ACH_LevelUp",
+			"17":"ACH_ChallengeFourStar",
+			"18":"ACH_ChallengeFourStarAll",
+			"19":"ACH_BombKills",
+			"20":"ACH_Paragon",
+			"21":"ACH_Renegade",
+			"22":"ACH_ParryLowHealth",
+			"23":"ACH_BlueprintCraft",
+			"24":"ACH_BugMatti",
+			"25":"ACH_CompleteQuestsFale",
+			"26":"ACH_DefeatGameHard",
+			"27":"ACH_DefeatEnemySlide",
+			"28":"ACH_BopoSnow",
+			"29":"ACH_MeetHaley",
+			"30":"ACH_DefeatCannonAll"
+		}
+	},
 	"NPWR07711_00":{
 		"appid":295790,
 		"title":"Never Alone",
