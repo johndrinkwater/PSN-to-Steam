@@ -2288,6 +2288,31 @@
 		},
 		"note":"Duplicate of NPWR09530_00 yet with different mapping. Sea of Stars, Fall of Empire, and Understand the Bug were nerfed with this release, so we don’t map them. Sorry."
 	},
+	"NPWR08687_00":{
+		"appid":228960,
+		"title":"Skulls of the Shogun",
+		"mapping":{
+			"0":"Achievement01",
+			"1":"Achievement02",
+			"2":"Achievement03",
+			"3":"Achievement04",
+			"4":"Achievement05",
+			"5":"Achievement06",
+			"6":"Achievement07",
+			"7":"Achievement08",
+			"8":"Achievement09",
+			"9":"Achievement10",
+			"10":"Achievement11",
+			"11":"Achievement12",
+			"12":"Achievement14",
+			"13":"Achievement15",
+			"14":"Achievement17",
+			"15":"Achievement18",
+			"16":"Achievement24",
+			"17":"Achievement26",
+			"18":"Achievement27"
+		}
+	},
 	"NPWR08727_00":{
 		"duplicate":"NPWR01767_00",
 		"title":"Dishonored Definitive Edition"
