@@ -2313,6 +2313,11 @@
 		},
 		"note":"Not just order differences, some adjustments for less stats. For example, 37 will trigger for any baby, but the mapped values are for specific babies. In theory, if you were working the other way, you could compute that yes, this value could be set. But not the inverse."
 	},
+	"NPWR08067_00":{
+		"duplicate":"NPWR04738_00",
+		"title":"Saints Row IV: Re-elected",
+		"note":"This is the PS4 Edition, mapped to the original PS3 Edition. Additional region variant [AU]."
+	},
 	"NPWR08137_00":{
 		"duplicate":"NPWR07711_00",
 		"title":"Never Alone",
