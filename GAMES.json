@@ -1984,6 +1984,11 @@
 		"duplicate":"NPWR02972_00",
 		"title":"Sleeping Dogs: Definitive Edition"
 	},
+	"NPWR07410_00":{
+		"duplicate":"NPWR04738_00",
+		"title":"Saints Row IV: Re-elected",
+		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+	},
 	"NPWR07486_00":{
 		"appid":35700,
 		"title":"Trine Enchanted Edition",
