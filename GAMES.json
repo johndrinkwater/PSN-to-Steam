@@ -726,6 +726,11 @@
 			"46":"DEAREST_OF_ALL_MY_FRIENDS"
 		}
 	},
+	"NPWR01682_00":{
+		"appid":367500,
+		"title":"Dragon's Dogma: Dark Arisen",
+		"mapping":false
+	},
 	"NPWR01719_00":{
 		"appid":600,
 		"title":"Portal 2",
