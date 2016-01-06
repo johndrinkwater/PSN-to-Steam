@@ -1543,6 +1543,26 @@
 	"NPWR04770_00":{
 		"duplicate":"NPWR04537_00"
 	},
+	"NPWR04772_00":{
+		"appid":239350,
+		"title":"Spelunky",
+		"mapping":{
+			"0":"-1",
+			"1":"ACH_SEEN_IT_ALL",
+			"2":"ACH_SEEN_A_LOT",
+			"3":"ACH_TO_HELL_AND_BACK",
+			"4":"ACH_SPEEDLUNKY",
+			"5":"ACH_IRONMAN",
+			"6":"ACH_ETERNAL_LIFE",
+			"7":"ACH_CITY_OF_GOLD",
+			"8":"ACH_BIG_MONEY",
+			"9":"ACH_MADE_IT",
+			"10":"ACH_ICE_CREAMED",
+			"11":"ACH_JUNGLE_JAMMED",
+			"12":"ACH_MINES_SHAFTED"
+		},
+		"note":"We don’t map ‘The Entire Gang’ as this trophy is for 8 characters, whereas Steam has 16."
+	},
 	"NPWR05008_00":{
 		"appid":219680,
 		"title":"Proteus",
