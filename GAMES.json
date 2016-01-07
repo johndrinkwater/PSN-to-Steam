@@ -1754,6 +1754,31 @@
 		"duplicate":"NPWR05400_00",
 		"note":"PS3 Edition."
 	},
+	"NPWR05431_00":{
+		"appid":108500,
+		"title":"Vessel",
+		"mapping":{
+			"0":"Achievement - global - create five fluro types",
+			"1":"Achievement - global - fix all machines - factory",
+			"2":"Achievement - 4.1.1 - seplunker",
+			"3":"Achievement - global - create every fluro type",
+			"4":"Achievement - global - red blue goo fluro",
+			"5":"Achievement - global - glow goo dark fluro",
+			"6":"Achievement - 4.4.2 - solve in one go",
+			"7":"Achievement - 3.1.4 - rocketjump",
+			"8":"Achievement - global - fix all machines",
+			"9":"Achievement - global - fix all machines - mines",
+			"10":"Achievement - 1.2.6 - keep lamp dry",
+			"11":"Achievement - global - collect all protoplasm",
+			"12":"Achievement - global - collect all protoplasm - factory",
+			"13":"Achievement - global - collect all protoplasm - mines",
+			"14":"Achievement - global - collect all protoplasm - tree",
+			"15":"Achievement - global - create ten fluro types",
+			"16":"Achievement - 1.3.7 - No redirect",
+			"17":"Achievement - global - push fluro into turbine",
+			"18":"Achievement - global - fix all machines - tree"
+		}
+	},
 	"NPWR05458_00":{
 		"duplicate":"NPWR02569_00",
 		"title":"Tomb Raider: Definitive Edition",
