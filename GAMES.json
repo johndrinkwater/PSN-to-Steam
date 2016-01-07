@@ -1873,6 +1873,10 @@
 		"title":"Contrast",
 		"note":"PS4, additional region variant [JP]"
 	},
+	"NPWR06009_00":{
+		"duplicate":"NPWR05431_00",
+		"title":"Vessel"
+	},
 	"NPWR06059_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
