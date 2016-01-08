@@ -141,6 +141,27 @@
 		},
 		"note":"TODO map DLC"
 	},
+	"NPWR00257_00":{
+		"appid":243780,
+		"title":"PixelJunk™ Monsters and Encore",
+		"mapping":{
+			"0":"E_TROPHY_RAINBOW_TEAM",
+			"1":"E_TROPHY_4_TREE_RAINBOW",
+			"2":"E_TROPHY_GET_MEDIEVIL",
+			"3":"E_TROPHY_TOWER_COLLECTED",
+			"4":"E_TROPHY_NO_CROSSING",
+			"5":"E_TROPHY_GREEN_FLAG",
+			"6":"E_TROPHY_PICKY_EATER",
+			"7":"E_TROPHY_GEM_HOARDER",
+			"8":"E_TROPHY_SCROOGE",
+			"9":"E_TROPHY_BOMB_THE_BOSS",
+			"10":"E_TROPHY_MONEY_GRABBER",
+			"11":"E_TROPHY_CONSTRUCTION_EXPERT",
+			"12":"E_TROPHY_WAVE_GOODBYE",
+			"13":"E_TROPHY_DEEP_IMPACT"
+		},
+		"note":"Maps onto ‘PixelJunk™ Monsters Ultimate’ on Steam"
+	},
 	"NPWR00261_00":{
 		"appid":10150,
 		"title":"[PROTOTYPE]™",
