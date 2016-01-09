@@ -1584,6 +1584,34 @@
 		},
 		"note":"We don’t map ‘The Entire Gang’ as this trophy is for 8 characters, whereas Steam has 16."
 	},
+	"NPWR04849_00":{
+		"appid":243780,
+		"title":"PixelJunk™ Monsters Ultimate HD",
+		"mapping":{
+			"0":"E_TROPHY_RAINBOW_TEAM",
+			"1":"E_TROPHY_4_TREE_RAINBOW",
+			"2":"E_TROPHY_GET_MEDIEVIL",
+			"3":"E_TROPHY_BOMB_THE_BOSS",
+			"4":"E_TROPHY_GEM_HOARDER",
+			"5":"E_TROPHY_GREEN_FLAG",
+			"6":"E_TROPHY_NO_CROSSING",
+			"7":"E_TROPHY_PICKY_EATER",
+			"8":"E_TROPHY_SCROOGE",
+			"9":"E_TROPHY_TOWER_COLLECTED",
+			"10":"E_TROPHY_DEEP_IMPACT",
+			"11":"E_TROPHY_MONEY_GRABBER",
+			"12":"E_TROPHY_WAVE_GOODBYE",
+			"13":"E_TROPHY_BLACK_FLAG",
+			"14":"E_TROPHY_WISHING_WELL",
+			"15":"E_TROPHY_ZERO_CARAT",
+			"16":"E_TROPHY_PERFECT_PARTNERS",
+			"17":"E_TROPHY_TUM_TUM_TRAVELLER",
+			"18":"E_TROPHY_VOODOO",
+			"19":"E_TROPHY_ISLAND_DEFENDER",
+			"20":"E_TROPHY_PAINT_THE_WORLD"
+		},
+		"note":"Related to NPWR00257_00"
+	},
 	"NPWR05008_00":{
 		"appid":219680,
 		"title":"Proteus",
