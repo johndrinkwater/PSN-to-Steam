@@ -205,6 +205,11 @@
 			"11":"VarietyIsTheSpice"
 		}
 	},
+	"NPWR00319_00":{
+		"appid":21900,
+		"title":"Tom Clancy’s H.A.W.X",
+		"mapping":false
+	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…",
