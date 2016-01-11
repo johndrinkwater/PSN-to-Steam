@@ -273,6 +273,11 @@
 		},
 		"note":"Love of the Game appears to be missing on Steam, interesting."
 	},
+	"NPWR00345_00":{
+		"appid":9870,
+		"title":"GHOSTBUSTERS™: The Video Game",
+		"mapping":false
+	},
 	"NPWR00350_00":{
 		"appid":105800,
 		"title":"PixelJunk™ Eden / Encore",
