@@ -187,6 +187,24 @@
 		"title":"Bionic Commando",
 		"mapping":false
 	},
+	"NPWR00313_00":{
+		"appid":19300,
+		"title":"Geon",
+		"mapping":{
+			"0":"ComebackKid",
+			"1":"CompletistFreak",
+			"2":"UseYourEmotion",
+			"3":"LeaguesAhead",
+			"4":"YoureAWinner",
+			"5":"OraKing",
+			"6":"LeagueOfYourOwn",
+			"7":"GettingOutMore",
+			"8":"NoPowerballs",
+			"9":"WorldDomination",
+			"10":"MiniGameMaster",
+			"11":"VarietyIsTheSpice"
+		}
+	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…",
