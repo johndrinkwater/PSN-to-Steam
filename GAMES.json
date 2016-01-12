@@ -273,6 +273,11 @@
 		},
 		"note":"Love of the Game appears to be missing on Steam, interesting."
 	},
+	"NPWR00331_00":{
+		"appid":33440,
+		"title":"DRIVER San Francisco",
+		"mapping":false
+	},
 	"NPWR00345_00":{
 		"appid":9870,
 		"title":"GHOSTBUSTERS™: The Video Game",
