@@ -345,6 +345,11 @@
 		"title":"Shaun White Snowboarding",
 		"mapping":false
 	},
+	"NPWR00403_00":{
+		"appid":110600,
+		"title":"Astro Tripper",
+		"mapping":"NEW_ACHIEVEMENT_2_%d"
+	},
 	"NPWR00419_00":{
 		"appid":19900,
 		"title":"Far Cry® 2",
