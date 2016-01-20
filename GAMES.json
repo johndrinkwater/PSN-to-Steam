@@ -432,6 +432,12 @@
 		"mapping":false,
 		"note":"Maps onto Sacred 2: Fallen Angel, Sacred 2: Fallen Angel (EU), and Sacred 2 Gold"
 	},
+	"NPWR00455_00":{
+		"appid":10170,
+		"title":"Wolfenstein™",
+		"mapping":false,
+		"note":"Currently removed from Steam store"
+	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
