@@ -660,6 +660,11 @@
 			"11":"speed_run"
 		}
 	},
+	"NPWR00894_00":{
+		"appid":33230,
+		"title":"Assassin's Creed II™",
+		"mapping":false
+	},
 	"NPWR00986_00":{
 		"appid":50620,
 		"title":"Darksiders",
