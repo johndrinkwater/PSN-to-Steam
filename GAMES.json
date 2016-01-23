@@ -1093,6 +1093,11 @@
 		},
 		"note":"TODO: Trophies 35-40 are part of the DLC, and have been mapped to the correct Steam achievements."
 	},
+	"NPWR02350_00":{
+		"appid":201870,
+		"title":"AC Revelations",
+		"mapping":false
+	},
 	"NPWR02540_00":{
 		"appid":215510,
 		"title":"Rocketbirds: Hardboiled Chicken",
