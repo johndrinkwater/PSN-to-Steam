@@ -1214,6 +1214,12 @@
 	"NPWR03003_00":{
 		"duplicate":"NPWR02249_00"
 	},
+	"NPWR03134_00":{
+		"appid":260210,
+		"title":"Assassin's Creed® III Liberation",
+		"note":"Would map onto Assassin's Creed Liberation (which is strictly ‘Assassin's Creed® Liberation HD’ PC)",
+		"mapping":false
+	},
 	"NPWR03138_00":{
 		"appid":208730,
 		"title":"Game of Thrones trophies",
