@@ -1761,6 +1761,12 @@
 		},
 		"note":"We don’t map ‘The Entire Gang’ as this trophy is for 8 characters, whereas Steam has 16."
 	},
+	"NPWR04787_00":{
+		"appid":260210,
+		"title":"Assassin's Creed® Liberation HD",
+		"note":"Would map onto Assassin's Creed Liberation. No duplicate because they don’t share 100% same Trophies.",
+		"mapping":false
+	},
 	"NPWR04849_00":{
 		"appid":243780,
 		"title":"PixelJunk™ Monsters Ultimate HD",
