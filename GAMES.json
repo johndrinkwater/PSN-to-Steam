@@ -2114,6 +2114,11 @@
 		"duplicate":"NPWR05431_00",
 		"title":"Vessel"
 	},
+	"NPWR06048_00":{
+		"appid":277590,
+		"title":"Assassin's Creed® Freedom Cry",
+		"mapping":false
+	},
 	"NPWR06059_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
