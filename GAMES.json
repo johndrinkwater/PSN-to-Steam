@@ -2124,6 +2124,11 @@
 		"title":"Contrast",
 		"note":"PS3, additional region variant [JP]"
 	},
+	"NPWR06071_00":{
+		"duplicate":"NPWR06048_00",
+		"title":"Assassin's Creed® Freedom Cry",
+		"mapping":false
+	},
 	"NPWR06087_00":{
 		"duplicate":"NPWR04544_00"
 	},
