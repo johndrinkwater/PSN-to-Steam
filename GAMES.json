@@ -1767,6 +1767,11 @@
 		"note":"Would map onto Assassin's Creed Liberation. No duplicate because they don’t share 100% same Trophies.",
 		"mapping":false
 	},
+	"NPWR04841_00":{
+		"duplicate":"NPWR04633_00",
+		"title":"Assassin's Creed® IV Black Flag",
+		"mapping":false
+	},
 	"NPWR04849_00":{
 		"appid":243780,
 		"title":"PixelJunk™ Monsters Ultimate HD",
