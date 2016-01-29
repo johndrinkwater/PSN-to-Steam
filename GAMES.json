@@ -2788,6 +2788,11 @@
 	"NPWR08771_00":{
 		"duplicate":"NPWR07545_00"
 	},
+	"NPWR08934_00":{
+		"appid":368500,
+		"title":"Assassin's Creed® Syndicate",
+		"mapping":false
+	},
 	"NPWR09266_00":{
 		"appid":244870,
 		"title":"Electronic Super Joy",
