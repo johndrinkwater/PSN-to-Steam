@@ -820,6 +820,11 @@
 		"title":"AC Brotherhood",
 		"mapping":false
 	},
+	"NPWR01438_00":{
+		"appid":47780,
+		"title":"Dead Space™ 2",
+		"mapping":false
+	},
 	"NPWR01460_00":{
 		"appid":[22380,22490,72720],
 		"title":"Fallout: New Vegas",
