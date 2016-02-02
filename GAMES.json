@@ -1077,6 +1077,10 @@
 		},
 		"note":"‘Slimer's evil twin’ is not mapped as the Steam achievements expanded to increments of 10, 30, 100. Of note, could map it to setting stat ATSTAT_SOLARBOSS_KILLS to 1 if < 1"
 	},
+	"NPWR01782_00":{
+		"duplicate":"NPWR01438_00",
+		"title":"Dead Space™ 2 - DE"
+	},
 	"NPWR01864_00":{
 		"appid":115320,
 		"title":"[PROTOTYPE®2]",
