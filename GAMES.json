@@ -495,6 +495,11 @@
 		},
 		"note":"Oddly, even the demo (appid 34130) has Steam achievements. With appid 10699 for the Beta"
 	},
+	"NPWR00464_00":{
+		"appid":17470,
+		"title":"Dead Space™",
+		"mapping":false
+	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
