@@ -879,7 +879,7 @@
 		"title":"Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep"
 	},
 	"NPWR01247_00":{
-		"appid":42700,
+		"appid":[42700,214630,42710,214640],
 		"title":"Call of Duty®: Black Ops",
 		"mapping":{
 			"1":"SP_LVL_CUBA_CASTRO_ONESHOT",
@@ -921,9 +921,9 @@
 			"37":"SP_VWIN_RIVER",
 			"38":"SP_VWIN_UNDERWATERBASE",
 			"39":"SP_GEN_FOUNDFILMS",
-			"40":"-1",
-			"41":"-1",
-			"42":"-1",
+			"40":"MP_FILM_CREATED",
+			"41":"MP_WAGER_MATCH",
+			"42":"MP_PLAY",
 			"43":"SP_ZOM_COLLECTOR",
 			"44":"SP_ZOM_NODAMAGE",
 			"45":"SP_ZOM_TRAPS",
@@ -933,7 +933,7 @@
 			"49":"SP_LVL_FRONTEND_CHAIR",
 			"50":"SP_LVL_FRONTEND_ZORK"
 		},
-		"note":"‘Date Night’, ‘In The Money’, and ‘Ready For Deployment’ are not mapped on Steam due to missing features"
+		"note":"214630 is Aspyr’s OSX appid, 42710 for multiplayer, 214640 for OSX multiplayer. ‘Date Night’, ‘In The Money’, and ‘Ready For Deployment’ are mapped onto the MP appids, due to a limitation(?) in our listings, we merge them all together. The OSX multiplayer is lacking ‘Date Night’"
 	},
 	"NPWR01251_00":{
 		"appid":332330,
