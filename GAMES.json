@@ -1764,6 +1764,11 @@
 		"title":"Remember Me™",
 		"mapping":"Achievement_%d"
 	},
+	"NPWR03875_00":{
+		"title":"Call of Duty® Black Ops: Declassified",
+		"mapping":false,
+		"note":"Vita port, anyone?"
+	},
 	"NPWR03885_00":{
 		"appid":271590,
 		"title":"Grand Theft Auto V",
