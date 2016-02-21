@@ -2271,6 +2271,11 @@
 		},
 		"note":"PS4 variant. PunchingBag achievement is not mapped, as it does not exist as a trophy."
 	},
+	"NPWR05236_00":{
+		"duplicate":"NPWR04874_00",
+		"title":"Call of Duty® Ghosts",
+		"note":"PS4 variant."
+	},
 	"NPWR05282_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
