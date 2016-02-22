@@ -2736,6 +2736,11 @@
 			"50":"COOP_FLIP_FLOP"
 		}
 	},
+	"NPWR07116_00":{
+		"duplicate":"NPWR07096_00",
+		"title":"Call of Duty®: Advanced Warfare",
+		"note":"PS4 Edition."
+	},
 	"NPWR07140_00":{
 		"duplicate":"NPWR04544_00",
 		"title":"Stealth Inc: Ultimate Edition",
