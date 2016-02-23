@@ -510,6 +510,12 @@
 		"title":"Call of Duty®: World at War",
 		"mapping":false
 	},
+	"NPWR00468_00":{
+		"appid":[16400,16450,16480],
+		"title":"F.E.A.R. 2: Project Origin",
+		"mapping":false,
+		"note":"16400 is the Beta, 16450 the actual title, and 16480 is the JP appid"
+	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
