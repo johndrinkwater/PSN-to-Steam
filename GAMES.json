@@ -756,6 +756,11 @@
 		"mapping":"ACH_%02d",
 		"note":"Referred to as ‘DARK SOULS™: Prepare To Die™ Edition’ on Steam"
 	},
+	"NPWR00819_00":{
+		"duplicate":"NPWR00468_00",
+		"title":"F.E.A.R. 2: Project Origin",
+		"note":"Additional region variant [JP]"
+	},
 	"NPWR00830_00":{
 		"appid":[9219,9200],
 		"title":"RAGE®",
