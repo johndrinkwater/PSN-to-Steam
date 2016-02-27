@@ -536,6 +536,11 @@
 			"13":"ACHIEVEMENT_VETERAN_FOOD_EATER"
 		}
 	},
+	"NPWR00472_00":{
+		"appid":209340,
+		"title":"Ride to Hell: Retribution",
+		"mapping":"ACHIEVEMENT_%d"
+	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
