@@ -541,6 +541,11 @@
 		"title":"Ride to Hell: Retribution",
 		"mapping":"ACHIEVEMENT_%d"
 	},
+	"NPWR00481_00":{
+		"appid":12800,
+		"title":"FUEL™",
+		"mapping":false
+	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
