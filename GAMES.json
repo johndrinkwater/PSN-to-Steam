@@ -546,6 +546,12 @@
 		"title":"FUEL™",
 		"mapping":false
 	},
+	"NPWR00484_00":{
+		"appid":49540,
+		"title":"Aliens: Colonial Marines",
+		"mapping":"Achievement_%d",
+		"note":"Steam achievements for DLC start at 51"
+	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
