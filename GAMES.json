@@ -608,6 +608,11 @@
 			"50":"Stage_HardestAI"
 		}
 	},
+	"NPWR00498_00":{
+		"appid":17480,
+		"title":"Command & Conquer™ Red Alert™ 3",
+		"mapping":false
+	},
 	"NPWR00499_00":{
 		"appid":17410,
 		"title":"Mirror's Edge™",
