@@ -618,6 +618,11 @@
 		"title":"Mirror's Edge™",
 		"mapping":false
 	},
+	"NPWR00502_00":{
+		"appid":42670,
+		"title":"Singularity Trophies",
+		"mapping":false
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
