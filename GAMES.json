@@ -676,6 +676,11 @@
 		},
 		"note":"‘Fire Hazard’ got renamed to ‘Stop, Drop, And Roll’ on Steam."
 	},
+	"NPWR00510_00":{
+		"appid":21980,
+		"title":"Call of Juarez: Bound in Blood",
+		"mapping":false
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
