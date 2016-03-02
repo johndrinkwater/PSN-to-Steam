@@ -681,6 +681,11 @@
 		"title":"Call of Juarez: Bound in Blood",
 		"mapping":false
 	},
+	"NPWR00512_00":{
+		"appid":21070,
+		"title":"Wanted",
+		"mapping":false
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
