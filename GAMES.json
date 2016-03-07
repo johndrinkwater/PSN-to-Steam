@@ -702,6 +702,25 @@
 		"mapping":false,
 		"note":"Called ‘Watchmen: The End Is Nigh’ on Steam"
 	},
+	"NPWR00529_00":{
+		"appid":21640,
+		"title":"FLOCK!",
+		"mapping":{
+			"0":"ACHIEVEMENT_0",
+			"1":"ACHIEVEMENT_1",
+			"2":"ACHIEVEMENT_2",
+			"3":"ACHIEVEMENT_11",
+			"4":"ACHIEVEMENT_12",
+			"5":"ACHIEVEMENT_5",
+			"6":"ACHIEVEMENT_6",
+			"7":"ACHIEVEMENT_7",
+			"8":"ACHIEVEMENT_8",
+			"9":"ACHIEVEMENT_3",
+			"10":"ACHIEVEMENT_10",
+			"11":"ACHIEVEMENT_9",
+			"12":"ACHIEVEMENT_4"
+		}
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
