@@ -1532,6 +1532,11 @@
 		"title":"Limbo",
 		"mapping":"ACH_%d"
 	},
+	"NPWR02159_00":{
+		"appid":204120,
+		"title":"LEGO® Harry Potter™: Years 5-7",
+		"mapping":false
+	},
 	"NPWR02249_00":{
 		"appid":207490,
 		"title":"Rayman® Origins",
