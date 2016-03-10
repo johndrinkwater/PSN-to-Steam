@@ -1758,6 +1758,12 @@
 		"title":"Sleeping Dogs™",
 		"mapping":"ACHIEVEMENT_%02d"
 	},
+	"NPWR02983_00":{
+		"appid":204120,
+		"title":"LEGO® Harry Potter™: Years 5-7",
+		"mapping":false,
+		"note":"Vita port, anyone?"
+	},
 	"NPWR03002_00":{
 		"appid":206370,
 		"title":"Tales from Space: Mutant Blobs Attack",
