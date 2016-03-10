@@ -1440,6 +1440,10 @@
 		"duplicate":"NPWR01438_00",
 		"title":"Dead Space™ 2 - DE"
 	},
+	"NPWR01862_00":{
+		"title":"Harry Potter and the Deathly Hallows™ - Part 2",
+		"mapping":false
+	},
 	"NPWR01864_00":{
 		"appid":115320,
 		"title":"[PROTOTYPE®2]",
