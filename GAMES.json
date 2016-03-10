@@ -1025,6 +1025,12 @@
 		"title":"Prince of Persia: The Forgotten Sands™",
 		"mapping":false
 	},
+	"NPWR01184_00":{
+		"appid":21130,
+		"title":"LEGO® Harry Potter™: Years 1-4",
+		"mapping":false,
+		"note":"Called ‘Lego Harry Potter’ on Steam"
+	},
 	"NPWR01220_00":{
 		"appid":31230,
 		"title":"Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak"
