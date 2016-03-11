@@ -730,6 +730,11 @@
 		"title":"X-Blades",
 		"mapping":false
 	},
+	"NPWR00534_00":{
+		"title":"Catan's Trophies",
+		"mapping":false,
+		"note":"This is not the Catan on Steam"
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
