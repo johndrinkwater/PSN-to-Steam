@@ -1663,6 +1663,11 @@
 			"50":"OVERACHIEVER"
 		}
 	},
+	"NPWR02323_00":{
+		"appid":32800,
+		"title":"The Lord of the Rings: War in the North",
+		"mapping":"%d"
+	},
 	"NPWR02350_00":{
 		"appid":201870,
 		"title":"AC Revelations",
