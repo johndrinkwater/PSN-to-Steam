@@ -1193,6 +1193,10 @@
 		},
 		"note":"Appid 17200 is for the Beta, which has achievements as well"
 	},
+	"NPWR01348_00":{
+		"title":"The Lord of the Rings: Aragorn's Quest™",
+		"mapping":false
+	},
 	"NPWR01438_00":{
 		"appid":47780,
 		"title":"Dead Space™ 2",
