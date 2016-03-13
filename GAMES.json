@@ -1967,6 +1967,39 @@
 			"48":"RAFT_FIRE_AND_ICE_BOWS"
 		}
 	},
+	"NPWR03218_00":{
+		"appid":214510,
+		"title":"LEGO® The Lord of the Rings™",
+		"mapping":{
+			"1":"COMPLETE_STORYEVENT1",
+			"2":"COMPLETE_STORYEVENT2",
+			"3":"COMPLETE_STORYEVENT3",
+			"4":"COMPLETE_STORYEVENT5",
+			"5":"COMPLETE_STORYEVENT6",
+			"6":"COMPLETE_STORYEVENT7",
+			"7":"COMPLETE_STORYEVENT9",
+			"8":"-1",
+			"9":"COMPLETE_STORYEVENT11",
+			"10":"COMPLETE_STORYEVENT13",
+			"11":"COMPLETE_STORYEVENT15",
+			"12":"COMPLETE_STORYEVENT16",
+			"13":"COMPLETE_STORYEVENT17",
+			"14":"COMPLETE_STORYEVENT18",
+			"15":"COLLECT_ALL_GOLD_BRICKS",
+			"16":"COMPLETE_ALL_FETCH_QUESTS",
+			"17":"GET_100_PERCENT",
+			"18":"UNLOCK_ALL_MAP_STONES",
+			"19":"UNLOCK_ALL_CHARACTERS",
+			"20":"GET_TRUEHERO_ALL_LEVELS",
+			"21":"-1",
+			"22":"DEFEAT_GOLLUM_AS_GOLLUM",
+			"23":"COMPLETE_X_COOKING_PUZZLES",
+			"24":"WALK_INTO_MORDOR",
+			"25":"DEFEAT_OLIPHANT_AS_LEGOLAS",
+			"26":"-1"
+		},
+		"note":"Vita variant, diff mapping to NPWR03217_00. Unmapped trophies are ‘Hobbits really are amazing creatures.’, ‘You shall not pass!’ and ‘The last laugh.’"
+	},
 	"NPWR03221_00":{
 		"duplicate":"NPWR03138_00",
 		"title":"Game of Thrones trophies"
