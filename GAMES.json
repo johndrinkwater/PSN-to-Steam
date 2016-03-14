@@ -739,6 +739,24 @@
 		"title":"The Lord of the Rings: Conquest™",
 		"mapping":false
 	},
+	"NPWR00541_00":{
+		"appid":23510,
+		"title":"Texas Cheat'em",
+		"mapping":{
+			"0":"PowerOfSuggestion",
+			"1":"YouLowDownDirtyBeep",
+			"2":"StickyFingers",
+			"3":"YoureMissingThePointHere",
+			"4":"NoseyParker",
+			"5":"Overkill",
+			"6":"Fixer",
+			"7":"ComeOutAndPlay",
+			"8":"SomethingsFishy",
+			"9":"CheaterForLife",
+			"10":"LikeABadRash",
+			"11":"LuckOtheDraw"
+		}
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
