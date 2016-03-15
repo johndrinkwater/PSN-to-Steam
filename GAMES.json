@@ -767,6 +767,12 @@
 		"title":"Overlord II",
 		"mapping":false
 	},
+	"NPWR00556_00":{
+		"appid":3300,
+		"title":"Bejeweled 2",
+		"mapping":false,
+		"note":"Appears to be called ‘Bejeweled 2 Deluxe’ on Steam, yet either way no mapping."
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
