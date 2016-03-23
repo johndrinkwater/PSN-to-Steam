@@ -773,6 +773,12 @@
 		"mapping":false,
 		"note":"Appears to be called ‘Bejeweled 2 Deluxe’ on Steam, yet either way no mapping."
 	},
+	"NPWR00560_00":{
+		"appid":34180,
+		"title":"Vancouver 2010™",
+		"mapping":false,
+		"note":"Called ‘Vancouver 2010: The Official Video Game of the Olympic Winter Games’ on Steam."
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
