@@ -1041,6 +1041,10 @@
 		"title":"Assassin's Creed II™",
 		"mapping":false
 	},
+	"NPWR00982_00":{
+		"duplicate":"NPWR00582_00",
+		"title":"NBA 2K10"
+	},
 	"NPWR00986_00":{
 		"appid":50620,
 		"title":"Darksiders",
