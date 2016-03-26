@@ -789,6 +789,12 @@
 		"title":"Blur",
 		"mapping":false
 	},
+	"NPWR00570_00":{
+		"appid":3410,
+		"title":"Heavy Weapon",
+		"mapping":false,
+		"note":"‘Heavy Weapon Deluxe’ on Steam."
+	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
