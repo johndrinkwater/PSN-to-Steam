@@ -983,6 +983,10 @@
 		"title":"F.E.A.R. 2: Project Origin",
 		"note":"Additional region variant [JP]"
 	},
+	"NPWR00829_00":{
+		"duplicate":"NPWR00570_00",
+		"title":"Heavy Weapon"
+	},
 	"NPWR00830_00":{
 		"appid":[9219,9200],
 		"title":"RAGE®",
