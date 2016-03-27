@@ -1114,6 +1114,11 @@
 		"mapping":false,
 		"note":"Called ‘Lego Harry Potter’ on Steam"
 	},
+	"NPWR01217_00":{
+		"appid":65950,
+		"title":"NBA 2K11",
+		"mapping":false
+	},
 	"NPWR01220_00":{
 		"appid":31230,
 		"title":"Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak"
