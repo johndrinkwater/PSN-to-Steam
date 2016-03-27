@@ -2518,6 +2518,11 @@
 		},
 		"note":"We don’t map ‘The Entire Gang’ as this trophy is for 8 characters, whereas Steam has 16."
 	},
+	"NPWR04773_00":{
+		"appid":255480,
+		"title":"NBA 2K14",
+		"mapping":false
+	},
 	"NPWR04787_00":{
 		"appid":260210,
 		"title":"Assassin's Creed® Liberation HD",
