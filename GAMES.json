@@ -2188,6 +2188,11 @@
 		},
 		"note":"PS3 and PS4 Edition."
 	},
+	"NPWR03709_00":{
+		"appid":219600,
+		"title":"NBA 2K13",
+		"mapping":false
+	},
 	"NPWR03805_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™",
