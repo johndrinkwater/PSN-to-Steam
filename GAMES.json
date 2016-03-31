@@ -805,6 +805,25 @@
 		"title":"NBA 2K10",
 		"mapping":false
 	},
+	"NPWR00595_00":{
+		"appid":111300,
+		"title":"Smash Cars",
+		"mapping":{
+			"0":"Bronze Champion",
+			"1":"Silver Champion",
+			"2":"Gold Champion",
+			"3":"Demolition Master",
+			"4":"Air Time Expert",
+			"5":"Star Collector",
+			"6":"Trickster",
+			"7":"Lap Champ",
+			"8":"Race Ace",
+			"9":"Smash Cars Superstar",
+			"10":"Smart Driver",
+			"11":"Safe Driver"
+		},
+		"note":"Virus Run DLC not on Steam"
+	},
 	"NPWR00603_00":{
 		"appid":[22300,22370],
 		"title":"Fallout 3",
