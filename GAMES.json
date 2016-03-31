@@ -824,6 +824,11 @@
 		},
 		"note":"Virus Run DLC not on Steam"
 	},
+	"NPWR00599_00":{
+		"appid":24870,
+		"title":"Need for Speed™ SHIFT",
+		"mapping":false
+	},
 	"NPWR00603_00":{
 		"appid":[22300,22370],
 		"title":"Fallout 3",
