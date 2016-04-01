@@ -2164,6 +2164,10 @@
 		"title":"DOOM® 3",
 		"mapping":"ach_%d"
 	},
+	"NPWR03602_00":{
+		"duplicate":"NPWR01813_00",
+		"title":"Need for Speed™ Most Wanted"
+	},
 	"NPWR03606_00":{
 		"appid":214490,
 		"title":"Alien: Isolation",
