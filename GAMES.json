@@ -1561,6 +1561,10 @@
 		"duplicate":"NPWR01438_00",
 		"title":"Dead Space™ 2 - DE"
 	},
+	"NPWR01813_00":{
+		"title":"Need for Speed™ Most Wanted",
+		"mapping":false
+	},
 	"NPWR01862_00":{
 		"title":"Harry Potter and the Deathly Hallows™ - Part 2",
 		"mapping":false
