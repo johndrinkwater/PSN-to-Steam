@@ -2770,6 +2770,10 @@
 		"title":"Contrast",
 		"note":"PS3 variant."
 	},
+	"NPWR05335_00":{
+		"duplicate":"NPWR04720_00",
+		"title":"Need for Speed™ Rivals"
+	},
 	"NPWR05348_00":{
 		"appid":204300,
 		"title":"Awesomenauts Assemble!",
