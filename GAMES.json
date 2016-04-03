@@ -3204,6 +3204,11 @@
 		},
 		"note":"Plenty of unmapped Steam achievements, as the Sunrise DLC has not hit PSN yet"
 	},
+	"NPWR06740_00":{
+		"appid":261640,
+		"title":"Borderlands: The Pre-Sequel",
+		"mapping":"Achievement_%d"
+	},
 	"NPWR06760_00":{
 		"appid":282350,
 		"title":"NBA 2K15",
