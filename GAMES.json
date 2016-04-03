@@ -3410,6 +3410,11 @@
 		"title":"Assassin's Creed® Rogue",
 		"mapping":false
 	},
+	"NPWR07228_00":{
+		"duplicate":"NPWR06140_00",
+		"title":"Tales from the Borderlands",
+		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+	},
 	"NPWR07279_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™: Definitive Edition",
