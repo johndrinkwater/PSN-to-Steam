@@ -3677,6 +3677,11 @@
 		"duplicate":"NPWR07711_00",
 		"title":"Never Alone"
 	},
+	"NPWR07862_00":{
+		"duplicate":"NPWR01537_00",
+		"title":"Borderlands 2",
+		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+	},
 	"NPWR07875_00":{
 		"appid":319630,
 		"title":"Life Is Strange™",
