@@ -3747,6 +3747,11 @@
 		"mapping":"TROPHY NAME %d",
 		"mapoffset":"+1"
 	},
+	"NPWR07892_00":{
+		"duplicate":"NPWR06740_00",
+		"title":"Borderlands: The Pre-Sequel",
+		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+	},
 	"NPWR07927_00":{
 		"duplicate":"NPWR07875_00"
 	},
