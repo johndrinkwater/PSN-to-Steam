@@ -844,6 +844,11 @@
 		"mapping":"Achievement_%d",
 		"note":"8950 appears to possibly be a defunct review appid? 1-50 is the main game. 51-55, 56-60, 61-70, 71-80 are the DLC updates."
 	},
+	"NPWR00621_00":{
+		"appid":35000,
+		"title":"MiNi NiNJAS™",
+		"mapping":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
