@@ -849,6 +849,11 @@
 		"title":"MiNi NiNJAS™",
 		"mapping":false
 	},
+	"NPWR00623_00":{
+		"appid":21080,
+		"title":"Terminator Salvation",
+		"mapping":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
