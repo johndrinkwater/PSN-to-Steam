@@ -1192,6 +1192,11 @@
 		"title":"Battlefield: Bad Company™ 2",
 		"mapping":false
 	},
+	"NPWR01012_00":{
+		"duplicate":"NPWR00626_00",
+		"title":"Batman: Arkham Asylum",
+		"note":"Additional region variant"
+	},
 	"NPWR01104_00":{
 		"appid":31220,
 		"title":"Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone"
