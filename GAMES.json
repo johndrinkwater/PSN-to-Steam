@@ -2483,6 +2483,11 @@
 		},
 		"note":"This differs from the existing PS3 mapped title (NPWR02540_00). It lacks mapping to the `knifer`, `coop-carrier`, and `punchkick-100` Steam achievements."
 	},
+	"NPWR04151_00":{
+		"appid":209000,
+		"title":"Batman™: Arkham Origins",
+		"mapping":"Achievement_%d"
+	},
 	"NPWR04270_00":{
 		"appid":105600,
 		"title":"Terraria",
