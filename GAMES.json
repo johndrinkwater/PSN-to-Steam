@@ -2625,6 +2625,11 @@
 		"title":"Need for Speed™ Rivals",
 		"mapping":false
 	},
+	"NPWR04724_00":{
+		"duplicate":"NPWR05907_00",
+		"title":"Batman: Arkham Origins Blackgate",
+		"note":"Vita variant."
+	},
 	"NPWR04738_00":{
 		"appid":206420,
 		"title":"Saints Row IV",
