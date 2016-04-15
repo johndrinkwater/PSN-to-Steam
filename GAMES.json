@@ -2039,6 +2039,12 @@
 		"mapping":false,
 		"note":"Vita port, anyone?"
 	},
+	"NPWR02996_00":{
+		"appid":213330,
+		"title":"LEGO® Batman™ 2: DC Super Heroes",
+		"mapping":false,
+		"note":"Vita variant."
+	},
 	"NPWR02997_00":{
 		"appid":213330,
 		"title":"LEGO® Batman™ 2: DC Super Heroes",
