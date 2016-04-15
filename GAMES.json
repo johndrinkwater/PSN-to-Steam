@@ -2039,6 +2039,11 @@
 		"mapping":false,
 		"note":"Vita port, anyone?"
 	},
+	"NPWR02997_00":{
+		"appid":213330,
+		"title":"LEGO® Batman™ 2: DC Super Heroes",
+		"mapping":false
+	},
 	"NPWR03002_00":{
 		"appid":206370,
 		"title":"Tales from Space: Mutant Blobs Attack",
