@@ -3336,6 +3336,11 @@
 			"28":"COMBO_GOD"
 		}
 	},
+	"NPWR06510_00":{
+		"duplicate":"NPWR06512_00",
+		"title":"LEGO® Batman™ 3",
+		"note":"This is the PS4 Edition"
+	},
 	"NPWR06512_00":{
 		"appid":313690,
 		"title":"LEGO® Batman™ 3",
