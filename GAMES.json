@@ -3387,6 +3387,12 @@
 			"40":"ACHIEVEMENT_TURN_ON_ALL_RED_BRICKS"
 		}
 	},
+	"NPWR06513_00":{
+		"appid":313690,
+		"title":"LEGO® Batman™ 3: Beyond Gotham",
+		"mapping":false,
+		"note":"Vita variant, diff mapping to NPWR06512_00."
+	},
 	"NPWR06736_00":{
 		"appid":253030,
 		"title":"Race The Sun",
