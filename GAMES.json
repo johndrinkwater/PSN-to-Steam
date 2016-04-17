@@ -1079,7 +1079,7 @@
 	"NPWR00819_00":{
 		"duplicate":"NPWR00468_00",
 		"title":"F.E.A.R. 2: Project Origin",
-		"note":"Additional region variant [JP]"
+		"note":"Additional region variant [JP]."
 	},
 	"NPWR00829_00":{
 		"duplicate":"NPWR00570_00",
@@ -1733,7 +1733,7 @@
 			"11":"rope",
 			"12":"bubble"
 		},
-		"note":"Trine 2 {PS3 Edition}"
+		"note":"PS3 Edition."
 	},
 	"NPWR02059_00":{
 		"appid":[202970,202990,212910],
@@ -2043,7 +2043,7 @@
 		"appid":213330,
 		"title":"LEGO® Batman™ 2: DC Super Heroes",
 		"mapping":false,
-		"note":"Vita variant."
+		"note":"Vita Edition."
 	},
 	"NPWR02997_00":{
 		"appid":213330,
@@ -2261,7 +2261,7 @@
 			"25":"DEFEAT_OLIPHANT_AS_LEGOLAS",
 			"26":"-1"
 		},
-		"note":"Vita variant, diff mapping to NPWR03217_00. Unmapped trophies are ‘Hobbits really are amazing creatures.’, ‘You shall not pass!’ and ‘The last laugh.’"
+		"note":"Vita Edition, diff mapping to NPWR03217_00. Unmapped trophies are ‘Hobbits really are amazing creatures.’, ‘You shall not pass!’ and ‘The last laugh.’"
 	},
 	"NPWR03221_00":{
 		"duplicate":"NPWR03138_00",
@@ -2374,7 +2374,7 @@
 			"49":"CA_FIRE_BOLTGUN",
 			"50":"CA_MELEEONLY_ANDROIDKILL"
 		},
-		"note":"PS3 and PS4 Edition."
+		"note":"PS3, and PS4 Edition."
 	},
 	"NPWR03709_00":{
 		"appid":219600,
@@ -2456,7 +2456,7 @@
 	"NPWR03948_00":{
 		"duplicate":"NPWR03174_00",
 		"title":"Darksiders II",
-		"note":"Additional region variant [JP]"
+		"note":"Additional region variant [JP]."
 	},
 	"NPWR04105_00":{
 		"appid":215510,
@@ -2639,7 +2639,7 @@
 	"NPWR04724_00":{
 		"duplicate":"NPWR05907_00",
 		"title":"Batman: Arkham Origins Blackgate",
-		"note":"Vita variant."
+		"note":"Vita Edition."
 	},
 	"NPWR04738_00":{
 		"appid":206420,
@@ -2915,17 +2915,17 @@
 			"19":"YouBrokeMyFinger",
 			"20":"BookKeeper"
 		},
-		"note":"PS4 variant. PunchingBag achievement is not mapped, as it does not exist as a trophy."
+		"note":"PS4 Edition. PunchingBag achievement is not mapped, as it does not exist as a trophy."
 	},
 	"NPWR05236_00":{
 		"duplicate":"NPWR04874_00",
 		"title":"Call of Duty® Ghosts",
-		"note":"PS4 variant."
+		"note":"PS4 Edition."
 	},
 	"NPWR05282_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
-		"note":"PS3 variant."
+		"note":"PS3 Edition."
 	},
 	"NPWR05335_00":{
 		"duplicate":"NPWR04720_00",
@@ -3114,12 +3114,12 @@
 			"49":"allexp_both",
 			"50":"allhc"
 		},
-		"note":"Trine 2 {PS4 Edition}. Note there is another npcommid for this title, I just do not know it yet. Because this maps onto an adjusted Steam update, achievements like `solo` are not mapped at all! Look into ‘computing’ these in future (having any of 43-45 should imply this)"
+		"note":"PS4 Edition. Note there is another npcommid for this title, I just do not know it yet. Because this maps onto an adjusted Steam update, achievements like `solo` are not mapped at all! Look into ‘computing’ these in future (having any of 43-45 should imply this)"
 	},
 	"NPWR05595_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
-		"note":"PS4, additional region variant"
+		"note":"PS4 Edition, additional region variant."
 	},
 	"NPWR05677_00":{
 		"duplicate":"NPWR04537_00"
@@ -3189,12 +3189,12 @@
 	"NPWR05962_00":{
 		"duplicate":"NPWR03606_00",
 		"title":"Alien: Isolation",
-		"note":"Additional region variant [JP]"
+		"note":"Additional region variant [JP]."
 	},
 	"NPWR05964_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
-		"note":"PS4, additional region variant [JP]"
+		"note":"PS4 Edition, additional region variant [JP]."
 	},
 	"NPWR06009_00":{
 		"duplicate":"NPWR05431_00",
@@ -3208,7 +3208,7 @@
 	"NPWR06059_00":{
 		"duplicate":"NPWR05188_00",
 		"title":"Contrast",
-		"note":"PS3, additional region variant [JP]"
+		"note":"PS3 Edition, additional region variant [JP]."
 	},
 	"NPWR06071_00":{
 		"duplicate":"NPWR06048_00",
@@ -3394,7 +3394,7 @@
 	"NPWR06510_00":{
 		"duplicate":"NPWR06512_00",
 		"title":"LEGO® Batman™ 3",
-		"note":"This is the PS4 Edition"
+		"note":"PS4 Edition."
 	},
 	"NPWR06512_00":{
 		"appid":313690,
@@ -3446,7 +3446,7 @@
 		"appid":313690,
 		"title":"LEGO® Batman™ 3: Beyond Gotham",
 		"mapping":false,
-		"note":"Vita variant, diff mapping to NPWR06512_00."
+		"note":"Vita Edition, diff mapping to NPWR06512_00."
 	},
 	"NPWR06736_00":{
 		"appid":253030,
@@ -3527,7 +3527,7 @@
 			"48":"-1",
 			"49":"-1"
 		},
-		"note":"This is the PS3 Edition"
+		"note":"PS3 Edition."
 	},
 	"NPWR06804_00":{
 		"appid":298110,
@@ -3589,7 +3589,7 @@
 			"49":"MISC_SPRITE_SLAM_DUNK",
 			"50":"MISC_WATCH_ALL_TRAINING_VIDEOS"
 		},
-		"note":"This is the PS4 Edition"
+		"note":"PS4 Edition."
 	},
 	"NPWR06916_00":{
 		"appid":267060,
@@ -3682,7 +3682,7 @@
 	"NPWR07228_00":{
 		"duplicate":"NPWR06140_00",
 		"title":"Tales from the Borderlands",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR07279_00":{
 		"appid":220440,
@@ -3753,7 +3753,7 @@
 	"NPWR07410_00":{
 		"duplicate":"NPWR04738_00",
 		"title":"Saints Row IV: Re-elected",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR07486_00":{
 		"appid":35700,
@@ -3944,7 +3944,7 @@
 	"NPWR07862_00":{
 		"duplicate":"NPWR01537_00",
 		"title":"Borderlands 2",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR07875_00":{
 		"appid":319630,
@@ -4019,7 +4019,7 @@
 	"NPWR07892_00":{
 		"duplicate":"NPWR06740_00",
 		"title":"Borderlands: The Pre-Sequel",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR07927_00":{
 		"duplicate":"NPWR07875_00"
@@ -4092,7 +4092,7 @@
 	"NPWR08067_00":{
 		"duplicate":"NPWR04738_00",
 		"title":"Saints Row IV: Re-elected",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition. Additional region variant [AU]."
+		"note":"PS4 Edition, additional region variant [AU]."
 	},
 	"NPWR08137_00":{
 		"duplicate":"NPWR07711_00",
@@ -4102,17 +4102,17 @@
 	"NPWR08145_00":{
 		"duplicate":"NPWR00261_00",
 		"title":"[PROTOTYPE®]",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR08146_00":{
 		"duplicate":"NPWR01864_00",
 		"title":"[PROTOTYPE®2]",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR08199_00":{
 		"duplicate":"NPWR05751_00",
 		"title":"DARK SOULS™ Ⅱ: Scholar of the First Sin",
-		"note":"This is the PS4 Edition, mapped to the original PS3 Edition."
+		"note":"PS4 Edition."
 	},
 	"NPWR08255_00":{
 		"duplicate":"NPWR02972_00",
@@ -4232,7 +4232,7 @@
 			"49":"MYTEAM_FINISH_GAUNTLET",
 			"50":"MYTEAM_COMPLETE_ACCOLADE"
 		},
-		"note":"This is the PS4 Edition"
+		"note":"PS4 Edition."
 	},
 	"NPWR09266_00":{
 		"appid":244870,
