@@ -3175,6 +3175,11 @@
 			"39":"CREATE_A_CUSTOM_CHARACTER"
 		}
 	},
+	"NPWR05905_00":{
+		"title":"LEGO® The Hobbit™",
+		"mapping":false,
+		"note":"Vita Edition, diff mapping to NPWR05887_00."
+	},
 	"NPWR05907_00":{
 		"appid":267490,
 		"title":"Batman™: Arkham Origins Blackgate - Deluxe Edition",
