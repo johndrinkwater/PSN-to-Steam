@@ -3213,6 +3213,11 @@
 	"NPWR06087_00":{
 		"duplicate":"NPWR04544_00"
 	},
+	"NPWR06094_00":{
+		"duplicate":"NPWR05887_00",
+		"title":"LEGO® The Hobbit™",
+		"note":"PS4 Edition."
+	},
 	"NPWR06140_00":{
 		"appid":330830,
 		"title":"Tales from the Borderlands",
