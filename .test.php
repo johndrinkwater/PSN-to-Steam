@@ -84,7 +84,7 @@
 				'title'		=> 'is_string',
 				'duplicate'	=> 'is_npcommid',
 				'note'		=> 'is_string',
-				'mapping'	=> 'is_set',
+				'map'	=> 'is_set',
 				'mapoffset'	=> 'is_string'
 			);
 
@@ -117,7 +117,7 @@
 
 							$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty string' );
 
-						} else if ( $key === 'mapping' ) {
+						} else if ( $key === 'map' ) {
 
 							if ( is_array( $value ) ) {
 
@@ -139,7 +139,7 @@
 								}
 								$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping' );
 								unset( $valuesmapped );
-
+                                /*
 								$maps = $value;
 								ksort( $maps, SORT_NUMERIC );
 								if ( $value !== $maps ) {
@@ -158,7 +158,7 @@
 										}
 										$this->assertEquals( $trophyKeys[ $i ], $trophySortedKeys[ $i ], 'Mapping must be sorted by trophyid, "' . $message );
 									}
-								}
+								} */
 
 							} else if ( is_string( $value ) ) {
 
@@ -170,12 +170,12 @@
 									/* We are a direct mapping of 0 → name_00, 1 → name_01 */
 								} else {
 
-									$this->assertTrue( false, 'Value "' . $value . '" for "mapping" is not a valid mapping string' );
+									$this->assertTrue( false, 'Value "' . $value . '" for "map" is not a valid map string' );
 								}
 							} else {
 
-								// for direct mappings, we use "mapping": false
-								// XXX rework this to confirm NO mapping exists
+								// for direct mappings, we use "map": false
+								// XXX rework this to confirm NO map exists
 								$this->assertTrue( $value === false, '"' . $key . '" is not a valid value' );
 							}
 						}

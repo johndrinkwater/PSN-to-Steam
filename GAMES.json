@@ -2,27 +2,27 @@
 	"NPWR00132_00":{
 		"appid":[12210,200690],
 		"title":"GTA IV",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00133_00":{
 		"appid":8190,
 		"title":"Just Cause 2",
-		"mapping":"Achievement%d"
+		"map":"Achievement%d"
 	},
 	"NPWR00156_00":{
 		"appid":32430,
 		"title":"Star Wars: The Force Unleashed",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00179_00":{
 		"appid":322600,
 		"title":"Pure",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00194_00":{
 		"appid":13210,
 		"title":"Unreal Tournament ® 3",
-		"mapping":[
+		"map":[
 			"",
 			"EUTA_CAMPAIGN_Chapter1",
 			"EUTA_CAMPAIGN_SignTreaty",
@@ -77,18 +77,18 @@
 	"NPWR00206_00":{
 		"appid":9860,
 		"title":"The Chronicles of Riddick™ Assault on Dark Athena",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00234_00":{
 		"appid":24740,
 		"title":"Burnout™ Paradise",
-		"mapping":false,
+		"map":false,
 		"note":"Maps to Burnout Paradise: The Ultimate Box, which has zero achievements"
 	},
 	"NPWR00254_00":{
 		"appid":20500,
 		"title":"Red Faction: Guerrilla",
-		"mapping":[
+		"map":[
 			"",
 			"Welcome to Mars",
 			"You're in the Faction Now",
@@ -146,7 +146,7 @@
 	"NPWR00257_00":{
 		"appid":243780,
 		"title":"PixelJunk™ Monsters and Encore",
-		"mapping":[
+		"map":[
 			"E_TROPHY_RAINBOW_TEAM",
 			"E_TROPHY_4_TREE_RAINBOW",
 			"E_TROPHY_GET_MEDIEVIL",
@@ -167,32 +167,32 @@
 	"NPWR00261_00":{
 		"appid":10150,
 		"title":"[PROTOTYPE]™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00283_00":{
 		"appid":21680,
 		"title":"Bionic Commando Rearmed",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00287_00":{
 		"appid":211970,
 		"title":"Ferrari Racing Legends",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00288_00":{
 		"appid":12790,
 		"title":"Damnation™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00305_00":{
 		"appid":21670,
 		"title":"Bionic Commando",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00313_00":{
 		"appid":19300,
 		"title":"Geon",
-		"mapping":[
+		"map":[
 			"ComebackKid",
 			"CompletistFreak",
 			"UseYourEmotion",
@@ -210,17 +210,17 @@
 	"NPWR00319_00":{
 		"appid":21900,
 		"title":"Tom Clancy’s H.A.W.X",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00323_00":{
 		"title":"Battlefield: Bad Company",
 		"note":"Not even on Steam…",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00328_00":{
 		"appid":28000,
 		"title":"Kane & Lynch 2: Dog Days",
-		"mapping":[
+		"map":[
 			"",
 			"SIAI_COMPLETE_CHAP_01",
 			"SIAI_COMPLETE_CHAP_02",
@@ -279,22 +279,22 @@
 	"NPWR00331_00":{
 		"appid":33440,
 		"title":"DRIVER San Francisco",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00338_00":{
 		"appid":10690,
 		"title":"Virtua Tennis 2009",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00345_00":{
 		"appid":9870,
 		"title":"GHOSTBUSTERS™: The Video Game",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00350_00":{
 		"appid":105800,
 		"title":"PixelJunk™ Eden / Encore",
-		"mapping":[
+		"map":[
 			"ACH_STAGE_FULL_SEED_OPEN1",
 			"ACH_STAGE_FULL_SEED_OPEN2",
 			"ACH_STAGE_FULL_SEED_OPEN3",
@@ -319,44 +319,44 @@
 	"NPWR00352_00":{
 		"appid":7670,
 		"title":"BioShock",
-		"mapping":false,
+		"map":false,
 		"note":"Steam has no gaems^Wachievements… yet?"
 	},
 	"NPWR00359_00":{
 		"appid":10080,
 		"title":"Quantum of Solace",
-		"mapping":false,
+		"map":false,
 		"note":"No longer purchasable on Steam… and doesn’t have achievements"
 	},
 	"NPWR00374_00":{
 		"appid":19980,
 		"title":"Prince of Persia",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00375_00":{
 		"appid":[10650,10660],
 		"title":"Stormrise",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00382_00":{
 		"appid":50510,
 		"title":"Burn Zombie Burn!",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00390_00":{
 		"appid":19990,
 		"title":"Shaun White Snowboarding",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00403_00":{
 		"appid":110600,
 		"title":"Astro Tripper",
-		"mapping":"NEW_ACHIEVEMENT_2_%d"
+		"map":"NEW_ACHIEVEMENT_2_%d"
 	},
 	"NPWR00404_00":{
 		"appid":21690,
 		"title":"RESIDENT EVIL 5",
-		"mapping":[
+		"map":[
 			"",
 			"ACH_CHAPTER11_CLEAR",
 			"ACH_CHAPTER12_CLEAR",
@@ -413,39 +413,39 @@
 	"NPWR00419_00":{
 		"appid":19900,
 		"title":"Far Cry® 2",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00426_00":{
 		"appid":34190,
 		"title":"Sonic & SEGA All-Stars Racing",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00429_00":{
 		"appid":12840,
 		"title":"DiRT 2",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00441_00":{
 		"appid":21800,
 		"title":"Tom Clancy's EndWar™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00447_00":{
 		"appid":[22700, 200060, 225640],
 		"title":"Sacred 2 - Fallen Angel",
-		"mapping":false,
+		"map":false,
 		"note":"Maps onto Sacred 2: Fallen Angel, Sacred 2: Fallen Angel (EU), and Sacred 2 Gold"
 	},
 	"NPWR00455_00":{
 		"appid":10170,
 		"title":"Wolfenstein™",
-		"mapping":false,
+		"map":false,
 		"note":"Currently removed from Steam store"
 	},
 	"NPWR00461_00":{
 		"appid":[10680, 10699, 34130],
 		"title":"Aliens vs Predator",
-		"mapping":[
+		"map":[
 			"ALL_ACH",
 			"ALL_CAMPAIGN",
 			"MARINE_1",
@@ -502,28 +502,28 @@
 	"NPWR00464_00":{
 		"appid":17470,
 		"title":"Dead Space™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00466_00":{
 		"appid":21920,
 		"title":"Wheelman",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00467_00":{
 		"appid":10090,
 		"title":"Call of Duty®: World at War",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00468_00":{
 		"appid":[16400,16450,16480],
 		"title":"F.E.A.R. 2: Project Origin",
-		"mapping":false,
+		"map":false,
 		"note":"16400 is the Beta, 16450 the actual title, and 16480 is the JP appid"
 	},
 	"NPWR00469_00":{
 		"appid":61730,
 		"title":"Critter Crunch",
-		"mapping":[
+		"map":[
 			"ACHIEVEMENT_KING_OF_THE_JUNGLE",
 			"ACHIEVEMENT_CHALLENGE_TAKER",
 			"ACHIEVEMENT_GREATEST_DAD",
@@ -543,23 +543,23 @@
 	"NPWR00472_00":{
 		"appid":209340,
 		"title":"Ride to Hell: Retribution",
-		"mapping":"ACHIEVEMENT_%d"
+		"map":"ACHIEVEMENT_%d"
 	},
 	"NPWR00481_00":{
 		"appid":12800,
 		"title":"FUEL™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00484_00":{
 		"appid":49540,
 		"title":"Aliens: Colonial Marines",
-		"mapping":"Achievement_%d",
+		"map":"Achievement_%d",
 		"note":"Steam achievements for DLC start at 51"
 	},
 	"NPWR00494_00":{
 		"appid":225260,
 		"title":"Brütal Legend",
-		"mapping":[
+		"map":[
 			"",
 			"Col_100Percent",
 			"Col_120Pots",
@@ -616,22 +616,22 @@
 	"NPWR00498_00":{
 		"appid":17480,
 		"title":"Command & Conquer™ Red Alert™ 3",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00499_00":{
 		"appid":17410,
 		"title":"Mirror's Edge™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00502_00":{
 		"appid":42670,
 		"title":"Singularity Trophies",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00504_00":{
 		"appid":27300,
 		"title":"SAW",
-		"mapping":[
+		"map":[
 			"",
 			"SA_PUZZLES_ITS_A_TRAP",
 			"SA_WORLD_PIGHEAD",
@@ -685,33 +685,33 @@
 	"NPWR00510_00":{
 		"appid":21980,
 		"title":"Call of Juarez: Bound in Blood",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00512_00":{
 		"appid":21070,
 		"title":"Wanted",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00513_00":{
 		"appid":297860,
 		"title":"Split/Second",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00518_00":{
 		"appid":24830,
 		"title":"The Godfather™ II",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00521_00":{
 		"appid":21010,
 		"title":"Watchmen",
-		"mapping":false,
+		"map":false,
 		"note":"Called ‘Watchmen: The End Is Nigh’ on Steam"
 	},
 	"NPWR00529_00":{
 		"appid":21640,
 		"title":"FLOCK!",
-		"mapping":[
+		"map":[
 			"ACHIEVEMENT_0",
 			"ACHIEVEMENT_1",
 			"ACHIEVEMENT_2",
@@ -729,26 +729,26 @@
 	},
 	"NPWR00530_00":{
 		"title":"Harry Potter and the Half-Blood Prince™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00533_00":{
 		"appid":7510,
 		"title":"X-Blades",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00534_00":{
 		"title":"Catan's Trophies",
-		"mapping":false,
+		"map":false,
 		"note":"This is not the Catan on Steam"
 	},
 	"NPWR00537_00":{
 		"title":"The Lord of the Rings: Conquest™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00541_00":{
 		"appid":23510,
 		"title":"Texas Cheat'em",
-		"mapping":[
+		"map":[
 			"PowerOfSuggestion",
 			"YouLowDownDirtyBeep",
 			"StickyFingers",
@@ -766,55 +766,55 @@
 	"NPWR00546_00":{
 		"appid":17430,
 		"title":"Need for Speed™ Undercover",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00551_00":{
 		"appid":12810,
 		"title":"Overlord II",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00556_00":{
 		"appid":3300,
 		"title":"Bejeweled 2",
-		"mapping":false,
+		"map":false,
 		"note":"Appears to be called ‘Bejeweled 2 Deluxe’ on Steam, yet either way no mapping."
 	},
 	"NPWR00560_00":{
 		"appid":34180,
 		"title":"Vancouver 2010™",
-		"mapping":false,
+		"map":false,
 		"note":"Called ‘Vancouver 2010: The Official Video Game of the Olympic Winter Games’ on Steam."
 	},
 	"NPWR00563_00":{
 		"appid":259170,
 		"title":"Alone In The Dark",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00567_00":{
 		"appid":42640,
 		"title":"Blur",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00570_00":{
 		"appid":3410,
 		"title":"Heavy Weapon",
-		"mapping":false,
+		"map":false,
 		"note":"‘Heavy Weapon Deluxe’ on Steam."
 	},
 	"NPWR00580_00":{
 		"appid":2620,
 		"title":"Call of Duty Classic Trophies",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00582_00":{
 		"appid":40920,
 		"title":"NBA 2K10",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00595_00":{
 		"appid":111300,
 		"title":"Smash Cars",
-		"mapping":[
+		"map":[
 			"Bronze Champion",
 			"Silver Champion",
 			"Gold Champion",
@@ -833,12 +833,12 @@
 	"NPWR00599_00":{
 		"appid":24870,
 		"title":"Need for Speed™ SHIFT",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00603_00":{
 		"appid":[22300,22370],
 		"title":"Fallout 3",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00607_00":{
 		"duplicate":"NPWR00352_00",
@@ -847,23 +847,23 @@
 	"NPWR00612_00":{
 		"appid":[8980,8950],
 		"title":"Borderlands™",
-		"mapping":"Achievement_%d",
+		"map":"Achievement_%d",
 		"note":"8950 appears to possibly be a defunct review appid? 1-50 is the main game. 51-55, 56-60, 61-70, 71-80 are the DLC updates."
 	},
 	"NPWR00621_00":{
 		"appid":35000,
 		"title":"MiNi NiNJAS™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00623_00":{
 		"appid":21080,
 		"title":"Terminator Salvation",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00626_00":{
 		"appid":35140,
 		"title":"Batman: Arkham Asylum",
-		"mapping":[
+		"map":[
 			"",
 			"NEW_ACHIEVEMENT_1_0",
 			"NEW_ACHIEVEMENT_1_1",
@@ -921,12 +921,12 @@
 	"NPWR00716_00":{
 		"appid":8140,
 		"title":"Tomb Raider: Underworld",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00722_00":{
 		"appid":8850,
 		"title":"BioShock 2",
-		"mapping":[
+		"map":[
 			"",
 			"ACHIEVEMENT_183",
 			"ACHIEVEMENT_182",
@@ -984,7 +984,7 @@
 	"NPWR00791_00":{
 		"appid":10180,
 		"title":"Modern Warfare® 2",
-		"mapping":[
+		"map":[
 			"",
 			"BACK_IN_THE_SADDLE",
 			"DANGER_CLOSE",
@@ -1042,7 +1042,7 @@
 	"NPWR00805_00":{
 		"appid":35700,
 		"title":"Trine",
-		"mapping":[
+		"map":[
 			"all_complete",
 			"complete_tutorial_level",
 			"collect_shards_tutorial1",
@@ -1082,7 +1082,7 @@
 	"NPWR00817_00":{
 		"appid":211420,
 		"title":"DARK SOULS",
-		"mapping":"ACH_%02d",
+		"map":"ACH_%02d",
 		"note":"Referred to as ‘DARK SOULS™: Prepare To Die™ Edition’ on Steam"
 	},
 	"NPWR00819_00":{
@@ -1097,13 +1097,13 @@
 	"NPWR00830_00":{
 		"appid":[9219,9200],
 		"title":"RAGE®",
-		"mapping":"ach_%d",
+		"map":"ach_%d",
 		"note":"9219 appears completely unused. Scorchers DLC maps to 51-60"
 	},
 	"NPWR00843_00":{
 		"appid":255870,
 		"title":"PixelJunk™ Shooter",
-		"mapping":[
+		"map":[
 			"E_TROPHY_TREASURE_HUNTER_1",
 			"E_TROPHY_TREASURE_HUNTER_2",
 			"E_TROPHY_TREASURE_HUNTER_3",
@@ -1123,7 +1123,7 @@
 	"NPWR00863_00":{
 		"appid":26800,
 		"title":"Braid",
-		"mapping":[
+		"map":[
 			"traversed2",
 			"traversed3",
 			"traversed4",
@@ -1141,7 +1141,7 @@
 	"NPWR00894_00":{
 		"appid":33230,
 		"title":"Assassin's Creed II™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR00982_00":{
 		"duplicate":"NPWR00582_00",
@@ -1150,7 +1150,7 @@
 	"NPWR00986_00":{
 		"appid":50620,
 		"title":"Darksiders",
-		"mapping":[
+		"map":[
 			"ACH_BFA",
 			"ACH_PRISON_BREAK",
 			"ACH_DEATH_DEALER",
@@ -1199,7 +1199,7 @@
 	"NPWR01006_00":{
 		"appid":24960,
 		"title":"Battlefield: Bad Company™ 2",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01012_00":{
 		"duplicate":"NPWR00626_00",
@@ -1213,18 +1213,18 @@
 	"NPWR01112_00":{
 		"appid":33320,
 		"title":"Prince of Persia: The Forgotten Sands™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01184_00":{
 		"appid":21130,
 		"title":"LEGO® Harry Potter™: Years 1-4",
-		"mapping":false,
+		"map":false,
 		"note":"Called ‘Lego Harry Potter’ on Steam"
 	},
 	"NPWR01217_00":{
 		"appid":65950,
 		"title":"NBA 2K11",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01220_00":{
 		"appid":31230,
@@ -1245,7 +1245,7 @@
 	"NPWR01235_00":{
 		"appid":[57400,200260],
 		"title":"Batman: Arkham City™",
-		"mapping":[
+		"map":[
 			"",
 			"NEW_ACHIEVEMENT_1_0",
 			"NEW_ACHIEVEMENT_1_1",
@@ -1303,7 +1303,7 @@
 	"NPWR01247_00":{
 		"appid":[42700,214630,42710,214640],
 		"title":"Call of Duty®: Black Ops",
-		"mapping":[
+		"map":[
 			"",
 			"SP_LVL_CUBA_CASTRO_ONESHOT",
 			"SP_WIN_CUBA",
@@ -1361,7 +1361,7 @@
 	"NPWR01251_00":{
 		"appid":332330,
 		"title":"PixelJunk™ Shooter 2",
-		"mapping":{
+		"map":{
 			"10":"E_TROPHY_OneSmallStep",
 			"12":"E_TROPHY_OneGiantLeap"
 		},
@@ -1370,21 +1370,21 @@
 	"NPWR01254_00":{
 		"appid":48190,
 		"title":"AC Brotherhood",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01269_00":{
 		"appid":47870,
 		"title":"Need for Speed™ Hot Pursuit",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01288_00":{
 		"title":"Harry Potter and the Deathly Hallows™ - Part 1",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01292_00":{
 		"appid":[17200,21100],
 		"title":"F.E.A.R. 3",
-		"mapping":[
+		"map":[
 			"",
 			"Complete_Prison",
 			"Complete_Slums",
@@ -1441,23 +1441,23 @@
 	},
 	"NPWR01348_00":{
 		"title":"The Lord of the Rings: Aragorn's Quest™",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01438_00":{
 		"appid":47780,
 		"title":"Dead Space™ 2",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01460_00":{
 		"appid":[22380,22490,72720],
 		"title":"Fallout: New Vegas",
-		"mapping":"A%02d",
+		"map":"A%02d",
 		"note":"22449 & 206540 are ignorable appids, and 72720 is the beta test (and only contains DLC Trophy Pack 1 achievements, lol what)"
 	},
 	"NPWR01478_00":{
 		"appid":8870,
 		"title":"BioShock Infinite",
-		"mapping":"Achievement_%d",
+		"map":"Achievement_%d",
 		"note":"DLC achievements are in the ACHIEVEMENT_%d range. whelp."
 	},
 	"NPWR01486_00":{
@@ -1468,12 +1468,12 @@
 	"NPWR01537_00":{
 		"appid":49520,
 		"title":"Borderlands 2",
-		"mapping":"Achievement_%d"
+		"map":"Achievement_%d"
 	},
 	"NPWR01605_00":{
 		"appid":[28050, 238010],
 		"title":"Deus Ex: Human Revolution",
-		"mapping":[
+		"map":[
 			"",
 			"FIRST_TAKEDOWN",
 			"OPPORTUNIST",
@@ -1540,17 +1540,17 @@
 	"NPWR01608_00":{
 		"appid":7000,
 		"title":"Tomb Raider: Legend",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01651_00":{
 		"appid":8000,
 		"title":"Tomb Raider: Anniversary",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01662_00":{
 		"appid":204100,
 		"title":"Max Payne 3",
-		"mapping":[
+		"map":[
 			"",
 			"SP_FEEL_THE_PAYNE",
 			"SP_SERIOUS_PAYNE",
@@ -1603,12 +1603,12 @@
 	"NPWR01682_00":{
 		"appid":367500,
 		"title":"Dragon's Dogma: Dark Arisen",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01719_00":{
 		"appid":600,
 		"title":"Portal 2",
-		"mapping":[
+		"map":[
 			"",
 			"ACH.SURVIVE_CONTAINER_RIDE",
 			"ACH.WAKE_UP",
@@ -1666,7 +1666,7 @@
 	"NPWR01721_00":{
 		"appid":204140,
 		"title":"All Zombies Must Die!",
-		"mapping":[
+		"map":[
 			"Achievement_KillAZombie",
 			"Achievement_LegionOfZombies",
 			"Achievement_FistOfFury",
@@ -1685,14 +1685,14 @@
 	"NPWR01767_00":{
 		"appid":[205100,219460,217980],
 		"title":"Dishonored",
-		"mapping":"Achievement_%d",
+		"map":"Achievement_%d",
 		"mapoffset":"-1",
 		"note":"219460 is the Press Edition, 217980 the Russian Edition"
 	},
 	"NPWR01770_00":{
 		"appid":204300,
 		"title":"Awesomenauts",
-		"mapping":{
+		"map":{
 			"0":"AT_01",
 			"1":"AT_02",
 			"2":"AT_03",
@@ -1714,26 +1714,26 @@
 	},
 	"NPWR01813_00":{
 		"title":"Need for Speed™ Most Wanted",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01835_00":{
 		"title":"Need for Speed™ The Run",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01862_00":{
 		"title":"Harry Potter and the Deathly Hallows™ - Part 2",
-		"mapping":false
+		"map":false
 	},
 	"NPWR01864_00":{
 		"appid":115320,
 		"title":"[PROTOTYPE®2]",
-		"mapping":"ACH_%d",
+		"map":"ACH_%d",
 		"mapoffset":"-1"
 	},
 	"NPWR02044_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2",
-		"mapping":[
+		"map":[
 			"platinum",
 			"surf",
 			"hazard",
@@ -1753,7 +1753,7 @@
 	"NPWR02059_00":{
 		"appid":[202970,202990,212910],
 		"title":"Call of Duty®: Black Ops II",
-		"mapping":[
+		"map":[
 			"",
 			"SP_COMPLETE_ANGOLA",
 			"SP_COMPLETE_MONSOON",
@@ -1811,27 +1811,27 @@
 	"NPWR02081_00":{
 		"appid":48000,
 		"title":"Limbo",
-		"mapping":"ACH_%d"
+		"map":"ACH_%d"
 	},
 	"NPWR02159_00":{
 		"appid":204120,
 		"title":"LEGO® Harry Potter™: Years 5-7",
-		"mapping":false
+		"map":false
 	},
 	"NPWR02249_00":{
 		"appid":207490,
 		"title":"Rayman® Origins",
-		"mapping":false
+		"map":false
 	},
 	"NPWR02284_00":{
 		"appid":201020,
 		"title":"NBA 2K12",
-		"mapping":false
+		"map":false
 	},
 	"NPWR02303_00":{
 		"appid":24240,
 		"title":"PAYDAY: The Heist",
-		"mapping":[
+		"map":[
 			"",
 			"diplomatic",
 			"eagle_eyes",
@@ -1879,7 +1879,7 @@
 	"NPWR02322_00":{
 		"appid":42680,
 		"title":"Modern Warfare® 3",
-		"mapping":[
+		"map":[
 			"",
 			"BACK_IN_THE_FIGHT",
 			"TOO_BIG_TO_FAIL",
@@ -1936,17 +1936,17 @@
 	"NPWR02323_00":{
 		"appid":32800,
 		"title":"The Lord of the Rings: War in the North",
-		"mapping":"%d"
+		"map":"%d"
 	},
 	"NPWR02350_00":{
 		"appid":201870,
 		"title":"AC Revelations",
-		"mapping":false
+		"map":false
 	},
 	"NPWR02540_00":{
 		"appid":215510,
 		"title":"Rocketbirds: Hardboiled Chicken",
-		"mapping":[
+		"map":[
 			"",
 			"finish-game-solo",
 			"finish-game-coop",
@@ -1982,7 +1982,7 @@
 	"NPWR02569_00":{
 		"appid":203160,
 		"title":"Tomb Raider",
-		"mapping":[
+		"map":[
 			"",
 			"NEW_ACHIEVEMENT_2_0",
 			"NEW_ACHIEVEMENT_2_1",
@@ -2040,7 +2040,7 @@
 	"NPWR02631_00":{
 		"appid":72850,
 		"title":"Skyrim",
-		"mapping":"NEW_ACHIEVEMENT_%d_0"
+		"map":"NEW_ACHIEVEMENT_%d_0"
 	},
 	"NPWR02836_00":{
 		"duplicate":"NPWR02249_00"
@@ -2051,29 +2051,29 @@
 	"NPWR02972_00":{
 		"appid":[202170,307690],
 		"title":"Sleeping Dogs™",
-		"mapping":"ACHIEVEMENT_%02d"
+		"map":"ACHIEVEMENT_%02d"
 	},
 	"NPWR02983_00":{
 		"appid":204120,
 		"title":"LEGO® Harry Potter™: Years 5-7",
-		"mapping":false,
+		"map":false,
 		"note":"Vita port, anyone?"
 	},
 	"NPWR02996_00":{
 		"appid":213330,
 		"title":"LEGO® Batman™ 2: DC Super Heroes",
-		"mapping":false,
+		"map":false,
 		"note":"Vita Edition."
 	},
 	"NPWR02997_00":{
 		"appid":213330,
 		"title":"LEGO® Batman™ 2: DC Super Heroes",
-		"mapping":false
+		"map":false
 	},
 	"NPWR03002_00":{
 		"appid":206370,
 		"title":"Tales from Space: Mutant Blobs Attack",
-		"mapping":"EAwards_%d"
+		"map":"EAwards_%d"
 	},
 	"NPWR03003_00":{
 		"duplicate":"NPWR02249_00"
@@ -2082,12 +2082,12 @@
 		"appid":260210,
 		"title":"Assassin's Creed® III Liberation",
 		"note":"Would map onto Assassin's Creed Liberation (which is strictly ‘Assassin's Creed® Liberation HD’ PC)",
-		"mapping":false
+		"map":false
 	},
 	"NPWR03138_00":{
 		"appid":208730,
 		"title":"Game of Thrones trophies",
-		"mapping":[
+		"map":[
 			"",
 			"ACH_Finish_Chapter01",
 			"ACH_Finish_Chapter02",
@@ -2144,7 +2144,7 @@
 	"NPWR03174_00":{
 		"appid":50650,
 		"title":"Darksiders II",
-		"mapping":[
+		"map":[
 			"BFA",
 			"CROW_CARRION",
 			"DUST_TO_DUST",
@@ -2200,7 +2200,7 @@
 	"NPWR03217_00":{
 		"appid":214510,
 		"title":"LEGO® The Lord of the Rings™",
-		"mapping":[
+		"map":[
 			"",
 			"COMPLETE_STORYEVENT1",
 			"COMPLETE_STORYEVENT2",
@@ -2255,7 +2255,7 @@
 	"NPWR03218_00":{
 		"appid":214510,
 		"title":"LEGO® The Lord of the Rings™",
-		"mapping":[
+		"map":[
 			"",
 			"COMPLETE_STORYEVENT1",
 			"COMPLETE_STORYEVENT2",
@@ -2293,7 +2293,7 @@
 	"NPWR03414_00":{
 		"appid":223450,
 		"title":"Dyad",
-		"mapping":[
+		"map":[
 			"Peking_Duck",
 			"Tune_In",
 			"Dyadic",
@@ -2326,17 +2326,17 @@
 	"NPWR03468_00":{
 		"appid":220240,
 		"title":"Far Cry® 3",
-		"mapping":false
+		"map":false
 	},
 	"NPWR03546_00":{
 		"appid":208480,
 		"title":"Assassin's Creed® III",
-		"mapping":false
+		"map":false
 	},
 	"NPWR03554_00":{
 		"appid":208200,
 		"title":"DOOM® 3",
-		"mapping":"ach_%d"
+		"map":"ach_%d"
 	},
 	"NPWR03602_00":{
 		"duplicate":"NPWR01813_00",
@@ -2345,7 +2345,7 @@
 	"NPWR03606_00":{
 		"appid":214490,
 		"title":"Alien: Isolation",
-		"mapping":[
+		"map":[
 			"",
 			"CA_PROGRESSION_01",
 			"CA_PROGRESSION_02",
@@ -2403,27 +2403,27 @@
 	"NPWR03709_00":{
 		"appid":219600,
 		"title":"NBA 2K13",
-		"mapping":false
+		"map":false
 	},
 	"NPWR03805_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™",
-		"mapping":"Achievement_%d"
+		"map":"Achievement_%d"
 	},
 	"NPWR03814_00":{
 		"appid":228300,
 		"title":"Remember Me™",
-		"mapping":"Achievement_%d"
+		"map":"Achievement_%d"
 	},
 	"NPWR03875_00":{
 		"title":"Call of Duty® Black Ops: Declassified",
-		"mapping":false,
+		"map":false,
 		"note":"Vita port, anyone?"
 	},
 	"NPWR03885_00":{
 		"appid":271590,
 		"title":"Grand Theft Auto V",
-		"mapping":[
+		"map":[
 			"",
 			"ACH00",
 			"ACH01",
@@ -2486,7 +2486,7 @@
 	"NPWR04105_00":{
 		"appid":215510,
 		"title":"Rocketbirds PS Vita",
-		"mapping":[
+		"map":[
 			"",
 			"finish-game-solo",
 			"finish-game-coop",
@@ -2523,12 +2523,12 @@
 	"NPWR04151_00":{
 		"appid":209000,
 		"title":"Batman™: Arkham Origins",
-		"mapping":"Achievement_%d"
+		"map":"Achievement_%d"
 	},
 	"NPWR04270_00":{
 		"appid":105600,
 		"title":"Terraria",
-		"mapping":[
+		"map":[
 			"",
 			"-1",
 			"NO_HOBO",
@@ -2574,12 +2574,12 @@
 	"NPWR04319_00":{
 		"appid":233270,
 		"title":"Far Cry® 3 Blood Dragon",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04363_00":{
 		"appid":220780,
 		"title":"Thomas Was Alone",
-		"mapping":[
+		"map":[
 			"finishGame",
 			"jump1600",
 			["ach0a", "ach0b"],
@@ -2601,7 +2601,7 @@
 	"NPWR04533_00":{
 		"appid":219150,
 		"title":"Hotline Miami",
-		"mapping":[
+		"map":[
 			"ACH_ACHIEVEMENT_WHORE",
 			"ACH_COMBO_BEGINNER",
 			"ACH_COMBO_INTERMEDIATE",
@@ -2642,12 +2642,12 @@
 	"NPWR04537_00":{
 		"appid":242550,
 		"title":"Rayman® Legends",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04544_00":{
 		"appid":209190,
 		"title":"Stealth Inc.",
-		"mapping":"Ach_1_%02d",
+		"map":"Ach_1_%02d",
 		"mapoffset":"+1",
 		"note":"a.k.a. Stealth Bastard Deluxe. TODO: we don’t currently support this awkward mapping, as main game: Ach_1_{00→12}, 13→21 are unmapped, dlc1: Ach_2_{00→6}, dlc2: unmapped. Playing around with a TODO overhaul of the json data atm…"
 	},
@@ -2657,11 +2657,11 @@
 	"NPWR04633_00":{
 		"appid":242050,
 		"title":"Assassin's Creed® IV Black Flag",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04720_00":{
 		"title":"Need for Speed™ Rivals",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04724_00":{
 		"duplicate":"NPWR05907_00",
@@ -2671,7 +2671,7 @@
 	"NPWR04738_00":{
 		"appid":206420,
 		"title":"Saints Row IV",
-		"mapping":[
+		"map":[
 			"",
 			"Zero Saints Thirty",
 			"Destroyer-In-Chief",
@@ -2731,7 +2731,7 @@
 	"NPWR04772_00":{
 		"appid":239350,
 		"title":"Spelunky",
-		"mapping":[
+		"map":[
 			"-1",
 			"ACH_SEEN_IT_ALL",
 			"ACH_SEEN_A_LOT",
@@ -2751,23 +2751,23 @@
 	"NPWR04773_00":{
 		"appid":255480,
 		"title":"NBA 2K14",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04787_00":{
 		"appid":260210,
 		"title":"Assassin's Creed® Liberation HD",
 		"note":"Would map onto Assassin's Creed Liberation. No duplicate because they don’t share 100% same Trophies.",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04841_00":{
 		"duplicate":"NPWR04633_00",
 		"title":"Assassin's Creed® IV Black Flag",
-		"mapping":false
+		"map":false
 	},
 	"NPWR04849_00":{
 		"appid":243780,
 		"title":"PixelJunk™ Monsters Ultimate HD",
-		"mapping":[
+		"map":[
 			"E_TROPHY_RAINBOW_TEAM",
 			"E_TROPHY_4_TREE_RAINBOW",
 			"E_TROPHY_GET_MEDIEVIL",
@@ -2795,7 +2795,7 @@
 	"NPWR04874_00":{
 		"appid":[209160,209170],
 		"title":"Call of Duty® Ghosts",
-		"mapping":[
+		"map":[
 			"",
 			"LEVEL_1",
 			"LEVEL_1A",
@@ -2853,12 +2853,12 @@
 	"NPWR05008_00":{
 		"appid":219680,
 		"title":"Proteus",
-		"mapping":false
+		"map":false
 	},
 	"NPWR05046_00":{
 		"appid":218620,
 		"title":"PAYDAY 2",
-		"mapping":[
+		"map":[
 			"",
 			"hot_wheels",
 			"fish_ai",
@@ -2922,7 +2922,7 @@
 	"NPWR05188_00":{
 		"appid":224460,
 		"title":"Contrast",
-		"mapping":[
+		"map":[
 			"ExtraLife2012",
 			"ACarouselOfBrokenDreams",
 			"ANewDimension",
@@ -2964,7 +2964,7 @@
 	"NPWR05348_00":{
 		"appid":204300,
 		"title":"Awesomenauts Assemble!",
-		"mapping":[
+		"map":[
 			"ATHUMILIATION",
 			"ATFIRSTBLOOD",
 			"ATMISER",
@@ -2992,7 +2992,7 @@
 	"NPWR05400_00":{
 		"appid":241930,
 		"title":"Middle-earth: Shadow of Mordor",
-		"mapping":[
+		"map":[
 			"",
 			"Domination",
 			"Ratbag",
@@ -3055,7 +3055,7 @@
 	"NPWR05431_00":{
 		"appid":108500,
 		"title":"Vessel",
-		"mapping":[
+		"map":[
 			"Achievement - global - create five fluro types",
 			"Achievement - global - fix all machines - factory",
 			"Achievement - 4.1.1 - seplunker",
@@ -3085,14 +3085,14 @@
 	"NPWR05526_00":{
 		"appid":224760,
 		"title":"FEZ",
-		"mapping":"Achievement_%02d",
+		"map":"Achievement_%02d",
 		"mapoffset":"+1",
 		"note":"PS3, Vita, and PS4 Edition."
 	},
 	"NPWR05556_00":{
 		"appid":[35720,202110],
 		"title":"Trine 2: Complete Story",
-		"mapping":[
+		"map":[
 			"platinum",
 			"level1_completed",
 			"level2_completed",
@@ -3158,13 +3158,13 @@
 	"NPWR05751_00":{
 		"appid":[236430,335300],
 		"title":"DARK SOULS Ⅱ",
-		"mapping":"ACHIEVEMENT_%02d",
+		"map":"ACHIEVEMENT_%02d",
 		"note":"We map this title onto both the original and the remake on Steam, as they are the same trophies, and if you have both, why not? n.b. Dark Souls 2 uses U+2161 on Sony’s platform, yet II on Valve’s. Which was a nice surprise, considering PSP+PS3 launched with locale-specific charsets in use. Likely due to poor Windows support for Unicode fonts, not that Steam tries hard to improve things."
 	},
 	"NPWR05887_00":{
 		"appid":285160,
 		"title":"LEGO® The Hobbit™",
-		"mapping":[
+		"map":[
 			"",
 			"COMPLETE_STORYEVENT1",
 			"COMPLETE_STORYEVENT2",
@@ -3209,13 +3209,13 @@
 	},
 	"NPWR05905_00":{
 		"title":"LEGO® The Hobbit™",
-		"mapping":false,
+		"map":false,
 		"note":"Vita Edition, diff mapping to NPWR05887_00."
 	},
 	"NPWR05907_00":{
 		"appid":267490,
 		"title":"Batman™: Arkham Origins Blackgate - Deluxe Edition",
-		"mapping":"STEAM_ACHIEVEMENT_%02d",
+		"map":"STEAM_ACHIEVEMENT_%02d",
 		"mapoffset":"-1"
 	},
 	"NPWR05962_00":{
@@ -3235,7 +3235,7 @@
 	"NPWR06048_00":{
 		"appid":277590,
 		"title":"Assassin's Creed® Freedom Cry",
-		"mapping":false
+		"map":false
 	},
 	"NPWR06059_00":{
 		"duplicate":"NPWR05188_00",
@@ -3245,7 +3245,7 @@
 	"NPWR06071_00":{
 		"duplicate":"NPWR06048_00",
 		"title":"Assassin's Creed® Freedom Cry",
-		"mapping":false
+		"map":false
 	},
 	"NPWR06087_00":{
 		"duplicate":"NPWR04544_00"
@@ -3258,7 +3258,7 @@
 	"NPWR06140_00":{
 		"appid":330830,
 		"title":"Tales from the Borderlands",
-		"mapping":[
+		"map":[
 			"",
 			"ACH_101_1_WELCOME_TO_PANDORA_KIDDOS",
 			"ACH_101_2_SELLING_SNOW_TO_ESKIMOS",
@@ -3301,7 +3301,7 @@
 	"NPWR06141_00":{
 		"appid":332330,
 		"title":"PixelJunk™ Shooter Ultimate",
-		"mapping":[
+		"map":[
 			"E_TROPHY_Platinum",
 			"E_TROPHY_CaveCleaner",
 			"E_TROPHY_CaveCleanerVeteran",
@@ -3334,7 +3334,7 @@
 	"NPWR06221_00":{
 		"appid":271590,
 		"title":"Grand Theft Auto V",
-		"mapping":[
+		"map":[
 			"",
 			"ACH00",
 			"ACH01",
@@ -3393,7 +3393,7 @@
 	"NPWR06254_00":{
 		"appid":274170,
 		"title":"Hotline Miami 2: Wrong Number",
-		"mapping":[
+		"map":[
 			"ACHIEVEMENT_WHORE",
 			"1-800-CLEARED",
 			"1-800-GETHELP",
@@ -3433,7 +3433,7 @@
 	"NPWR06512_00":{
 		"appid":313690,
 		"title":"LEGO® Batman™ 3",
-		"mapping":[
+		"map":[
 			"",
 			"ACHIEVEMENT_COMPLETE_STORYEVENT1",
 			"ACHIEVEMENT_COMPLETE_STORYEVENT2",
@@ -3480,13 +3480,13 @@
 	"NPWR06513_00":{
 		"appid":313690,
 		"title":"LEGO® Batman™ 3: Beyond Gotham",
-		"mapping":false,
+		"map":false,
 		"note":"Vita Edition, diff mapping to NPWR06512_00."
 	},
 	"NPWR06736_00":{
 		"appid":253030,
 		"title":"Race The Sun",
-		"mapping":[
+		"map":[
 			"SPARROW",
 			"SWALLOW",
 			"NIGHTHAWK",
@@ -3506,12 +3506,12 @@
 	"NPWR06740_00":{
 		"appid":261640,
 		"title":"Borderlands: The Pre-Sequel",
-		"mapping":"Achievement_%d"
+		"map":"Achievement_%d"
 	},
 	"NPWR06760_00":{
 		"appid":282350,
 		"title":"NBA 2K15",
-		"mapping":{
+		"map":{
 			"1":"-1",
 			"2":"-1",
 			"3":"-1",
@@ -3567,12 +3567,12 @@
 	"NPWR06804_00":{
 		"appid":298110,
 		"title":"Far Cry® 4",
-		"mapping":false
+		"map":false
 	},
 	"NPWR06877_00":{
 		"appid":282350,
 		"title":"NBA 2K15",
-		"mapping":[
+		"map":[
 			"",
 			"GAME_TRIPLE_DOUBLE",
 			"GAME_15_THREE_POINT_SHOTS",
@@ -3630,7 +3630,7 @@
 	"NPWR06916_00":{
 		"appid":267060,
 		"title":"Gravity Badgers",
-		"mapping":"com.walesinteractive.gravitybadgers.ach%02d",
+		"map":"com.walesinteractive.gravitybadgers.ach%02d",
 		"mapoffset":"+1"
 	},
 	"NPWR06922_00":{
@@ -3641,13 +3641,13 @@
 	"NPWR06955_00":{
 		"appid":298110,
 		"title":"Far Cry® 4",
-		"mapping":false,
+		"map":false,
 		"note":"PS4 Edition. Not mapped because it has no Steam achievements."
 	},
 	"NPWR07096_00":{
 		"appid":[209650,209660],
 		"title":"Advanced Warfare",
-		"mapping":[
+		"map":[
 			"",
 			"CARMA",
 			"CAMPAIGN_COMPLETE",
@@ -3714,7 +3714,7 @@
 	"NPWR07220_00":{
 		"appid":311560,
 		"title":"Assassin's Creed® Rogue",
-		"mapping":false
+		"map":false
 	},
 	"NPWR07228_00":{
 		"duplicate":"NPWR06140_00",
@@ -3724,7 +3724,7 @@
 	"NPWR07279_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™: Definitive Edition",
-		"mapping":[
+		"map":[
 			"",
 			"Achievement_1",
 			"Achievement_2",
@@ -3796,7 +3796,7 @@
 	"NPWR07486_00":{
 		"appid":35700,
 		"title":"Trine Enchanted Edition",
-		"mapping":{
+		"map":{
 			"0":"all_complete",
 			"1":"complete_tutorial_level",
 			"2":"-1",
@@ -3850,7 +3850,7 @@
 	"NPWR07545_00":{
 		"appid":332200,
 		"title":"Axiom Verge",
-		"mapping":[
+		"map":[
 			"",
 			"Xedur",
 			"Telal",
@@ -3886,7 +3886,7 @@
 	"NPWR07690_00":{
 		"appid":236090,
 		"title":"Dust: An Elysian Tail",
-		"mapping":[
+		"map":[
 			"",
 			"ACH_DefeatFuse",
 			"ACH_DefeatLady",
@@ -3923,7 +3923,7 @@
 	"NPWR07711_00":{
 		"appid":295790,
 		"title":"Never Alone",
-		"mapping":[
+		"map":[
 			"FinishedChapter00",
 			"FinishedChapter01",
 			"FinishedChapter02",
@@ -3944,7 +3944,7 @@
 	"NPWR07842_00":{
 		"appid":208750,
 		"title":"Apotheon",
-		"mapping":[
+		"map":[
 			"",
 			"Dolos",
 			"AgoraArmoury",
@@ -3990,13 +3990,13 @@
 	"NPWR07875_00":{
 		"appid":319630,
 		"title":"Life Is Strange™",
-		"mapping":"AC_%d",
+		"map":"AC_%d",
 		"note":"mapping is 1:1, all 60 are covered"
 	},
 	"NPWR07881_00":{
 		"appid":330840,
 		"title":"Game of Thrones",
-		"mapping":[
+		"map":[
 			"",
 			"ACHIEVEMENT_1_1",
 			"ACHIEVEMENT_1_2",
@@ -4055,7 +4055,7 @@
 	"NPWR07887_00":{
 		"appid":329380,
 		"title":"Stealth Inc 2: A Game of Clones",
-		"mapping":"TROPHY NAME %d",
+		"map":"TROPHY NAME %d",
 		"mapoffset":"+1"
 	},
 	"NPWR07892_00":{
@@ -4069,7 +4069,7 @@
 	"NPWR08041_00":{
 		"appid":250900,
 		"title":"The Binding of Isaac: Rebirth",
-		"mapping":[
+		"map":[
 			"",
 			"106",
 			"43",
@@ -4164,7 +4164,7 @@
 	"NPWR08266_00":{
 		"appid":354380,
 		"title":"Assassin's Creed® Chronicles: China",
-		"mapping":false
+		"map":false
 	},
 	"NPWR08334_00":{
 		"duplicate":"NPWR04537_00"
@@ -4172,7 +4172,7 @@
 	"NPWR08603_00":{
 		"appid":300580,
 		"title":"Galak-Z: The Dimensional",
-		"mapping":[
+		"map":[
 			"",
 			"ACHIEVEMENT_002",
 			"-1",
@@ -4187,7 +4187,7 @@
 	"NPWR08687_00":{
 		"appid":228960,
 		"title":"Skulls of the Shogun",
-		"mapping":[
+		"map":[
 			"Achievement01",
 			"Achievement02",
 			"Achievement03",
@@ -4219,12 +4219,12 @@
 	"NPWR08934_00":{
 		"appid":368500,
 		"title":"Assassin's Creed® Syndicate",
-		"mapping":false
+		"map":false
 	},
 	"NPWR09157_00":{
 		"appid":370240,
 		"title":"NBA 2K16",
-		"mapping":[
+		"map":[
 			"",
 			"GAME_TRIPLE_DOUBLE",
 			"GAME_15_THREE_POINT_SHOTS",
@@ -4282,7 +4282,7 @@
 	"NPWR09266_00":{
 		"appid":244870,
 		"title":"Electronic Super Joy",
-		"mapping":[
+		"map":[
 			"KILL_POPE",
 			"KILL_GLORG",
 			"KILL_WIZARD",
@@ -4298,7 +4298,7 @@
 	"NPWR09302_00":{
 		"appid":323320,
 		"title":"Grow Home",
-		"mapping":[
+		"map":[
 			"ACH_Seeds_All",
 			"ACH_Seed",
 			"ACH_Crystals",
@@ -4323,7 +4323,7 @@
 	"NPWR09530_00":{
 		"appid":300580,
 		"title":"Galak-Z: The Dimensional",
-		"mapping":"ACHIEVEMENT_0%02d",
+		"map":"ACHIEVEMENT_0%02d",
 		"note":"Interestingly, another variant (NPWR08603_00) has a different trophy order"
 	},
 	"NPWR09566_00":{
@@ -4334,12 +4334,12 @@
 	"NPWR09622_00":{
 		"appid":290340,
 		"title":"Armello",
-		"mapping":"ACH_100_0%02d"
+		"map":"ACH_100_0%02d"
 	},
 	"NPWR09730_00":{
 		"appid":40800,
 		"title":"Super Meat Boy",
-		"mapping":[
+		"map":[
 			"",
 			"ACH_WARP_1",
 			"ACH_WARP_5",
