@@ -84,8 +84,8 @@
 				'title'		=> 'is_string',
 				'duplicate'	=> 'is_npcommid',
 				'note'		=> 'is_string',
-				'map'	=> 'is_set',
-				'mapoffset'	=> 'is_string'
+				'map'		=> 'is_set',
+				'offset'	=> 'is_string'
 			);
 
 			foreach( $games as $appID => $keys ) {
@@ -178,6 +178,12 @@
 								// XXX rework this to confirm NO map exists
 								$this->assertTrue( $value === false, '"' . $key . '" is not a valid value' );
 							}
+						} else if ( $key === 'offset' ) {
+
+							// XXX verify "map" is set, and is using "%d" format
+							// XXX validate info inside to support:
+							// -count : basically to mask the current count (starts with 0)
+							// [+-][0-9]* : the offset to the passed in count
 						}
 					}
 				} else {

@@ -1686,7 +1686,7 @@
 		"appid":[205100,219460,217980],
 		"title":"Dishonored",
 		"map":"Achievement_%d",
-		"mapoffset":"-1",
+		"offset":"-1",
 		"note":"219460 is the Press Edition, 217980 the Russian Edition"
 	},
 	"NPWR01770_00":{
@@ -1728,7 +1728,7 @@
 		"appid":115320,
 		"title":"[PROTOTYPE®2]",
 		"map":"ACH_%d",
-		"mapoffset":"-1"
+		"offset":"-1"
 	},
 	"NPWR02044_00":{
 		"appid":[35720,202110],
@@ -2648,7 +2648,7 @@
 		"appid":209190,
 		"title":"Stealth Inc.",
 		"map":"Ach_1_%02d",
-		"mapoffset":"+1",
+		"offset":"+1",
 		"note":"a.k.a. Stealth Bastard Deluxe. TODO: we don’t currently support this awkward mapping, as main game: Ach_1_{00→12}, 13→21 are unmapped, dlc1: Ach_2_{00→6}, dlc2: unmapped. Playing around with a TODO overhaul of the json data atm…"
 	},
 	"NPWR04612_00":{
@@ -3086,7 +3086,7 @@
 		"appid":224760,
 		"title":"FEZ",
 		"map":"Achievement_%02d",
-		"mapoffset":"+1",
+		"offset":"+1",
 		"note":"PS3, Vita, and PS4 Edition."
 	},
 	"NPWR05556_00":{
@@ -3216,7 +3216,7 @@
 		"appid":267490,
 		"title":"Batman™: Arkham Origins Blackgate - Deluxe Edition",
 		"map":"STEAM_ACHIEVEMENT_%02d",
-		"mapoffset":"-1"
+		"offset":"-1"
 	},
 	"NPWR05962_00":{
 		"duplicate":"NPWR03606_00",
@@ -3631,7 +3631,7 @@
 		"appid":267060,
 		"title":"Gravity Badgers",
 		"map":"com.walesinteractive.gravitybadgers.ach%02d",
-		"mapoffset":"+1"
+		"offset":"+1"
 	},
 	"NPWR06922_00":{
 		"duplicate":"NPWR08041_00",
@@ -4056,7 +4056,7 @@
 		"appid":329380,
 		"title":"Stealth Inc 2: A Game of Clones",
 		"map":"TROPHY NAME %d",
-		"mapoffset":"+1"
+		"offset":"+1"
 	},
 	"NPWR07892_00":{
 		"duplicate":"NPWR06740_00",
