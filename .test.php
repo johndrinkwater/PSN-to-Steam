@@ -7,6 +7,19 @@
 		return isset( $variable );
 	}
 
+	function is_list( $variable ) {
+		if ( !is_array( $variable ) )
+			return false;
+		return array_keys( $variable ) === range( 0, count( $variable ) - 1 );
+	}
+
+	function is_assoc( $variable ) {
+		if ( !is_array( $variable ) )
+			return false;
+		$keys = array_keys( $variable );
+		return $keys !== array_keys( $keys );
+	}
+
 	function is_npcommid( $variable ) {
 
 		if ( is_string( $variable ) && preg_match( '/NPWR[0-9]{5}_[0-9]{2}/', $variable ) ) {
