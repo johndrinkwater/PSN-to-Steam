@@ -132,48 +132,7 @@
 
 						} else if ( $key === 'map' ) {
 
-							if ( is_array( $value ) ) {
-
-								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
-
-								// XXX: Found the first title that mapped Platinum to a Steam achievement, Trine!
-								// $this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
-
-								// Find accidental duplicates, remove "-1" entries and flatten multiple pairings
-								$valuesmapped = array_values( $value );
-								foreach( $valuesmapped as $index => $achievement ){
-
-									if ( $achievement == "-1" ) {
-										unset( $valuesmapped[ $index ] );
-									}
-									if ( is_array( $achievement ) ) {
-										$valuesmapped[ $index ] = implode( "-", $achievement );
-									}
-								}
-								$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping' );
-								unset( $valuesmapped );
-                                /*
-								$maps = $value;
-								ksort( $maps, SORT_NUMERIC );
-								if ( $value !== $maps ) {
-									$trophyKeys = array_keys( $value );
-									$trophySortedKeys = array_keys( $maps );
-									$cachedCount = count( $trophyKeys );
-									unset( $maps, $value );
-
-									for( $i = 0; $i < $cachedCount; ++$i ) {
-
-										$message = '';
-										if ( $trophyKeys[ $i ] !== $trophySortedKeys[ $i ] ) {
-
-											$where = array_search( $trophyKeys[ $i ], $trophySortedKeys ) - array_search( $trophySortedKeys[ $i ], $trophyKeys );
-											$message = $where > 0 ? $trophyKeys[ $i ] . '" is far too early' : ( $where == 0 ? $trophyKeys[ $i ] . '" is on an adjacent line' : $trophySortedKeys[ $i ] . '" is far too late' );
-										}
-										$this->assertEquals( $trophyKeys[ $i ], $trophySortedKeys[ $i ], 'Mapping must be sorted by trophyid, "' . $message );
-									}
-								} */
-
-							} else if ( is_string( $value ) ) {
+							if ( is_string( $value ) ) {
 
 								if ( strpos( $value, '%d' ) !== false ) {
 
@@ -185,11 +144,51 @@
 
 									$this->assertTrue( false, 'Value "' . $value . '" for "map" is not a valid map string' );
 								}
-							} else {
+
+							} else if ( is_bool( $value ) ) {
 
 								// for direct mappings, we use "map": false
 								// XXX rework this to confirm NO map exists
 								$this->assertTrue( $value === false, '"' . $key . '" is not a valid value' );
+
+							} else if ( is_list( $value ) ) {
+
+								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
+
+								// XXX: Found the first title that mapped Platinum to a Steam achievement, Trine!
+								// $this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
+
+								// Discover is we are a multi-grouped map
+								foreach( $value as $index => $group ){
+
+									if ( is_string( $group ) ) {
+
+									} else if ( is_assoc( $group ) ) {
+
+										// Our current process makes this recursive for an extra level…
+										// XXX break out duplicate test
+
+									} else if ( is_list( $group ) ) {
+
+										// Find accidental duplicates, remove "-1" entries and flatten multiple pairings
+										$valuesmapped = array_values( $group );
+										foreach( $valuesmapped as $index => $achievement ){
+
+											if ( $achievement == "-1" ) {
+												unset( $valuesmapped[ $index ] );
+											}
+											if ( is_array( $achievement ) ) {
+												$valuesmapped[ $index ] = implode( "-", $achievement );
+											}
+										}
+										$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping' );
+										unset( $valuesmapped );
+									}
+								}
+
+							} else {
+
+								// XXX We should never get here
 							}
 						} else if ( $key === 'offset' ) {
 
