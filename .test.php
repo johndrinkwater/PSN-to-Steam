@@ -116,8 +116,8 @@
 
 					foreach( $keys as $key => $value ) {
 
-						$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" in "' . $appID . '"' );
-						$this->assertTrue( $allowedKeys[ $key ]( $value ), '"' . $key . '" in "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
+						$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" for "' . $appID . '"' );
+						$this->assertTrue( $allowedKeys[ $key ]( $value ), '"' . $key . '" for "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
 
 						if ( $key === 'appid' ) {
 
@@ -125,15 +125,15 @@
 
 								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty array' );
 								foreach( $value as $steamappid ) {
-									$this->assertTrue( is_appid( $steamappid ), 'Entry "' . $steamappid . '" in "' . $key . '" for "' . $appID . '" must be a valid Steam appid' );
+									$this->assertTrue( is_appid( $steamappid ), 'Value "' . $steamappid . '" in "' . $key . '" for "' . $appID . '" must be a valid Steam appid' );
 								}
 							} else {
-								$this->assertTrue( is_appid( $value ), 'Entry "' . $value . '" in "' . $key . '" for "' . $appID . '" must be a valid Steam appid' );
+								$this->assertTrue( is_appid( $value ), 'Value "' . $value . '" in "' . $key . '" for "' . $appID . '" must be a valid Steam appid' );
 							}
 
 						} else if ( $key === 'note' ) {
 
-							$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty string' );
+							$this->assertNotEmpty( $value, '"' . $key . '" for "' . $appID . '" can not be an empty string' );
 
 						} else if ( $key === 'map' ) {
 
@@ -154,14 +154,14 @@
 
 								// for direct mappings, we use "map": false
 								// XXX rework this to confirm NO map exists
-								$this->assertTrue( $value === false, '"' . $key . '" is not a valid value' );
+								$this->assertTrue( $value === false, 'Key "' . $key . '" for "' . $appID . '" is not a valid value' );
 
 							} else if ( is_list( $value ) ) {
 
-								$this->assertNotEmpty( $value, '"' . $key . '" in "' . $appID . '" can not be an empty array' );
+								$this->assertNotEmpty( $value, 'Key "' . $key . '" for "' . $appID . '" can not be an empty array' );
 
 								// XXX: Found the first title that mapped Platinum to a Steam achievement, Trine!
-								// $this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" in "' . $appID . '" has an achievement mapped to Platinum trophy' );
+								// $this->assertFalse( array_key_exists( "0", $value ), '"' . $key . '" for "' . $appID . '" has an achievement mapped to Platinum trophy' );
 
 								// Discover is we are a multi-grouped map
 								foreach( $value as $index => $group ){
@@ -186,7 +186,7 @@
 												$valuesmapped[ $index ] = implode( "-", $achievement );
 											}
 										}
-										$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" in "' . $appID . '" has a duplicate mapping' );
+										$this->assertTrue( count( $valuesmapped ) === count( array_unique( $valuesmapped ) ), '"' . $key . '" for "' . $appID . '" has a duplicate mapping' );
 										unset( $valuesmapped );
 									}
 								}
@@ -204,7 +204,7 @@
 						}
 					}
 				} else {
-					$this->assertTrue( false, 'Entry "' . $appID . '" has an invalid value' );
+					$this->assertTrue( false, 'Value "' . $appID . '" has an invalid value' );
 				}
 			}
 
