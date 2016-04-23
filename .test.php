@@ -125,10 +125,10 @@
 
 								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty array' );
 								foreach( $value as $steamappid ) {
-									$this->assertTrue( is_appid( $steamappid ), $steamappid . ' field in "' . $key . '" in "' . $appID . '" must be a Steam appid' );
+									$this->assertTrue( is_appid( $steamappid ), 'Entry "' . $steamappid . '" in "' . $key . '" for "' . $appID . '" must be a valid Steam appid' );
 								}
 							} else {
-								$this->assertTrue( is_appid( $value ), $key . ' key in "' . $appID . '" must be a Steam appid' );
+								$this->assertTrue( is_appid( $value ), 'Entry "' . $value . '" in "' . $key . '" for "' . $appID . '" must be a valid Steam appid' );
 							}
 
 						} else if ( $key === 'note' ) {
@@ -204,7 +204,7 @@
 						}
 					}
 				} else {
-					$this->assertTrue( false, 'Key "' . $appID . '" has an invalid value' );
+					$this->assertTrue( false, 'Entry "' . $appID . '" has an invalid value' );
 				}
 			}
 
