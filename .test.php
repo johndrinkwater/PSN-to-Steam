@@ -30,6 +30,11 @@
 		return false;
 	}
 
+	function is_appid( $variable ) {
+
+		return is_integer( $variable );
+	}
+
 	class PSNSteamTest extends PHPUnit_Framework_TestCase {
 
 		public function testFileExists( ) {
@@ -120,10 +125,10 @@
 
 								$this->assertNotEmpty( $value, '"' . $key . '" can not be an empty array' );
 								foreach( $value as $steamappid ) {
-									$this->assertTrue( is_integer( $steamappid ), $steamappid . ' field in "' . $key . '" in "' . $appID . '" must be a Steam appid' );
+									$this->assertTrue( is_appid( $steamappid ), $steamappid . ' field in "' . $key . '" in "' . $appID . '" must be a Steam appid' );
 								}
 							} else {
-								$this->assertTrue( is_integer( $value ), $key . ' key in "' . $appID . '" must be a Steam appid' );
+								$this->assertTrue( is_appid( $value ), $key . ' key in "' . $appID . '" must be a Steam appid' );
 							}
 
 						} else if ( $key === 'note' ) {
