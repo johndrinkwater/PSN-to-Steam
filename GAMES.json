@@ -90,7 +90,7 @@
 		"title":"Red Faction: Guerrilla",
 		"map":[
 			"",
-			"Welcome to Mars",
+			[ "Welcome to Mars",
 			"You're in the Faction Now",
 			"Red Faction Controls: Parker",
 			"Red Faction Controls: Dust",
@@ -141,7 +141,11 @@
 			"Wrecking Ball",
 			"Red Faction Member"
 		],
-		"note":"TODO map DLC"
+			{
+				"name":"Demon's of the Badlands",
+				"map":[ "Bound by Blood", "Family Vengeance", "A Greater Purpose", "Deliverance Defender", "Tumbling Down", "Mobile Bombs", "Structural Integrity", "Purge the Valley", "Ares' Bloodlust", "The Power of One" ]
+			}
+		]
 	},
 	"NPWR00257_00":{
 		"appid":243780,
