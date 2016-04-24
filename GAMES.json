@@ -833,7 +833,7 @@
 	"NPWR00595_00":{
 		"appid":111300,
 		"title":"Smash Cars",
-		"map":[
+		"map":[ [
 			"Bronze Champion",
 			"Silver Champion",
 			"Gold Champion",
@@ -845,9 +845,13 @@
 			"Race Ace",
 			"Smash Cars Superstar",
 			"Smart Driver",
-			"Safe Driver"
-		],
-		"note":"Virus Run DLC not on Steam"
+			"Safe Driver" ],
+			{
+				"name":"Virus Run",
+				"map":false,
+				"length":7
+			}
+		]
 	},
 	"NPWR00599_00":{
 		"appid":24870,
