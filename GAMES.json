@@ -298,7 +298,7 @@
 	"NPWR00350_00":{
 		"appid":105800,
 		"title":"PixelJunk™ Eden / Encore",
-		"map":[
+		"map":[ [
 			"ACH_STAGE_FULL_SEED_OPEN1",
 			"ACH_STAGE_FULL_SEED_OPEN2",
 			"ACH_STAGE_FULL_SEED_OPEN3",
@@ -316,9 +316,14 @@
 			"ACH_POLLEN_X100000",
 			"ACH_ENEMIES_KILLED_X500",
 			"ACH_SPEEDY_GRIMP",
-			"ACH_TIME_CAPSULE_X15"
+			"ACH_TIME_CAPSULE_X15", "-1", "-1" ],
+			{
+				"name":"Encore",
+				"map":[ "ACH_STAGE_FULL_SEED_OPEN11", "ACH_STAGE_FULL_SEED_OPEN12", "ACH_STAGE_FULL_SEED_OPEN13", "ACH_STAGE_FULL_SEED_OPEN14", "ACH_STAGE_FULL_SEED_OPEN15", "ACH_ALL_TREASURE1", "ACH_DOUBLE_SPECTRA", "ACH_THREE_ON_ONE", "ACH_SEED_OPEN_X10", "ACH_BANK_SHOT", "ACH_PEAK_POSITION", "ACH_TIME_CAPSULE_X30"
+				]
+			}
 		],
-		"note":"18 ‘Zero Wasted Pollen’ and 19 ‘Three Play Ping Pong’ do not map onto achievements. TODO map Encore DLC"
+		"note":"18 ‘Zero Wasted Pollen’ and 19 ‘Three Play Ping Pong’ do not map onto achievements."
 	},
 	"NPWR00352_00":{
 		"appid":7670,
