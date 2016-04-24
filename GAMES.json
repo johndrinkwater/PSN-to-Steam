@@ -562,8 +562,18 @@
 	"NPWR00484_00":{
 		"appid":49540,
 		"title":"Aliens: Colonial Marines",
-		"map":"Achievement_%d",
-		"note":"Steam achievements for DLC start at 51"
+		"map":[
+			"",
+			{
+				"map":"Achievement_%d",
+				"length":50
+			},
+			{
+				"name":"Stasis Interrupted",
+				"map":"Achievement_%d",
+				"length":10
+			}
+		]
 	},
 	"NPWR00494_00":{
 		"appid":225260,
