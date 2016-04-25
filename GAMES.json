@@ -951,7 +951,7 @@
 		"title":"BioShock 2",
 		"map":[
 			"",
-			"ACHIEVEMENT_183",
+			[ "ACHIEVEMENT_183",
 			"ACHIEVEMENT_182",
 			"ACHIEVEMENT_184",
 			"ACHIEVEMENT_185",
@@ -1000,9 +1000,27 @@
 			"ACHIEVEMENT_177",
 			"ACHIEVEMENT_178",
 			"ACHIEVEMENT_181",
-			"ACHIEVEMENT_193"
-		],
-		"note":"Steam achievements for DLC start at 200"
+			"ACHIEVEMENT_193" ],
+			{
+				"name":"Rapture Metro Pack",
+				"map":"ACHIEVEMENT_%d",
+				"offset":"group+200",
+				"length":3
+			},
+			{
+				"name":"Protector Trials",
+				"map":"ACHIEVEMENT_%d",
+				"offset":"group+203",
+				"length":7
+			},
+			{
+				"name":"Minerva's Den",
+				"appid":244610,
+				"map":"ACHIEVEMENT_%d",
+				"offset":"group+210",
+				"length":8
+			}
+		]
 	},
 	"NPWR00791_00":{
 		"appid":10180,
