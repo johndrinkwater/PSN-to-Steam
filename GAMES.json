@@ -1138,8 +1138,20 @@
 	"NPWR00830_00":{
 		"appid":[9219,9200],
 		"title":"RAGE®",
-		"map":"ach_%d",
-		"note":"9219 appears completely unused. Scorchers DLC maps to 51-60"
+		"map":[
+			"",
+			{
+				"map":"ach_%d",
+				"length":50
+			},
+			{
+				"name":"RAGE® The Scorchers",
+				"appid":209460,
+				"map":"ach_%d",
+				"length":10
+			}
+		],
+		"note":"9219 appears completely unused."
 	},
 	"NPWR00843_00":{
 		"appid":255870,
