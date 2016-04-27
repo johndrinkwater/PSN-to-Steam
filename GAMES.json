@@ -1457,8 +1457,31 @@
 	"NPWR01478_00":{
 		"appid":8870,
 		"title":"BioShock Infinite",
-		"map":"Achievement_%d",
-		"note":"DLC achievements are in the ACHIEVEMENT_%d range. whelp."
+		"map":[
+			"",
+			{
+				"map":"Achievement_%d",
+				"length":50
+			},
+			{
+				"name":"Clash in the Clouds",
+				"appid":214930,
+				"map":"ACHIEVEMENT_%d",
+				"length":10
+			},
+			{
+				"name":"Burial at Sea - Episode 1",
+				"appid":214931,
+				"map":"ACHIEVEMENT_%d",
+				"length":10
+			},
+			{
+				"name":"Burial at Sea - Episode 2",
+				"appid":214932,
+				"map":"ACHIEVEMENT_%d",
+				"length":10
+			}
+		]
 	},
 	"NPWR01486_00":{
 		"duplicate":"NPWR00612_00",
