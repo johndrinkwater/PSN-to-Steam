@@ -1498,7 +1498,7 @@
 		"title":"Deus Ex: Human Revolution",
 		"map":[
 			"",
-			"FIRST_TAKEDOWN",
+			["FIRST_TAKEDOWN",
 			"OPPORTUNIST",
 			"FIRST_HACK",
 			"HAX0R1",
@@ -1546,19 +1546,23 @@
 			"THE_FALL",
 			"ACE_ATTORNEY",
 			"LADIES_MAN",
-			"BALLS",
-			"FIX_LIFE_POD",
-			"REVISIT_MY_POD",
-			"RIFLEMEN_BANK_STATION",
-			"USE_ALL_SMART_PUCKS",
-			"SAVE_EVERYONE_PRISON",
-			"QUINN_SECRET_ROOM",
-			"TAKEDOWN_BURKE",
-			"BULLSHIT_BULLSHITER",
-			"FACTORY_ZERO",
-			"BACK_ON_TRACK"
-		],
-		"note":"DLC 1 (50-59) is enabled with appid 201280"
+			"BALLS" ],
+			{
+				"name":"The Missing Link",
+				"appid":201280,
+				"map":[ "FIX_LIFE_POD",
+					"REVISIT_MY_POD",
+					"RIFLEMEN_BANK_STATION",
+					"USE_ALL_SMART_PUCKS",
+					"SAVE_EVERYONE_PRISON",
+					"QUINN_SECRET_ROOM",
+					"TAKEDOWN_BURKE",
+					"BULLSHIT_BULLSHITER",
+					"FACTORY_ZERO",
+					"BACK_ON_TRACK" ],
+				"length":10
+			}
+		]
 	},
 	"NPWR01608_00":{
 		"appid":7000,
