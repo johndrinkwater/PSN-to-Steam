@@ -520,6 +520,7 @@
 			},
 			{
 				"name":"Stasis Interrupted",
+				"appid":219443,
 				"map":"Achievement_%d",
 				"length":10
 			}
