@@ -1719,20 +1719,20 @@
 	"NPWR01770_00":{
 		"appid":204300,
 		"title":"Awesomenauts",
-		"map":{
-			"0":"AT_01",
-			"1":"AT_02",
-			"2":"AT_03",
-			"3":"-1",
-			"4":"AT_05",
-			"5":"ATKILLINGSPREE1",
-			"6":"AT_07",
-			"7":"AT_08",
-			"8":"AT_09",
-			"9":"ATMEETTHEAWESOMENAUTS",
-			"10":"ATKILLTURRET1",
-			"11":"ATKILLCREEPS3"
-		},
+		"map":[
+			"AT_01",
+			"AT_02",
+			"AT_03",
+			"-1",
+			"AT_05",
+			"ATKILLINGSPREE1",
+			"AT_07",
+			"AT_08",
+			"AT_09",
+			"ATMEETTHEAWESOMENAUTS",
+			"ATKILLTURRET1",
+			"ATKILLCREEPS3"
+		],
 		"note":"‘Slimer's evil twin’ is not mapped as the Steam achievements expanded to increments of 10, 30, 100. Of note, could map it to setting stat ATSTAT_SOLARBOSS_KILLS to 1 if < 1"
 	},
 	"NPWR01782_00":{
