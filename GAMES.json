@@ -821,8 +821,38 @@
 	"NPWR00612_00":{
 		"appid":[8980,8950],
 		"title":"Borderlands™",
-		"map":"Achievement_%d",
-		"note":"8950 appears to possibly be a defunct review appid? 1-50 is the main game. 51-55, 56-60, 61-70, 71-80 are the DLC updates."
+		"map":[
+			"",
+			{
+				"map":"Achievement_%d",
+				"length":50
+			},
+			{
+				"name":"Zombie Island of Dr. Ned",
+				"appid":8990,
+				"map":"Achievement_%d",
+				"length":5
+			},
+			{
+				"name":"Mad Moxxi's Underdome Riot",
+				"appid":40940,
+				"map":"Achievement_%d",
+				"length":5
+			},
+			{
+				"name":"The Secret Armory of General Knoxx",
+				"appid":50110,
+				"map":"Achievement_%d",
+				"length":10
+			},
+			{
+				"name":"Claptrap's New Robot Revolution",
+				"appid":65920,
+				"map":"Achievement_%d",
+				"length":10
+			}
+		],
+		"note":"8950 appears to possibly be a defunct review appid?"
 	},
 	"NPWR00621_00":{
 		"appid":35000,
