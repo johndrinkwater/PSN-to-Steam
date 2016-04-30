@@ -1522,7 +1522,37 @@
 	"NPWR01537_00":{
 		"appid":49520,
 		"title":"Borderlands 2",
-		"map":"Achievement_%d"
+		"map":[
+			"",
+			{
+				"map":"Achievement_%d",
+				"length":50
+			},
+			{
+				"name":"Captain Scarlett and her Pirate's Booty",
+				"appid":207870,
+				"map":"Achievement_%d",
+				"length":3
+			},
+			{
+				"name":"Mr. Torgue's Campaign of Carnage",
+				"appid":213210,
+				"map":"Achievement_%d",
+				"length":3
+			},
+			{
+				"name":"Sir Hammerlock's Big Game Hunt",
+				"appid":213250,
+				"map":"Achievement_%d",
+				"length":3
+			},
+			{
+				"name":"Tiny Tina's Assault on Dragon Keep",
+				"appid":218550,
+				"map":"Achievement_%d",
+				"length":10
+			}
+		]
 	},
 	"NPWR01605_00":{
 		"appid":[28050, 238010],
