@@ -101,7 +101,7 @@
 		"appid":243780,
 		"title":"PixelJunk™ Monsters and Encore",
 		"map":[
-			"E_TROPHY_RAINBOW_TEAM",
+			[ "E_TROPHY_RAINBOW_TEAM",
 			"E_TROPHY_4_TREE_RAINBOW",
 			"E_TROPHY_GET_MEDIEVIL",
 			"E_TROPHY_TOWER_COLLECTED",
@@ -114,7 +114,11 @@
 			"E_TROPHY_MONEY_GRABBER",
 			"E_TROPHY_CONSTRUCTION_EXPERT",
 			"E_TROPHY_WAVE_GOODBYE",
-			"E_TROPHY_DEEP_IMPACT"
+			"E_TROPHY_DEEP_IMPACT" ],
+			{
+				"name":"Encore",
+				"map":[ "E_TROPHY_BLACK_FLAG", "E_TROPHY_SCROOGES_RETURN", "E_TROPHY_WISHING_WELL", "E_TROPHY_ZERO_CARAT", "E_TROPHY_LUCKY_FIND" ]
+			}
 		],
 		"note":"Maps onto ‘PixelJunk™ Monsters Ultimate’ on Steam"
 	},
