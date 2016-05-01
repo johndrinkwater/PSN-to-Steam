@@ -865,7 +865,7 @@
 		"map":false
 	},
 	"NPWR00626_00":{
-		"appid":35140,
+		"appid":[35010,35140],
 		"title":"Batman: Arkham Asylum",
 		"map":[
 			"",
@@ -879,7 +879,8 @@
 				"offset":"group",
 				"length":15
 			}
-		]
+		],
+		"note":"35140 is an updated GOTY variant, 35010 is the original that forwards to 35140."
 	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
