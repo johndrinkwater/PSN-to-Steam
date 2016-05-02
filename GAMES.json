@@ -180,7 +180,7 @@
 		"title":"Kane & Lynch 2: Dog Days",
 		"map":[
 			"",
-			"SIAI_COMPLETE_CHAP_01",
+			[ "SIAI_COMPLETE_CHAP_01",
 			"SIAI_COMPLETE_CHAP_02",
 			"SIAI_COMPLETE_CHAP_03",
 			"SIAI_COMPLETE_CHAP_04",
@@ -230,7 +230,12 @@
 			"SIAI_MP_MOST_VALUEABLE",
 			"SIAI_MP_PROFILE_TRUST_MAX",
 			"SIAI_MP_PROFILE_TRUST_MIN",
-			"-1"
+			"-1" ],
+			{
+				"name":"Doggie Bag",
+				"appid":28010,
+				"map":[ "SIAI_DLC_MP_HEIST_K9_FIREPOWER", "SIAI_DLC_MP_HEIST_ESCAPE_FROM_THE_POUND", "SIAI_DLC_MP_HEIST_LAST_IN_SHOW", "SIAI_DLC_MP_HEIST_RABID", "SIAI_DLC_FA_UNDER_DOG", "SIAI_DLC_MP_WORK_GOOD_DOGGY", "SIAI_DLC_MP_HEIST_THE_DOG_TRACK", "SIAI_DLC_MP_REX", "SIAI_DLC_MP_POODLE" ]
+			}
 		],
 		"note":"Love of the Game appears to be missing on Steam, interesting."
 	},
