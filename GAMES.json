@@ -326,7 +326,7 @@
 		"title":"RESIDENT EVIL 5",
 		"map":[
 			"",
-			"ACH_CHAPTER11_CLEAR",
+			[ "ACH_CHAPTER11_CLEAR",
 			"ACH_CHAPTER12_CLEAR",
 			"ACH_CHAPTER21_CLEAR",
 			"ACH_CHAPTER22_CLEAR",
@@ -375,7 +375,22 @@
 			"ACH_CRASH_MAKER",
 			"ACH_KILLER_SMELL",
 			"ACH_HEART_ATTACK",
-			"ACH_TRUE_TRUST"
+			"ACH_TRUE_TRUST" ],
+			{
+				"name":"Versus Pack",
+				"appid":352000,
+				"map":[ "ACH_SLAYERS", "ACH_SURVIVORS", "ACH_TEAM_SLAYERS", "ACH_TEAM_SURVIVORS", "ACH_COMBO_MASTER", "ACH_COMBO_MASTER_DUO", "ACH_SCORE_ATTACK", "ACH_SCORE_ATTACK_DUO", "ACH_CHARACTER_COMPLETE", "ACH_VAIR_KNUCKLE" ]
+			},
+			{
+				"name":"Lost in Nightmares",
+				"appid":352000,
+				"map":[ "ACH_LN_CLEAR", "ACH_LN_CLEAR_S", "ACH_LN_CLEAR_PRO", "ACH_WESKERS_FURY", "ACH_SCORE_HANTER" ]
+			},
+			{
+				"name":"Desperate Escape",
+				"appid":352000,
+				"map":[ "ACH_DE_CLEAR", "ACH_DE_CLEAR_S", "ACH_DE_CLEAR_PRO", "ACH_BATTLE_MASTER", "ACH_HEAD_HUNTING" ]
+			}
 		]
 	},
 	"NPWR00419_00":{
