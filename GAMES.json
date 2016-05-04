@@ -526,7 +526,18 @@
 	"NPWR00472_00":{
 		"appid":209340,
 		"title":"Ride to Hell: Retribution",
-		"map":"ACHIEVEMENT_%d"
+		"map":[
+			{
+				"map":"ACHIEVEMENT_%d",
+				"length":38
+			},
+			{
+				"name":"Ride to Hell: Retribution Cook's Recipe for Disaster",
+				"appid":209343,
+				"map":"ACHIEVEMENT_%d",
+				"length":10
+			}
+		]
 	},
 	"NPWR00481_00":{
 		"appid":12800,
