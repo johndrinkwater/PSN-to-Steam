@@ -566,7 +566,7 @@
 		"title":"Brütal Legend",
 		"map":[
 			"",
-			"Col_100Percent",
+			[ "Col_100Percent",
 			"Col_120Pots",
 			"Col_1Upgrade",
 			"Col_40Pots",
@@ -615,7 +615,11 @@
 			"Prog_Campaign_Hard",
 			"Whimsy_Mastadon",
 			"Whimsy_AnimalRide",
-			"Stage_HardestAI"
+			"Stage_HardestAI" ],
+			{
+				"name":"Hammer of Infinite Fate",
+				"map":[ "DLC1_Ram", "DLC1_Blood", "DLC1_Tear", "DLC1_Whisper", "DLC1_Beard", "DLC1_Face", "DLC1_Tourist", "DLC1_Champion", "DLC1_Sendoff" ]
+			}
 		]
 	},
 	"NPWR00498_00":{
