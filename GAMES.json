@@ -1323,11 +1323,11 @@
 		"note":"Steam release appears to be missing achievements for: ‘Forensic Expert’, ‘Distress Flare’, ‘Ring Ring’, ‘Gotham Base Jumper’, ‘Catch’, and ‘50x combo’. Also to note the Campaign and Revenge medal images are reversed between PSN and Steam. Seems Catwoman Pack is bundled in with main game on Steam."
 	},
 	"NPWR01247_00":{
-		"appid":[42700,214630,42710,214640],
+		"appid":[42700,214630],
 		"title":"Call of Duty®: Black Ops",
 		"map":[
 			"",
-			"SP_LVL_CUBA_CASTRO_ONESHOT",
+			[ "SP_LVL_CUBA_CASTRO_ONESHOT",
 			"SP_WIN_CUBA",
 			"SP_LVL_VORKUTA_VEHICULAR",
 			"SP_LVL_VORKUTA_SLINGSHOT",
@@ -1365,20 +1365,42 @@
 			"SP_VWIN_FULLAHEAD",
 			"SP_VWIN_RIVER",
 			"SP_VWIN_UNDERWATERBASE",
-			"SP_GEN_FOUNDFILMS",
-			"MP_FILM_CREATED",
-			"MP_WAGER_MATCH",
-			"MP_PLAY",
-			"SP_ZOM_COLLECTOR",
+			"SP_GEN_FOUNDFILMS" ],
+			{
+				"appid":[42710,214640],
+				"map": [ "MP_FILM_CREATED", "MP_WAGER_MATCH", "MP_PLAY" ],
+				"note":"Call of Duty: Black Ops - Multiplayer"
+			},
+			[ "SP_ZOM_COLLECTOR",
 			"SP_ZOM_NODAMAGE",
 			"SP_ZOM_TRAPS",
 			"SP_ZOM_SILVERBACK",
 			"SP_ZOM_FLAMINGBULL",
 			"SP_ZOM_CHICKENS",
 			"SP_LVL_FRONTEND_CHAIR",
-			"SP_LVL_FRONTEND_ZORK"
+			"SP_LVL_FRONTEND_ZORK" ],
+			{
+				"name":"Call of Duty: Black Ops - First Strike",
+				"appid":[42716,214646],
+				"map":[ "DLC2_ZOM_LUNARLANDERS", "DLC2_ZOM_BLACKHOLE", "DLC2_ZOM_PACKAPUNCH", "DLC2_ZOM_FIREMONKEY" ]
+			},
+			{
+				"name":"Call of Duty: Black Ops - Escalation",
+				"appid":[42718,214648],
+				"map":[ "DLC3_ZOM_STAND_IN", "DLC3_ZOM_ENSEMBLE_CAST", "DLC3_ZOM_STUNTMAN", "DLC3_ZOM_SHOOTING_ON_LOCATION", "DLC3_ZOM_QUIET_ON_THE_SET" ]
+			},
+			{
+				"name":"Call of Duty: Black Ops - Annihilation",
+				"appid":[42723,214644],
+				"map":[ "DLC4_ZOM_TEMPLE_SIDEQUEST", "DLC4_ZOM_BLINDED_BY_THE_FRIGHT", "DLC4_ZOM_ZOMB_DISPOSAL", "DLC4_ZOM_MONKEY_SEE_MONKEY_DONT", "DLC4_ZOM_SMALL_CONSOLATION" ]
+			},
+			{
+				"name":"Call of Duty: Black Ops - Rezurrection",
+				"appid":[42719,214649],
+				"map":[ "DLC5_ZOM_CRYOGENIC_PARTY", "DLC5_ZOM_ONE_SMALL_HACK", "DLC5_ZOM_ONE_GIANT_LEAP", "DLC5_ZOM_PERKS_IN_SPACE", "DLC5_ZOM_FULLY_ARMED", "DLC5_ZOM_GROUND_CONTROL" ]
+			}
 		],
-		"note":"214630 is Aspyr’s OSX appid, 42710 for multiplayer, 214640 for OSX multiplayer. ‘Date Night’, ‘In The Money’, and ‘Ready For Deployment’ are mapped onto the MP appids, due to a limitation(?) in our listings, we merge them all together. The OSX multiplayer is lacking ‘Date Night’"
+		"note":"214630 is Aspyr’s OSX appid, 42710 for multiplayer, 214640 for OSX multiplayer. ‘Date Night’, ‘In The Money’, and ‘Ready For Deployment’ are mapped onto the MP appids. The OSX multiplayer is lacking ‘Date Night’. One of the few games with an extra achievement rather than trophy - ‘Big Bang Theory’."
 	},
 	"NPWR01251_00":{
 		"appid":332330,
