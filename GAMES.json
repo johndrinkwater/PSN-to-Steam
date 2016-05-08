@@ -1649,7 +1649,7 @@
 		"title":"Max Payne 3",
 		"map":[
 			"",
-			"SP_FEEL_THE_PAYNE",
+			[ "SP_FEEL_THE_PAYNE",
 			"SP_SERIOUS_PAYNE",
 			"SP_MAXIMUM_PAYNE",
 			"SP_FEELS_NO_PAYNE",
@@ -1694,7 +1694,27 @@
 			"THE_GAMBLER",
 			"SWEEP",
 			"TRAINING_COMPLETE",
-			"DEAREST_OF_ALL_MY_FRIENDS"
+			"DEAREST_OF_ALL_MY_FRIENDS" ],
+			{
+				"name":"Local Justice Pack",
+				"appid":211520,
+				"map":[ "DLC2_AIR_ACE", "DLC2_EXPRESS_CHECKOUT", "DLC2_LONG_ARM_LAW", "DLC2_M4_MURDER", "DLC2_NOSE_CLEAN" ]
+			},
+			{
+				"name":"Hostage Negotiation Pack",
+				"appid":211521,
+				"map":[ "DLC5_OLD_SCHOOL_MOVES", "DLC4_EARLY_ADOPTER", "DLC4_WMD", "DLC4_60_SECONDS_OF_INTIMIDATION" ]
+			},
+			{
+				"name":"Painful Memories Pack",
+				"appid":211522,
+				"map":[ "DLC5_LONG_ARM_LAWLESS", "DLC5_BAR_BRAWLER", "DLC5_OUCH_MY_HEAD", "DLC5_WELCOME_ABOARD", "DLC5_DRINKERS_REVENGE" ]
+			},
+			{
+				"name":"Deathmatch Made in Heaven Pack",
+				"appid":211523,
+				"map":[ "DL6_3_BLIND_MICE", "DLC6_SWEATY_BETTY", "DLC6_BETTY_CONFETTI", "DLC6_RESISTING_ARREST", "DLC6_BREAKING_AND_ENTERING", "DLC6_IT_LOOKED_EASY_ENOUGH", "DLC6_BREAKING_THE_4TH" ]
+			}
 		]
 	},
 	"NPWR01682_00":{
