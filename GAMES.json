@@ -1802,8 +1802,35 @@
 	"NPWR01767_00":{
 		"appid":[205100,219460,217980],
 		"title":"Dishonored",
-		"map":"Achievement_%d",
-		"offset":"-1",
+		"map":[
+			"",
+			{
+				"map":"Achievement_%d",
+				"offset":"-1",
+				"length":50
+			},
+			{
+				"name":"Dunwall City Trials",
+				"appid":[208570,218784],
+				"map":"Achievement_%d",
+				"offset":"-1",
+				"length":10
+			},
+			{
+				"name":"The Knife of Dunwall",
+				"appid":[208575,218785],
+				"map":"Achievement_%d",
+				"offset":"-1",
+				"length":10
+			},
+			{
+				"name":"The Brigmore Witches",
+				"appid":[212894,218786],
+				"map":"Achievement_%d",
+				"offset":"-1",
+				"length":10
+			}
+		],
 		"note":"219460 is the Press Edition, 217980 the Russian Edition"
 	},
 	"NPWR01770_00":{
