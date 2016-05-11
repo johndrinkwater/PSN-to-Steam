@@ -1999,7 +1999,7 @@
 		"title":"PAYDAY: The Heist",
 		"map":[
 			"",
-			"diplomatic",
+			[ "diplomatic",
 			"eagle_eyes",
 			"cheney",
 			"intimidating",
@@ -2032,15 +2032,13 @@
 			"i_pushed_the_button_and_lived",
 			"noob_herder",
 			"dont_lose_face",
-			"payday",
-			"crowd_control",
-			"detective_gadget",
-			"quick_hands",
-			"the_saviour",
-			"blow_out",
-			"pacifist"
-		],
-		"note":"TODO: Trophies 35-40 are part of the DLC, and have been mapped to the correct Steam achievements."
+			"payday" ],
+			{
+				"name":"WOLF PACK",
+				"appid":207815,
+				"map":[ "crowd_control", "det_gadget", "quick_hands", "saviour", "blow_out", "pacifist" ]
+			}
+		]
 	},
 	"NPWR02322_00":{
 		"appid":42680,
