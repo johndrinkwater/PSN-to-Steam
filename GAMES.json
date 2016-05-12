@@ -2045,7 +2045,7 @@
 		"title":"Modern Warfare® 3",
 		"map":[
 			"",
-			"BACK_IN_THE_FIGHT",
+			[ "BACK_IN_THE_FIGHT",
 			"TOO_BIG_TO_FAIL",
 			"WET_WORK",
 			"CARPE_DIEM",
@@ -2094,7 +2094,32 @@
 			"NO_ASSISTANCE_REQUIRED",
 			"BRAG_RAGS",
 			"TACTICIAN",
-			"OVERACHIEVER"
+			"OVERACHIEVER" ],
+			{
+				"name":"Modern Warfare® 3 - Black Ice and Negotiator",
+				"appid":42695,
+				"map":[ "SHOTGUN_DIPLOMACY", "NOT_ON_MY_WATCH", "SKILLED_NEGOTIATOR", "SLIPPERY_SLOPE", "A_BAKERS_DOZEN", "ICE_IN_YOUR_VEINS" ]
+			},
+			{
+				"name":"Modern Warfare® 3 - Iron Clad and Kill Switch",
+				"appid":42696,
+				"map":[ "DONT_TREAD_ON_ME", "HIGH_ROLLER", "NOT_A_SCRATCH", "ONE_FOUR_ONE", "HELIPOCALYPSE_NOW", "EMPRESSIVE" ]
+			},
+			{
+				"name":"Modern Warfare® 3 - Arctic Recon",
+				"appid":42697,
+				"map":[ "STAY_FROSTY", "SUB_ZERO", "DR0N3D" ]
+			},
+			{
+				"name":"Modern Warfare® 3 - Vertigo",
+				"appid":42697,
+				"map":[ "APEX", "PINNACLE", "FLYSWATTER", "TO_JUGGER_OR_TO_JUGGER_NAUT" ]
+			},
+			{
+				"name":"Modern Warfare® 3 - Special Delivery and Light 'Em Up",
+				"appid":42697,
+				"map":[ "HANDLE_WITH_CARE", "DELIVER_THIS", "DISCRIMINATING_BUYER", "UNTOUCHABLE", "SIEGE", "LIGHTS_OUT", "DEER_IN_THE_HEADLIGHTS" ]
+			}
 		]
 	},
 	"NPWR02323_00":{
