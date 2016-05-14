@@ -2189,7 +2189,31 @@
 	"NPWR02631_00":{
 		"appid":72850,
 		"title":"Skyrim",
-		"map":"NEW_ACHIEVEMENT_%d_0"
+		"map":[
+			"",
+			{
+				"map":"NEW_ACHIEVEMENT_%d_0",
+				"length":50
+			},
+			{
+				"name":"Dawnguard",
+				"appid":211720,
+				"map":"NEW_ACHIEVEMENT_%d_0",
+				"length":10
+			},
+			{
+				"name":"Hearthfire",
+				"appid":220760,
+				"map":"NEW_ACHIEVEMENT_%d_0",
+				"length":5
+			},
+			{
+				"name":"Dragonborn",
+				"appid":226880,
+				"map":"NEW_ACHIEVEMENT_%d_0",
+				"length":10
+			}
+		]
 	},
 	"NPWR02836_00":{
 		"duplicate":"NPWR02249_00"
