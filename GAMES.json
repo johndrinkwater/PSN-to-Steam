@@ -2224,7 +2224,25 @@
 	"NPWR02972_00":{
 		"appid":[202170,307690],
 		"title":"Sleeping Dogs™",
-		"map":"ACHIEVEMENT_%02d"
+		"map":[
+			"",
+			{
+				"map":"ACHIEVEMENT_%02d",
+				"length":50
+			},
+			{
+				"name":"Nightmare in North Point",
+				"appid":[215256,307690],
+				"map":"ACHIEVEMENT_%02d",
+				"length":5
+			},
+			{
+				"name":"Year of the Snake",
+				"appid":[215257,307690],
+				"map":"ACHIEVEMENT_%02d",
+				"length":4
+			}
+		]
 	},
 	"NPWR02983_00":{
 		"appid":204120,
