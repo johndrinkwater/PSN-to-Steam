@@ -2599,7 +2599,19 @@
 	"NPWR03805_00":{
 		"appid":220440,
 		"title":"DmC Devil May Cry™",
-		"map":"Achievement_%d"
+		"map":[
+			"",
+			{
+				"map":"Achievement_%d",
+				"length":48
+			},
+			{
+				"name":"Vergil's Downfall",
+				"appid":[223793,223794],
+				"map":"Achievement_%d",
+				"length":10
+			}
+		]
 	},
 	"NPWR03814_00":{
 		"appid":228300,
