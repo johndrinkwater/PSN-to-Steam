@@ -2481,6 +2481,17 @@
 		"duplicate":"NPWR03138_00",
 		"title":"Game of Thrones trophies"
 	},
+	"NPWR03297_00":{
+		"appid":211670,
+		"title":"007™ Legends",
+		"map":[
+			"",
+			{
+				"map":"ACHIEVEMENT_%02d",
+				"length":50
+			}
+		]
+	},
 	"NPWR03414_00":{
 		"appid":223450,
 		"title":"Dyad",
