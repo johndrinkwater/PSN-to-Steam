@@ -921,6 +921,11 @@
 		],
 		"note":"35140 is an updated GOTY variant, 35010 is the original that forwards to 35140."
 	},
+	"NPWR00629_00":{
+		"appid":21600,
+		"title":"Age of Booty",
+		"map":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
