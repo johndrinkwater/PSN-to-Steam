@@ -926,6 +926,11 @@
 		"title":"Age of Booty",
 		"map":false
 	},
+	"NPWR00633_00":{
+		"appid":32420,
+		"title":"Star Wars™ The Clone Wars™ Republic Heroes™ Trophies",
+		"map":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
