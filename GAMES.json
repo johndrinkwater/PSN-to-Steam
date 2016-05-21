@@ -1009,6 +1009,11 @@
 			}
 		]
 	},
+	"NPWR00661_00":{
+		"appid":42730,
+		"title":"James Bond 007: Blood Stone",
+		"map":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
