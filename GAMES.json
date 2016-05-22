@@ -1014,6 +1014,11 @@
 		"title":"James Bond 007: Blood Stone",
 		"map":false
 	},
+	"NPWR00686_00":{
+		"appid":21030,
+		"title":"Watchmen: The End Is Nigh Part 2",
+		"map":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
