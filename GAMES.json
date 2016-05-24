@@ -1066,6 +1066,40 @@
 			"ACH_ONEMANARMY"
 		]
 	},
+	"NPWR00672_00":{
+		"appid":43000,
+		"title":"Front Mission Evolved™",
+		"map":[
+			"",
+			"ACH_ampwarrior",
+			"ACH_antartica",
+			"ACH_aroundworld",
+			"ACH_babel",
+			"ACH_constantine",
+			"ACH_destruction",
+			"ACH_diversityrocks",
+			"ACH_easylogistics",
+			"ACH_edgemaster",
+			"ACH_fortmonus",
+			"ACH_greatshot",
+			"ACH_grittycomp",
+			"ACH_infinityplus",
+			"ACH_leadexample",
+			"ACH_lookinggreat",
+			"ACH_lookingwell",
+			"ACH_herozero",
+			"ACH_noborders",
+			"ACH_percival",
+			"ACH_petals",
+			"ACH_powerdevice",
+			"ACH_powerhuman",
+			"ACH_teamplayer",
+			"ACH_thecanyon",
+			"ACH_theshow",
+			"ACH_ultzephyr",
+			"ACH_wickedshot"
+		]
+	},
 	"NPWR00686_00":{
 		"appid":21030,
 		"title":"Watchmen: The End Is Nigh Part 2",
