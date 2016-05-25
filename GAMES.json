@@ -1100,6 +1100,28 @@
 			"ACH_wickedshot"
 		]
 	},
+	"NPWR00675_00":{
+		"appid":55140,
+		"title":"MX vs ATV Reflex Trophies",
+		"map":[
+			"",
+			{
+				"map":"ACHIEVEMENT_CAREER_%02d",
+				"length":23
+			},
+			{
+				"map":"ACHIEVEMENT_ONLINE_%02d",
+				"offset":"group+1",
+				"length":7
+			},
+			[ "ACHIEVEMENT_TUTORIAL_01", "ACHIEVEMENT_TUTORIAL_02", "ACHIEVEMENT_TRICKS_01", "ACHIEVEMENT_TRICKS_02", "ACHIEVEMENT_FREESTYLE_01", "ACHIEVEMENT_FREESTYLE_02" ],
+			{
+				"map":"ACHIEVEMENT_MISC_%02d",
+				"offset":"group+1",
+				"length":12
+			}
+		]
+	},
 	"NPWR00686_00":{
 		"appid":21030,
 		"title":"Watchmen: The End Is Nigh Part 2",
