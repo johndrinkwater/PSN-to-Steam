@@ -1132,6 +1132,11 @@
 		"title":"Ashes Cricket 2009",
 		"map":false
 	},
+	"NPWR00698_00":{
+		"appid":45710,
+		"title":"Dark Void",
+		"map":false
+	},
 	"NPWR00703_00":{
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
