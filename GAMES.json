@@ -1203,6 +1203,11 @@
 		"duplicate":"NPWR00512_00",
 		"title":"Wanted"
 	},
+	"NPWR00715_00":{
+		"appid":2270,
+		"title":"Wolfenstein 3D",
+		"map":false
+	},
 	"NPWR00716_00":{
 		"appid":8140,
 		"title":"Tomb Raider: Underworld",
