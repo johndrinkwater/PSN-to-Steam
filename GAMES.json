@@ -1213,6 +1213,25 @@
 		"title":"Tomb Raider: Underworld",
 		"map":false
 	},
+	"NPWR00719_00":{
+		"appid":48950,
+		"title":"Greed Corp",
+		"map":[
+			"Achievement_ManualOverride",
+			"Achievement_OneAtATime",
+			"Achievement_FinanciallyIndependent",
+			"Achievement_UseItWisely",
+			"Achievement_MovingThroughTheRanks",
+			"Achievement_FearOfFlying",
+			"Achievement_WithCannonYouCan",
+			"Achievement_IslandOfDoom",
+			"Achievement_LostInTheWave",
+			"Achievement_GlobalWarfare",
+			"Achievement_DaylightSaving",
+			"Achievement_GotItCovered"
+		],
+		"note":"‘Walking in a winter wonderland’ achievement doesn’t exist on PlayStation."
+	},
 	"NPWR00722_00":{
 		"appid":8850,
 		"title":"BioShock 2",
