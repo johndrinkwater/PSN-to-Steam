@@ -1802,6 +1802,21 @@
 		"title":"The Lord of the Rings: Aragorn's Quest™",
 		"map":false
 	},
+	"NPWR01413_00":{
+		"appid":22650,
+		"title":"Alien Breed 2: Assault",
+		"map":[
+			"",
+			{
+				"map":"ACH_%02d",
+				"length":11
+			},
+			{
+				"map":"-1",
+				"length":19
+			}
+		]
+	},
 	"NPWR01438_00":{
 		"appid":47780,
 		"title":"Dead Space™ 2",
