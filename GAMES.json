@@ -1862,6 +1862,22 @@
 		"title":"Borderlands™: Game of the Year Edition",
 		"note":"This is lacking the final DLC Borderlands™ had, ‘Claptrap's New Robot Revolution’, so 71‒80 will be unset"
 	},
+	"NPWR01488_00":{
+		"appid":22670,
+		"title":"Alien Breed 3: Descent",
+		"map":[
+			"",
+			{
+				"map":"ACH_%02d",
+				"length":12
+			},
+			{
+				"map":"-1",
+				"length":22
+			}
+		],
+		"note":"‘Immobilised’ and ‘Frag-master’ have half the requirements on PlayStation, but eh."
+	},
 	"NPWR01537_00":{
 		"appid":49520,
 		"title":"Borderlands 2",
