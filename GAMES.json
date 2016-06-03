@@ -1324,6 +1324,30 @@
 		],
 		"note":"‘Time to Party’ achievement doesn’t exist on PlayStation, and 14 trophies just plain do not exist on Steam."
 	},
+	"NPWR00727_00":{
+		"appid":20820,
+		"title":"Shatter",
+		"map":[
+			"LAUNCH_MULTIPLE_BALLS",
+			"TRIGGER_SHARD_STORM",
+			"COMPLETE_WORLD_01",
+			"COMPLETE_WORLD_02",
+			"COMPLETE_WORLD_03",
+			"COMPLETE_WORLD_04",
+			"COMPLETE_WORLD_05",
+			"COMPLETE_WORLD_06",
+			"COMPLETE_WORLD_07",
+			"COMPLETE_WORLD_08",
+			"COMPLETE_WORLD_09",
+			"COMPLETE_WORLD_10",
+			"DESTROY_LAST_BRICK_WITH_NEW_SHARD_STORM",
+			"COLLECT_95_PERCENT_OF_SHARDS_FOR_A_WAVE",
+			"COMPLETE_A_WAVE_WITHOUT_GUST_VORTEX_OR_SHARD_STORM",
+			"COMPLETE_ALL_WORLDS_WITHOUT_A_CONTINUE",
+			"COMPLETE_BOSS_MODE_IN_UNDER_10_MINUTES",
+			"SCORE_10000000_OR_MORE_IN_BONUS_MODE"
+		]
+	},
 	"NPWR00791_00":{
 		"appid":10180,
 		"title":"Modern Warfare® 2",
