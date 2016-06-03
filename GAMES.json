@@ -1348,6 +1348,11 @@
 			"SCORE_10000000_OR_MORE_IN_BONUS_MODE"
 		]
 	},
+	"NPWR00730_00":{
+		"appid":3480,
+		"title":"Peggle",
+		"map":false
+	},
 	"NPWR00791_00":{
 		"appid":10180,
 		"title":"Modern Warfare® 2",
