@@ -1358,6 +1358,17 @@
 		"title":"Death Track: Resurrection",
 		"map":false
 	},
+	"NPWR00741_00":{
+		"appid":21970,
+		"title":"R.U.S.E.",
+		"map":[
+			"",
+			{
+				"map":"ACHIEVEMENT_%02d",
+				"length":50
+			}
+		]
+	},
 	"NPWR00746_00":{
 		"appid":300820,
 		"title":"Toy Story 3",
