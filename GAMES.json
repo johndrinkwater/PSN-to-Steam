@@ -1387,6 +1387,25 @@
 		},
 		"note":"‘Captain on the Bridge’ and ‘Dreadnought’ are only on Steam."
 	},
+	"NPWR00765_00":{
+		"appid":204360,
+		"title":"Castle Crashers",
+		"map":[
+			"ACH_KISS",
+			"ACH_TRADITIONAL",
+			"ACH_THETRAITOR",
+			"ACH_DEERTRAINER",
+			"ACH_CONOBJECTOR",
+			"ACH_MAXFIREPOWR",
+			"ACH_ANMLTRAINER",
+			"ACH_ARENAMASTER",
+			"-1",
+			"ACH_MELEEISBEST",
+			"ACH_TREASURHNTR",
+			"ACH_MEDIC",
+			"-1"
+		]
+	},
 	"NPWR00771_00":{
 		"appid":33270,
 		"title":"CLOUDY WITH A CHANCE OF MEATBALLS™",
