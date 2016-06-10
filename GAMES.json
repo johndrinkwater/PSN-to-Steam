@@ -1959,6 +1959,11 @@
 			}
 		]
 	},
+	"NPWR01436_00":{
+		"duplicate":"NPWR00772_00",
+		"title":"Mafia II",
+		"note":"Additional region variant [JP]."
+	},
 	"NPWR01438_00":{
 		"appid":47780,
 		"title":"Dead Space™ 2",
